@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="A2 unit 3 Articles">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#263238" flood-opacity=".16"/>
+    </filter>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".55"/>
+      <stop offset=".65" stop-color="#FFFFFF" stop-opacity=".08"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="18" y="18" width="124" height="124" rx="28" fill="#FFFDF7" filter="url(#shadow)"/>
+  <path d="M32 120c19-14 44-19 72-12 17 4 31-1 40-15v49H32v-22Z" fill="#F36F5B" opacity=".22"/>
+  <circle cx="80" cy="64" r="34" fill="#F36F5B"/>
+  <text x="80" y="76" text-anchor="middle" font-family="Nunito Sans, Inter, sans-serif" font-weight="900" font-size="36" fill="#FFFDF7">D</text>
+  <text x="42" y="39" font-family="Nunito Sans, Inter, sans-serif" font-weight="900" font-size="18" fill="#263238">A2</text>
+  <text x="118" y="39" text-anchor="end" font-family="Nunito Sans, Inter, sans-serif" font-weight="900" font-size="18" fill="#2F6F6D">U3</text>
+  <text x="80" y="126" text-anchor="middle" font-family="Nunito Sans, Inter, sans-serif" font-weight="800" font-size="12" fill="#263238">Articles</text>
+
+</svg>

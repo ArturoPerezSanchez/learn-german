@@ -1,0 +1,4584 @@
+{
+  "name": "Extended German Learning App Asset Pack",
+  "generatedOn": "2026-06-25",
+  "format": "SVG assets generated from project design tokens",
+  "categories": {
+    "achievements": {
+      "count": 100,
+      "items": [
+        {
+          "id": "first-step-bronze",
+          "file": "achievements/first-step-bronze.svg",
+          "recommendedUse": "First Step achievement badge.",
+          "tags": [
+            "bronze",
+            "1st"
+          ]
+        },
+        {
+          "id": "first-step-silver",
+          "file": "achievements/first-step-silver.svg",
+          "recommendedUse": "First Step achievement badge.",
+          "tags": [
+            "silver",
+            "1st"
+          ]
+        },
+        {
+          "id": "first-step-gold",
+          "file": "achievements/first-step-gold.svg",
+          "recommendedUse": "First Step achievement badge.",
+          "tags": [
+            "gold",
+            "1st"
+          ]
+        },
+        {
+          "id": "first-step-green",
+          "file": "achievements/first-step-green.svg",
+          "recommendedUse": "First Step achievement badge.",
+          "tags": [
+            "green",
+            "1st"
+          ]
+        },
+        {
+          "id": "first-step-purple",
+          "file": "achievements/first-step-purple.svg",
+          "recommendedUse": "First Step achievement badge.",
+          "tags": [
+            "purple",
+            "1st"
+          ]
+        },
+        {
+          "id": "word-builder-bronze",
+          "file": "achievements/word-builder-bronze.svg",
+          "recommendedUse": "Word Builder achievement badge.",
+          "tags": [
+            "bronze",
+            "Vocab"
+          ]
+        },
+        {
+          "id": "word-builder-silver",
+          "file": "achievements/word-builder-silver.svg",
+          "recommendedUse": "Word Builder achievement badge.",
+          "tags": [
+            "silver",
+            "Vocab"
+          ]
+        },
+        {
+          "id": "word-builder-gold",
+          "file": "achievements/word-builder-gold.svg",
+          "recommendedUse": "Word Builder achievement badge.",
+          "tags": [
+            "gold",
+            "Vocab"
+          ]
+        },
+        {
+          "id": "word-builder-green",
+          "file": "achievements/word-builder-green.svg",
+          "recommendedUse": "Word Builder achievement badge.",
+          "tags": [
+            "green",
+            "Vocab"
+          ]
+        },
+        {
+          "id": "word-builder-purple",
+          "file": "achievements/word-builder-purple.svg",
+          "recommendedUse": "Word Builder achievement badge.",
+          "tags": [
+            "purple",
+            "Vocab"
+          ]
+        },
+        {
+          "id": "article-ace-bronze",
+          "file": "achievements/article-ace-bronze.svg",
+          "recommendedUse": "Article Ace achievement badge.",
+          "tags": [
+            "bronze",
+            "Der"
+          ]
+        },
+        {
+          "id": "article-ace-silver",
+          "file": "achievements/article-ace-silver.svg",
+          "recommendedUse": "Article Ace achievement badge.",
+          "tags": [
+            "silver",
+            "Der"
+          ]
+        },
+        {
+          "id": "article-ace-gold",
+          "file": "achievements/article-ace-gold.svg",
+          "recommendedUse": "Article Ace achievement badge.",
+          "tags": [
+            "gold",
+            "Der"
+          ]
+        },
+        {
+          "id": "article-ace-green",
+          "file": "achievements/article-ace-green.svg",
+          "recommendedUse": "Article Ace achievement badge.",
+          "tags": [
+            "green",
+            "Der"
+          ]
+        },
+        {
+          "id": "article-ace-purple",
+          "file": "achievements/article-ace-purple.svg",
+          "recommendedUse": "Article Ace achievement badge.",
+          "tags": [
+            "purple",
+            "Der"
+          ]
+        },
+        {
+          "id": "verb-hero-bronze",
+          "file": "achievements/verb-hero-bronze.svg",
+          "recommendedUse": "Verb Hero achievement badge.",
+          "tags": [
+            "bronze",
+            "Verb"
+          ]
+        },
+        {
+          "id": "verb-hero-silver",
+          "file": "achievements/verb-hero-silver.svg",
+          "recommendedUse": "Verb Hero achievement badge.",
+          "tags": [
+            "silver",
+            "Verb"
+          ]
+        },
+        {
+          "id": "verb-hero-gold",
+          "file": "achievements/verb-hero-gold.svg",
+          "recommendedUse": "Verb Hero achievement badge.",
+          "tags": [
+            "gold",
+            "Verb"
+          ]
+        },
+        {
+          "id": "verb-hero-green",
+          "file": "achievements/verb-hero-green.svg",
+          "recommendedUse": "Verb Hero achievement badge.",
+          "tags": [
+            "green",
+            "Verb"
+          ]
+        },
+        {
+          "id": "verb-hero-purple",
+          "file": "achievements/verb-hero-purple.svg",
+          "recommendedUse": "Verb Hero achievement badge.",
+          "tags": [
+            "purple",
+            "Verb"
+          ]
+        },
+        {
+          "id": "sentence-maker-bronze",
+          "file": "achievements/sentence-maker-bronze.svg",
+          "recommendedUse": "Sentence Maker achievement badge.",
+          "tags": [
+            "bronze",
+            "Satz"
+          ]
+        },
+        {
+          "id": "sentence-maker-silver",
+          "file": "achievements/sentence-maker-silver.svg",
+          "recommendedUse": "Sentence Maker achievement badge.",
+          "tags": [
+            "silver",
+            "Satz"
+          ]
+        },
+        {
+          "id": "sentence-maker-gold",
+          "file": "achievements/sentence-maker-gold.svg",
+          "recommendedUse": "Sentence Maker achievement badge.",
+          "tags": [
+            "gold",
+            "Satz"
+          ]
+        },
+        {
+          "id": "sentence-maker-green",
+          "file": "achievements/sentence-maker-green.svg",
+          "recommendedUse": "Sentence Maker achievement badge.",
+          "tags": [
+            "green",
+            "Satz"
+          ]
+        },
+        {
+          "id": "sentence-maker-purple",
+          "file": "achievements/sentence-maker-purple.svg",
+          "recommendedUse": "Sentence Maker achievement badge.",
+          "tags": [
+            "purple",
+            "Satz"
+          ]
+        },
+        {
+          "id": "listening-star-bronze",
+          "file": "achievements/listening-star-bronze.svg",
+          "recommendedUse": "Listening Star achievement badge.",
+          "tags": [
+            "bronze",
+            "Audio"
+          ]
+        },
+        {
+          "id": "listening-star-silver",
+          "file": "achievements/listening-star-silver.svg",
+          "recommendedUse": "Listening Star achievement badge.",
+          "tags": [
+            "silver",
+            "Audio"
+          ]
+        },
+        {
+          "id": "listening-star-gold",
+          "file": "achievements/listening-star-gold.svg",
+          "recommendedUse": "Listening Star achievement badge.",
+          "tags": [
+            "gold",
+            "Audio"
+          ]
+        },
+        {
+          "id": "listening-star-green",
+          "file": "achievements/listening-star-green.svg",
+          "recommendedUse": "Listening Star achievement badge.",
+          "tags": [
+            "green",
+            "Audio"
+          ]
+        },
+        {
+          "id": "listening-star-purple",
+          "file": "achievements/listening-star-purple.svg",
+          "recommendedUse": "Listening Star achievement badge.",
+          "tags": [
+            "purple",
+            "Audio"
+          ]
+        },
+        {
+          "id": "pronunciation-pro-bronze",
+          "file": "achievements/pronunciation-pro-bronze.svg",
+          "recommendedUse": "Pronunciation Pro achievement badge.",
+          "tags": [
+            "bronze",
+            "Speak"
+          ]
+        },
+        {
+          "id": "pronunciation-pro-silver",
+          "file": "achievements/pronunciation-pro-silver.svg",
+          "recommendedUse": "Pronunciation Pro achievement badge.",
+          "tags": [
+            "silver",
+            "Speak"
+          ]
+        },
+        {
+          "id": "pronunciation-pro-gold",
+          "file": "achievements/pronunciation-pro-gold.svg",
+          "recommendedUse": "Pronunciation Pro achievement badge.",
+          "tags": [
+            "gold",
+            "Speak"
+          ]
+        },
+        {
+          "id": "pronunciation-pro-green",
+          "file": "achievements/pronunciation-pro-green.svg",
+          "recommendedUse": "Pronunciation Pro achievement badge.",
+          "tags": [
+            "green",
+            "Speak"
+          ]
+        },
+        {
+          "id": "pronunciation-pro-purple",
+          "file": "achievements/pronunciation-pro-purple.svg",
+          "recommendedUse": "Pronunciation Pro achievement badge.",
+          "tags": [
+            "purple",
+            "Speak"
+          ]
+        },
+        {
+          "id": "grammar-guide-bronze",
+          "file": "achievements/grammar-guide-bronze.svg",
+          "recommendedUse": "Grammar Guide achievement badge.",
+          "tags": [
+            "bronze",
+            "Rule"
+          ]
+        },
+        {
+          "id": "grammar-guide-silver",
+          "file": "achievements/grammar-guide-silver.svg",
+          "recommendedUse": "Grammar Guide achievement badge.",
+          "tags": [
+            "silver",
+            "Rule"
+          ]
+        },
+        {
+          "id": "grammar-guide-gold",
+          "file": "achievements/grammar-guide-gold.svg",
+          "recommendedUse": "Grammar Guide achievement badge.",
+          "tags": [
+            "gold",
+            "Rule"
+          ]
+        },
+        {
+          "id": "grammar-guide-green",
+          "file": "achievements/grammar-guide-green.svg",
+          "recommendedUse": "Grammar Guide achievement badge.",
+          "tags": [
+            "green",
+            "Rule"
+          ]
+        },
+        {
+          "id": "grammar-guide-purple",
+          "file": "achievements/grammar-guide-purple.svg",
+          "recommendedUse": "Grammar Guide achievement badge.",
+          "tags": [
+            "purple",
+            "Rule"
+          ]
+        },
+        {
+          "id": "review-ready-bronze",
+          "file": "achievements/review-ready-bronze.svg",
+          "recommendedUse": "Review Ready achievement badge.",
+          "tags": [
+            "bronze",
+            "Cards"
+          ]
+        },
+        {
+          "id": "review-ready-silver",
+          "file": "achievements/review-ready-silver.svg",
+          "recommendedUse": "Review Ready achievement badge.",
+          "tags": [
+            "silver",
+            "Cards"
+          ]
+        },
+        {
+          "id": "review-ready-gold",
+          "file": "achievements/review-ready-gold.svg",
+          "recommendedUse": "Review Ready achievement badge.",
+          "tags": [
+            "gold",
+            "Cards"
+          ]
+        },
+        {
+          "id": "review-ready-green",
+          "file": "achievements/review-ready-green.svg",
+          "recommendedUse": "Review Ready achievement badge.",
+          "tags": [
+            "green",
+            "Cards"
+          ]
+        },
+        {
+          "id": "review-ready-purple",
+          "file": "achievements/review-ready-purple.svg",
+          "recommendedUse": "Review Ready achievement badge.",
+          "tags": [
+            "purple",
+            "Cards"
+          ]
+        },
+        {
+          "id": "streak-spark-bronze",
+          "file": "achievements/streak-spark-bronze.svg",
+          "recommendedUse": "Streak Spark achievement badge.",
+          "tags": [
+            "bronze",
+            "Daily"
+          ]
+        },
+        {
+          "id": "streak-spark-silver",
+          "file": "achievements/streak-spark-silver.svg",
+          "recommendedUse": "Streak Spark achievement badge.",
+          "tags": [
+            "silver",
+            "Daily"
+          ]
+        },
+        {
+          "id": "streak-spark-gold",
+          "file": "achievements/streak-spark-gold.svg",
+          "recommendedUse": "Streak Spark achievement badge.",
+          "tags": [
+            "gold",
+            "Daily"
+          ]
+        },
+        {
+          "id": "streak-spark-green",
+          "file": "achievements/streak-spark-green.svg",
+          "recommendedUse": "Streak Spark achievement badge.",
+          "tags": [
+            "green",
+            "Daily"
+          ]
+        },
+        {
+          "id": "streak-spark-purple",
+          "file": "achievements/streak-spark-purple.svg",
+          "recommendedUse": "Streak Spark achievement badge.",
+          "tags": [
+            "purple",
+            "Daily"
+          ]
+        },
+        {
+          "id": "quiz-champ-bronze",
+          "file": "achievements/quiz-champ-bronze.svg",
+          "recommendedUse": "Quiz Champ achievement badge.",
+          "tags": [
+            "bronze",
+            "Quiz"
+          ]
+        },
+        {
+          "id": "quiz-champ-silver",
+          "file": "achievements/quiz-champ-silver.svg",
+          "recommendedUse": "Quiz Champ achievement badge.",
+          "tags": [
+            "silver",
+            "Quiz"
+          ]
+        },
+        {
+          "id": "quiz-champ-gold",
+          "file": "achievements/quiz-champ-gold.svg",
+          "recommendedUse": "Quiz Champ achievement badge.",
+          "tags": [
+            "gold",
+            "Quiz"
+          ]
+        },
+        {
+          "id": "quiz-champ-green",
+          "file": "achievements/quiz-champ-green.svg",
+          "recommendedUse": "Quiz Champ achievement badge.",
+          "tags": [
+            "green",
+            "Quiz"
+          ]
+        },
+        {
+          "id": "quiz-champ-purple",
+          "file": "achievements/quiz-champ-purple.svg",
+          "recommendedUse": "Quiz Champ achievement badge.",
+          "tags": [
+            "purple",
+            "Quiz"
+          ]
+        },
+        {
+          "id": "perfect-round-bronze",
+          "file": "achievements/perfect-round-bronze.svg",
+          "recommendedUse": "Perfect Round achievement badge.",
+          "tags": [
+            "bronze",
+            "100%"
+          ]
+        },
+        {
+          "id": "perfect-round-silver",
+          "file": "achievements/perfect-round-silver.svg",
+          "recommendedUse": "Perfect Round achievement badge.",
+          "tags": [
+            "silver",
+            "100%"
+          ]
+        },
+        {
+          "id": "perfect-round-gold",
+          "file": "achievements/perfect-round-gold.svg",
+          "recommendedUse": "Perfect Round achievement badge.",
+          "tags": [
+            "gold",
+            "100%"
+          ]
+        },
+        {
+          "id": "perfect-round-green",
+          "file": "achievements/perfect-round-green.svg",
+          "recommendedUse": "Perfect Round achievement badge.",
+          "tags": [
+            "green",
+            "100%"
+          ]
+        },
+        {
+          "id": "perfect-round-purple",
+          "file": "achievements/perfect-round-purple.svg",
+          "recommendedUse": "Perfect Round achievement badge.",
+          "tags": [
+            "purple",
+            "100%"
+          ]
+        },
+        {
+          "id": "a1-explorer-bronze",
+          "file": "achievements/a1-explorer-bronze.svg",
+          "recommendedUse": "A1 Explorer achievement badge.",
+          "tags": [
+            "bronze",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-explorer-silver",
+          "file": "achievements/a1-explorer-silver.svg",
+          "recommendedUse": "A1 Explorer achievement badge.",
+          "tags": [
+            "silver",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-explorer-gold",
+          "file": "achievements/a1-explorer-gold.svg",
+          "recommendedUse": "A1 Explorer achievement badge.",
+          "tags": [
+            "gold",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-explorer-green",
+          "file": "achievements/a1-explorer-green.svg",
+          "recommendedUse": "A1 Explorer achievement badge.",
+          "tags": [
+            "green",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-explorer-purple",
+          "file": "achievements/a1-explorer-purple.svg",
+          "recommendedUse": "A1 Explorer achievement badge.",
+          "tags": [
+            "purple",
+            "A1"
+          ]
+        },
+        {
+          "id": "a2-explorer-bronze",
+          "file": "achievements/a2-explorer-bronze.svg",
+          "recommendedUse": "A2 Explorer achievement badge.",
+          "tags": [
+            "bronze",
+            "A2"
+          ]
+        },
+        {
+          "id": "a2-explorer-silver",
+          "file": "achievements/a2-explorer-silver.svg",
+          "recommendedUse": "A2 Explorer achievement badge.",
+          "tags": [
+            "silver",
+            "A2"
+          ]
+        },
+        {
+          "id": "a2-explorer-gold",
+          "file": "achievements/a2-explorer-gold.svg",
+          "recommendedUse": "A2 Explorer achievement badge.",
+          "tags": [
+            "gold",
+            "A2"
+          ]
+        },
+        {
+          "id": "a2-explorer-green",
+          "file": "achievements/a2-explorer-green.svg",
+          "recommendedUse": "A2 Explorer achievement badge.",
+          "tags": [
+            "green",
+            "A2"
+          ]
+        },
+        {
+          "id": "a2-explorer-purple",
+          "file": "achievements/a2-explorer-purple.svg",
+          "recommendedUse": "A2 Explorer achievement badge.",
+          "tags": [
+            "purple",
+            "A2"
+          ]
+        },
+        {
+          "id": "family-learner-bronze",
+          "file": "achievements/family-learner-bronze.svg",
+          "recommendedUse": "Family Learner achievement badge.",
+          "tags": [
+            "bronze",
+            "Team"
+          ]
+        },
+        {
+          "id": "family-learner-silver",
+          "file": "achievements/family-learner-silver.svg",
+          "recommendedUse": "Family Learner achievement badge.",
+          "tags": [
+            "silver",
+            "Team"
+          ]
+        },
+        {
+          "id": "family-learner-gold",
+          "file": "achievements/family-learner-gold.svg",
+          "recommendedUse": "Family Learner achievement badge.",
+          "tags": [
+            "gold",
+            "Team"
+          ]
+        },
+        {
+          "id": "family-learner-green",
+          "file": "achievements/family-learner-green.svg",
+          "recommendedUse": "Family Learner achievement badge.",
+          "tags": [
+            "green",
+            "Team"
+          ]
+        },
+        {
+          "id": "family-learner-purple",
+          "file": "achievements/family-learner-purple.svg",
+          "recommendedUse": "Family Learner achievement badge.",
+          "tags": [
+            "purple",
+            "Team"
+          ]
+        },
+        {
+          "id": "fast-recall-bronze",
+          "file": "achievements/fast-recall-bronze.svg",
+          "recommendedUse": "Fast Recall achievement badge.",
+          "tags": [
+            "bronze",
+            "Speed"
+          ]
+        },
+        {
+          "id": "fast-recall-silver",
+          "file": "achievements/fast-recall-silver.svg",
+          "recommendedUse": "Fast Recall achievement badge.",
+          "tags": [
+            "silver",
+            "Speed"
+          ]
+        },
+        {
+          "id": "fast-recall-gold",
+          "file": "achievements/fast-recall-gold.svg",
+          "recommendedUse": "Fast Recall achievement badge.",
+          "tags": [
+            "gold",
+            "Speed"
+          ]
+        },
+        {
+          "id": "fast-recall-green",
+          "file": "achievements/fast-recall-green.svg",
+          "recommendedUse": "Fast Recall achievement badge.",
+          "tags": [
+            "green",
+            "Speed"
+          ]
+        },
+        {
+          "id": "fast-recall-purple",
+          "file": "achievements/fast-recall-purple.svg",
+          "recommendedUse": "Fast Recall achievement badge.",
+          "tags": [
+            "purple",
+            "Speed"
+          ]
+        },
+        {
+          "id": "careful-reader-bronze",
+          "file": "achievements/careful-reader-bronze.svg",
+          "recommendedUse": "Careful Reader achievement badge.",
+          "tags": [
+            "bronze",
+            "Read"
+          ]
+        },
+        {
+          "id": "careful-reader-silver",
+          "file": "achievements/careful-reader-silver.svg",
+          "recommendedUse": "Careful Reader achievement badge.",
+          "tags": [
+            "silver",
+            "Read"
+          ]
+        },
+        {
+          "id": "careful-reader-gold",
+          "file": "achievements/careful-reader-gold.svg",
+          "recommendedUse": "Careful Reader achievement badge.",
+          "tags": [
+            "gold",
+            "Read"
+          ]
+        },
+        {
+          "id": "careful-reader-green",
+          "file": "achievements/careful-reader-green.svg",
+          "recommendedUse": "Careful Reader achievement badge.",
+          "tags": [
+            "green",
+            "Read"
+          ]
+        },
+        {
+          "id": "careful-reader-purple",
+          "file": "achievements/careful-reader-purple.svg",
+          "recommendedUse": "Careful Reader achievement badge.",
+          "tags": [
+            "purple",
+            "Read"
+          ]
+        },
+        {
+          "id": "hint-helper-bronze",
+          "file": "achievements/hint-helper-bronze.svg",
+          "recommendedUse": "Hint Helper achievement badge.",
+          "tags": [
+            "bronze",
+            "Hint"
+          ]
+        },
+        {
+          "id": "hint-helper-silver",
+          "file": "achievements/hint-helper-silver.svg",
+          "recommendedUse": "Hint Helper achievement badge.",
+          "tags": [
+            "silver",
+            "Hint"
+          ]
+        },
+        {
+          "id": "hint-helper-gold",
+          "file": "achievements/hint-helper-gold.svg",
+          "recommendedUse": "Hint Helper achievement badge.",
+          "tags": [
+            "gold",
+            "Hint"
+          ]
+        },
+        {
+          "id": "hint-helper-green",
+          "file": "achievements/hint-helper-green.svg",
+          "recommendedUse": "Hint Helper achievement badge.",
+          "tags": [
+            "green",
+            "Hint"
+          ]
+        },
+        {
+          "id": "hint-helper-purple",
+          "file": "achievements/hint-helper-purple.svg",
+          "recommendedUse": "Hint Helper achievement badge.",
+          "tags": [
+            "purple",
+            "Hint"
+          ]
+        },
+        {
+          "id": "memory-match-bronze",
+          "file": "achievements/memory-match-bronze.svg",
+          "recommendedUse": "Memory Match achievement badge.",
+          "tags": [
+            "bronze",
+            "Pair"
+          ]
+        },
+        {
+          "id": "memory-match-silver",
+          "file": "achievements/memory-match-silver.svg",
+          "recommendedUse": "Memory Match achievement badge.",
+          "tags": [
+            "silver",
+            "Pair"
+          ]
+        },
+        {
+          "id": "memory-match-gold",
+          "file": "achievements/memory-match-gold.svg",
+          "recommendedUse": "Memory Match achievement badge.",
+          "tags": [
+            "gold",
+            "Pair"
+          ]
+        },
+        {
+          "id": "memory-match-green",
+          "file": "achievements/memory-match-green.svg",
+          "recommendedUse": "Memory Match achievement badge.",
+          "tags": [
+            "green",
+            "Pair"
+          ]
+        },
+        {
+          "id": "memory-match-purple",
+          "file": "achievements/memory-match-purple.svg",
+          "recommendedUse": "Memory Match achievement badge.",
+          "tags": [
+            "purple",
+            "Pair"
+          ]
+        },
+        {
+          "id": "level-complete-bronze",
+          "file": "achievements/level-complete-bronze.svg",
+          "recommendedUse": "Level Complete achievement badge.",
+          "tags": [
+            "bronze",
+            "Done"
+          ]
+        },
+        {
+          "id": "level-complete-silver",
+          "file": "achievements/level-complete-silver.svg",
+          "recommendedUse": "Level Complete achievement badge.",
+          "tags": [
+            "silver",
+            "Done"
+          ]
+        },
+        {
+          "id": "level-complete-gold",
+          "file": "achievements/level-complete-gold.svg",
+          "recommendedUse": "Level Complete achievement badge.",
+          "tags": [
+            "gold",
+            "Done"
+          ]
+        },
+        {
+          "id": "level-complete-green",
+          "file": "achievements/level-complete-green.svg",
+          "recommendedUse": "Level Complete achievement badge.",
+          "tags": [
+            "green",
+            "Done"
+          ]
+        },
+        {
+          "id": "level-complete-purple",
+          "file": "achievements/level-complete-purple.svg",
+          "recommendedUse": "Level Complete achievement badge.",
+          "tags": [
+            "purple",
+            "Done"
+          ]
+        }
+      ]
+    },
+    "lessonBadges": {
+      "count": 96,
+      "items": [
+        {
+          "id": "a1-unit-01-flashcards",
+          "file": "lesson-badges/a1-unit-01-flashcards.svg",
+          "recommendedUse": "A1 unit 1 Flashcards badge.",
+          "tags": [
+            "A1",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a1-unit-01-nouns",
+          "file": "lesson-badges/a1-unit-01-nouns.svg",
+          "recommendedUse": "A1 unit 1 Nouns badge.",
+          "tags": [
+            "A1",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a1-unit-01-adjectives",
+          "file": "lesson-badges/a1-unit-01-adjectives.svg",
+          "recommendedUse": "A1 unit 1 Adjectives badge.",
+          "tags": [
+            "A1",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a1-unit-01-matching",
+          "file": "lesson-badges/a1-unit-01-matching.svg",
+          "recommendedUse": "A1 unit 1 Matching badge.",
+          "tags": [
+            "A1",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a1-unit-01-articles",
+          "file": "lesson-badges/a1-unit-01-articles.svg",
+          "recommendedUse": "A1 unit 1 Articles badge.",
+          "tags": [
+            "A1",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a1-unit-01-verbs",
+          "file": "lesson-badges/a1-unit-01-verbs.svg",
+          "recommendedUse": "A1 unit 1 Verbs badge.",
+          "tags": [
+            "A1",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a1-unit-02-flashcards",
+          "file": "lesson-badges/a1-unit-02-flashcards.svg",
+          "recommendedUse": "A1 unit 2 Flashcards badge.",
+          "tags": [
+            "A1",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a1-unit-02-nouns",
+          "file": "lesson-badges/a1-unit-02-nouns.svg",
+          "recommendedUse": "A1 unit 2 Nouns badge.",
+          "tags": [
+            "A1",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a1-unit-02-adjectives",
+          "file": "lesson-badges/a1-unit-02-adjectives.svg",
+          "recommendedUse": "A1 unit 2 Adjectives badge.",
+          "tags": [
+            "A1",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a1-unit-02-matching",
+          "file": "lesson-badges/a1-unit-02-matching.svg",
+          "recommendedUse": "A1 unit 2 Matching badge.",
+          "tags": [
+            "A1",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a1-unit-02-articles",
+          "file": "lesson-badges/a1-unit-02-articles.svg",
+          "recommendedUse": "A1 unit 2 Articles badge.",
+          "tags": [
+            "A1",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a1-unit-02-verbs",
+          "file": "lesson-badges/a1-unit-02-verbs.svg",
+          "recommendedUse": "A1 unit 2 Verbs badge.",
+          "tags": [
+            "A1",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a1-unit-03-flashcards",
+          "file": "lesson-badges/a1-unit-03-flashcards.svg",
+          "recommendedUse": "A1 unit 3 Flashcards badge.",
+          "tags": [
+            "A1",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a1-unit-03-nouns",
+          "file": "lesson-badges/a1-unit-03-nouns.svg",
+          "recommendedUse": "A1 unit 3 Nouns badge.",
+          "tags": [
+            "A1",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a1-unit-03-adjectives",
+          "file": "lesson-badges/a1-unit-03-adjectives.svg",
+          "recommendedUse": "A1 unit 3 Adjectives badge.",
+          "tags": [
+            "A1",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a1-unit-03-matching",
+          "file": "lesson-badges/a1-unit-03-matching.svg",
+          "recommendedUse": "A1 unit 3 Matching badge.",
+          "tags": [
+            "A1",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a1-unit-03-articles",
+          "file": "lesson-badges/a1-unit-03-articles.svg",
+          "recommendedUse": "A1 unit 3 Articles badge.",
+          "tags": [
+            "A1",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a1-unit-03-verbs",
+          "file": "lesson-badges/a1-unit-03-verbs.svg",
+          "recommendedUse": "A1 unit 3 Verbs badge.",
+          "tags": [
+            "A1",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a1-unit-04-flashcards",
+          "file": "lesson-badges/a1-unit-04-flashcards.svg",
+          "recommendedUse": "A1 unit 4 Flashcards badge.",
+          "tags": [
+            "A1",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a1-unit-04-nouns",
+          "file": "lesson-badges/a1-unit-04-nouns.svg",
+          "recommendedUse": "A1 unit 4 Nouns badge.",
+          "tags": [
+            "A1",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a1-unit-04-adjectives",
+          "file": "lesson-badges/a1-unit-04-adjectives.svg",
+          "recommendedUse": "A1 unit 4 Adjectives badge.",
+          "tags": [
+            "A1",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a1-unit-04-matching",
+          "file": "lesson-badges/a1-unit-04-matching.svg",
+          "recommendedUse": "A1 unit 4 Matching badge.",
+          "tags": [
+            "A1",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a1-unit-04-articles",
+          "file": "lesson-badges/a1-unit-04-articles.svg",
+          "recommendedUse": "A1 unit 4 Articles badge.",
+          "tags": [
+            "A1",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a1-unit-04-verbs",
+          "file": "lesson-badges/a1-unit-04-verbs.svg",
+          "recommendedUse": "A1 unit 4 Verbs badge.",
+          "tags": [
+            "A1",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a1-unit-05-flashcards",
+          "file": "lesson-badges/a1-unit-05-flashcards.svg",
+          "recommendedUse": "A1 unit 5 Flashcards badge.",
+          "tags": [
+            "A1",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a1-unit-05-nouns",
+          "file": "lesson-badges/a1-unit-05-nouns.svg",
+          "recommendedUse": "A1 unit 5 Nouns badge.",
+          "tags": [
+            "A1",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a1-unit-05-adjectives",
+          "file": "lesson-badges/a1-unit-05-adjectives.svg",
+          "recommendedUse": "A1 unit 5 Adjectives badge.",
+          "tags": [
+            "A1",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a1-unit-05-matching",
+          "file": "lesson-badges/a1-unit-05-matching.svg",
+          "recommendedUse": "A1 unit 5 Matching badge.",
+          "tags": [
+            "A1",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a1-unit-05-articles",
+          "file": "lesson-badges/a1-unit-05-articles.svg",
+          "recommendedUse": "A1 unit 5 Articles badge.",
+          "tags": [
+            "A1",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a1-unit-05-verbs",
+          "file": "lesson-badges/a1-unit-05-verbs.svg",
+          "recommendedUse": "A1 unit 5 Verbs badge.",
+          "tags": [
+            "A1",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a1-unit-06-flashcards",
+          "file": "lesson-badges/a1-unit-06-flashcards.svg",
+          "recommendedUse": "A1 unit 6 Flashcards badge.",
+          "tags": [
+            "A1",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a1-unit-06-nouns",
+          "file": "lesson-badges/a1-unit-06-nouns.svg",
+          "recommendedUse": "A1 unit 6 Nouns badge.",
+          "tags": [
+            "A1",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a1-unit-06-adjectives",
+          "file": "lesson-badges/a1-unit-06-adjectives.svg",
+          "recommendedUse": "A1 unit 6 Adjectives badge.",
+          "tags": [
+            "A1",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a1-unit-06-matching",
+          "file": "lesson-badges/a1-unit-06-matching.svg",
+          "recommendedUse": "A1 unit 6 Matching badge.",
+          "tags": [
+            "A1",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a1-unit-06-articles",
+          "file": "lesson-badges/a1-unit-06-articles.svg",
+          "recommendedUse": "A1 unit 6 Articles badge.",
+          "tags": [
+            "A1",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a1-unit-06-verbs",
+          "file": "lesson-badges/a1-unit-06-verbs.svg",
+          "recommendedUse": "A1 unit 6 Verbs badge.",
+          "tags": [
+            "A1",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a1-unit-07-flashcards",
+          "file": "lesson-badges/a1-unit-07-flashcards.svg",
+          "recommendedUse": "A1 unit 7 Flashcards badge.",
+          "tags": [
+            "A1",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a1-unit-07-nouns",
+          "file": "lesson-badges/a1-unit-07-nouns.svg",
+          "recommendedUse": "A1 unit 7 Nouns badge.",
+          "tags": [
+            "A1",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a1-unit-07-adjectives",
+          "file": "lesson-badges/a1-unit-07-adjectives.svg",
+          "recommendedUse": "A1 unit 7 Adjectives badge.",
+          "tags": [
+            "A1",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a1-unit-07-matching",
+          "file": "lesson-badges/a1-unit-07-matching.svg",
+          "recommendedUse": "A1 unit 7 Matching badge.",
+          "tags": [
+            "A1",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a1-unit-07-articles",
+          "file": "lesson-badges/a1-unit-07-articles.svg",
+          "recommendedUse": "A1 unit 7 Articles badge.",
+          "tags": [
+            "A1",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a1-unit-07-verbs",
+          "file": "lesson-badges/a1-unit-07-verbs.svg",
+          "recommendedUse": "A1 unit 7 Verbs badge.",
+          "tags": [
+            "A1",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a1-unit-08-flashcards",
+          "file": "lesson-badges/a1-unit-08-flashcards.svg",
+          "recommendedUse": "A1 unit 8 Flashcards badge.",
+          "tags": [
+            "A1",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a1-unit-08-nouns",
+          "file": "lesson-badges/a1-unit-08-nouns.svg",
+          "recommendedUse": "A1 unit 8 Nouns badge.",
+          "tags": [
+            "A1",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a1-unit-08-adjectives",
+          "file": "lesson-badges/a1-unit-08-adjectives.svg",
+          "recommendedUse": "A1 unit 8 Adjectives badge.",
+          "tags": [
+            "A1",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a1-unit-08-matching",
+          "file": "lesson-badges/a1-unit-08-matching.svg",
+          "recommendedUse": "A1 unit 8 Matching badge.",
+          "tags": [
+            "A1",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a1-unit-08-articles",
+          "file": "lesson-badges/a1-unit-08-articles.svg",
+          "recommendedUse": "A1 unit 8 Articles badge.",
+          "tags": [
+            "A1",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a1-unit-08-verbs",
+          "file": "lesson-badges/a1-unit-08-verbs.svg",
+          "recommendedUse": "A1 unit 8 Verbs badge.",
+          "tags": [
+            "A1",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a2-unit-01-flashcards",
+          "file": "lesson-badges/a2-unit-01-flashcards.svg",
+          "recommendedUse": "A2 unit 1 Flashcards badge.",
+          "tags": [
+            "A2",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a2-unit-01-nouns",
+          "file": "lesson-badges/a2-unit-01-nouns.svg",
+          "recommendedUse": "A2 unit 1 Nouns badge.",
+          "tags": [
+            "A2",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a2-unit-01-adjectives",
+          "file": "lesson-badges/a2-unit-01-adjectives.svg",
+          "recommendedUse": "A2 unit 1 Adjectives badge.",
+          "tags": [
+            "A2",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a2-unit-01-matching",
+          "file": "lesson-badges/a2-unit-01-matching.svg",
+          "recommendedUse": "A2 unit 1 Matching badge.",
+          "tags": [
+            "A2",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a2-unit-01-articles",
+          "file": "lesson-badges/a2-unit-01-articles.svg",
+          "recommendedUse": "A2 unit 1 Articles badge.",
+          "tags": [
+            "A2",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a2-unit-01-verbs",
+          "file": "lesson-badges/a2-unit-01-verbs.svg",
+          "recommendedUse": "A2 unit 1 Verbs badge.",
+          "tags": [
+            "A2",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a2-unit-02-flashcards",
+          "file": "lesson-badges/a2-unit-02-flashcards.svg",
+          "recommendedUse": "A2 unit 2 Flashcards badge.",
+          "tags": [
+            "A2",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a2-unit-02-nouns",
+          "file": "lesson-badges/a2-unit-02-nouns.svg",
+          "recommendedUse": "A2 unit 2 Nouns badge.",
+          "tags": [
+            "A2",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a2-unit-02-adjectives",
+          "file": "lesson-badges/a2-unit-02-adjectives.svg",
+          "recommendedUse": "A2 unit 2 Adjectives badge.",
+          "tags": [
+            "A2",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a2-unit-02-matching",
+          "file": "lesson-badges/a2-unit-02-matching.svg",
+          "recommendedUse": "A2 unit 2 Matching badge.",
+          "tags": [
+            "A2",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a2-unit-02-articles",
+          "file": "lesson-badges/a2-unit-02-articles.svg",
+          "recommendedUse": "A2 unit 2 Articles badge.",
+          "tags": [
+            "A2",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a2-unit-02-verbs",
+          "file": "lesson-badges/a2-unit-02-verbs.svg",
+          "recommendedUse": "A2 unit 2 Verbs badge.",
+          "tags": [
+            "A2",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a2-unit-03-flashcards",
+          "file": "lesson-badges/a2-unit-03-flashcards.svg",
+          "recommendedUse": "A2 unit 3 Flashcards badge.",
+          "tags": [
+            "A2",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a2-unit-03-nouns",
+          "file": "lesson-badges/a2-unit-03-nouns.svg",
+          "recommendedUse": "A2 unit 3 Nouns badge.",
+          "tags": [
+            "A2",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a2-unit-03-adjectives",
+          "file": "lesson-badges/a2-unit-03-adjectives.svg",
+          "recommendedUse": "A2 unit 3 Adjectives badge.",
+          "tags": [
+            "A2",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a2-unit-03-matching",
+          "file": "lesson-badges/a2-unit-03-matching.svg",
+          "recommendedUse": "A2 unit 3 Matching badge.",
+          "tags": [
+            "A2",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a2-unit-03-articles",
+          "file": "lesson-badges/a2-unit-03-articles.svg",
+          "recommendedUse": "A2 unit 3 Articles badge.",
+          "tags": [
+            "A2",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a2-unit-03-verbs",
+          "file": "lesson-badges/a2-unit-03-verbs.svg",
+          "recommendedUse": "A2 unit 3 Verbs badge.",
+          "tags": [
+            "A2",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a2-unit-04-flashcards",
+          "file": "lesson-badges/a2-unit-04-flashcards.svg",
+          "recommendedUse": "A2 unit 4 Flashcards badge.",
+          "tags": [
+            "A2",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a2-unit-04-nouns",
+          "file": "lesson-badges/a2-unit-04-nouns.svg",
+          "recommendedUse": "A2 unit 4 Nouns badge.",
+          "tags": [
+            "A2",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a2-unit-04-adjectives",
+          "file": "lesson-badges/a2-unit-04-adjectives.svg",
+          "recommendedUse": "A2 unit 4 Adjectives badge.",
+          "tags": [
+            "A2",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a2-unit-04-matching",
+          "file": "lesson-badges/a2-unit-04-matching.svg",
+          "recommendedUse": "A2 unit 4 Matching badge.",
+          "tags": [
+            "A2",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a2-unit-04-articles",
+          "file": "lesson-badges/a2-unit-04-articles.svg",
+          "recommendedUse": "A2 unit 4 Articles badge.",
+          "tags": [
+            "A2",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a2-unit-04-verbs",
+          "file": "lesson-badges/a2-unit-04-verbs.svg",
+          "recommendedUse": "A2 unit 4 Verbs badge.",
+          "tags": [
+            "A2",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a2-unit-05-flashcards",
+          "file": "lesson-badges/a2-unit-05-flashcards.svg",
+          "recommendedUse": "A2 unit 5 Flashcards badge.",
+          "tags": [
+            "A2",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a2-unit-05-nouns",
+          "file": "lesson-badges/a2-unit-05-nouns.svg",
+          "recommendedUse": "A2 unit 5 Nouns badge.",
+          "tags": [
+            "A2",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a2-unit-05-adjectives",
+          "file": "lesson-badges/a2-unit-05-adjectives.svg",
+          "recommendedUse": "A2 unit 5 Adjectives badge.",
+          "tags": [
+            "A2",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a2-unit-05-matching",
+          "file": "lesson-badges/a2-unit-05-matching.svg",
+          "recommendedUse": "A2 unit 5 Matching badge.",
+          "tags": [
+            "A2",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a2-unit-05-articles",
+          "file": "lesson-badges/a2-unit-05-articles.svg",
+          "recommendedUse": "A2 unit 5 Articles badge.",
+          "tags": [
+            "A2",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a2-unit-05-verbs",
+          "file": "lesson-badges/a2-unit-05-verbs.svg",
+          "recommendedUse": "A2 unit 5 Verbs badge.",
+          "tags": [
+            "A2",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a2-unit-06-flashcards",
+          "file": "lesson-badges/a2-unit-06-flashcards.svg",
+          "recommendedUse": "A2 unit 6 Flashcards badge.",
+          "tags": [
+            "A2",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a2-unit-06-nouns",
+          "file": "lesson-badges/a2-unit-06-nouns.svg",
+          "recommendedUse": "A2 unit 6 Nouns badge.",
+          "tags": [
+            "A2",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a2-unit-06-adjectives",
+          "file": "lesson-badges/a2-unit-06-adjectives.svg",
+          "recommendedUse": "A2 unit 6 Adjectives badge.",
+          "tags": [
+            "A2",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a2-unit-06-matching",
+          "file": "lesson-badges/a2-unit-06-matching.svg",
+          "recommendedUse": "A2 unit 6 Matching badge.",
+          "tags": [
+            "A2",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a2-unit-06-articles",
+          "file": "lesson-badges/a2-unit-06-articles.svg",
+          "recommendedUse": "A2 unit 6 Articles badge.",
+          "tags": [
+            "A2",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a2-unit-06-verbs",
+          "file": "lesson-badges/a2-unit-06-verbs.svg",
+          "recommendedUse": "A2 unit 6 Verbs badge.",
+          "tags": [
+            "A2",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a2-unit-07-flashcards",
+          "file": "lesson-badges/a2-unit-07-flashcards.svg",
+          "recommendedUse": "A2 unit 7 Flashcards badge.",
+          "tags": [
+            "A2",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a2-unit-07-nouns",
+          "file": "lesson-badges/a2-unit-07-nouns.svg",
+          "recommendedUse": "A2 unit 7 Nouns badge.",
+          "tags": [
+            "A2",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a2-unit-07-adjectives",
+          "file": "lesson-badges/a2-unit-07-adjectives.svg",
+          "recommendedUse": "A2 unit 7 Adjectives badge.",
+          "tags": [
+            "A2",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a2-unit-07-matching",
+          "file": "lesson-badges/a2-unit-07-matching.svg",
+          "recommendedUse": "A2 unit 7 Matching badge.",
+          "tags": [
+            "A2",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a2-unit-07-articles",
+          "file": "lesson-badges/a2-unit-07-articles.svg",
+          "recommendedUse": "A2 unit 7 Articles badge.",
+          "tags": [
+            "A2",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a2-unit-07-verbs",
+          "file": "lesson-badges/a2-unit-07-verbs.svg",
+          "recommendedUse": "A2 unit 7 Verbs badge.",
+          "tags": [
+            "A2",
+            "Verbs"
+          ]
+        },
+        {
+          "id": "a2-unit-08-flashcards",
+          "file": "lesson-badges/a2-unit-08-flashcards.svg",
+          "recommendedUse": "A2 unit 8 Flashcards badge.",
+          "tags": [
+            "A2",
+            "Flashcards"
+          ]
+        },
+        {
+          "id": "a2-unit-08-nouns",
+          "file": "lesson-badges/a2-unit-08-nouns.svg",
+          "recommendedUse": "A2 unit 8 Nouns badge.",
+          "tags": [
+            "A2",
+            "Nouns"
+          ]
+        },
+        {
+          "id": "a2-unit-08-adjectives",
+          "file": "lesson-badges/a2-unit-08-adjectives.svg",
+          "recommendedUse": "A2 unit 8 Adjectives badge.",
+          "tags": [
+            "A2",
+            "Adjectives"
+          ]
+        },
+        {
+          "id": "a2-unit-08-matching",
+          "file": "lesson-badges/a2-unit-08-matching.svg",
+          "recommendedUse": "A2 unit 8 Matching badge.",
+          "tags": [
+            "A2",
+            "Matching"
+          ]
+        },
+        {
+          "id": "a2-unit-08-articles",
+          "file": "lesson-badges/a2-unit-08-articles.svg",
+          "recommendedUse": "A2 unit 8 Articles badge.",
+          "tags": [
+            "A2",
+            "Articles"
+          ]
+        },
+        {
+          "id": "a2-unit-08-verbs",
+          "file": "lesson-badges/a2-unit-08-verbs.svg",
+          "recommendedUse": "A2 unit 8 Verbs badge.",
+          "tags": [
+            "A2",
+            "Verbs"
+          ]
+        }
+      ]
+    },
+    "grammarArticleBadges": {
+      "count": 24,
+      "items": [
+        {
+          "id": "der-plain",
+          "file": "grammar/articles/der-plain.svg",
+          "recommendedUse": "der article helper badge.",
+          "tags": [
+            "der",
+            "masculine",
+            "plain"
+          ]
+        },
+        {
+          "id": "der-soft",
+          "file": "grammar/articles/der-soft.svg",
+          "recommendedUse": "der article helper badge.",
+          "tags": [
+            "der",
+            "masculine",
+            "soft"
+          ]
+        },
+        {
+          "id": "der-bold",
+          "file": "grammar/articles/der-bold.svg",
+          "recommendedUse": "der article helper badge.",
+          "tags": [
+            "der",
+            "masculine",
+            "bold"
+          ]
+        },
+        {
+          "id": "der-quiz",
+          "file": "grammar/articles/der-quiz.svg",
+          "recommendedUse": "der article helper badge.",
+          "tags": [
+            "der",
+            "masculine",
+            "quiz"
+          ]
+        },
+        {
+          "id": "der-card",
+          "file": "grammar/articles/der-card.svg",
+          "recommendedUse": "der article helper badge.",
+          "tags": [
+            "der",
+            "masculine",
+            "card"
+          ]
+        },
+        {
+          "id": "der-glow",
+          "file": "grammar/articles/der-glow.svg",
+          "recommendedUse": "der article helper badge.",
+          "tags": [
+            "der",
+            "masculine",
+            "glow"
+          ]
+        },
+        {
+          "id": "der-mini",
+          "file": "grammar/articles/der-mini.svg",
+          "recommendedUse": "der article helper badge.",
+          "tags": [
+            "der",
+            "masculine",
+            "mini"
+          ]
+        },
+        {
+          "id": "der-stamp",
+          "file": "grammar/articles/der-stamp.svg",
+          "recommendedUse": "der article helper badge.",
+          "tags": [
+            "der",
+            "masculine",
+            "stamp"
+          ]
+        },
+        {
+          "id": "die-plain",
+          "file": "grammar/articles/die-plain.svg",
+          "recommendedUse": "die article helper badge.",
+          "tags": [
+            "die",
+            "feminine",
+            "plain"
+          ]
+        },
+        {
+          "id": "die-soft",
+          "file": "grammar/articles/die-soft.svg",
+          "recommendedUse": "die article helper badge.",
+          "tags": [
+            "die",
+            "feminine",
+            "soft"
+          ]
+        },
+        {
+          "id": "die-bold",
+          "file": "grammar/articles/die-bold.svg",
+          "recommendedUse": "die article helper badge.",
+          "tags": [
+            "die",
+            "feminine",
+            "bold"
+          ]
+        },
+        {
+          "id": "die-quiz",
+          "file": "grammar/articles/die-quiz.svg",
+          "recommendedUse": "die article helper badge.",
+          "tags": [
+            "die",
+            "feminine",
+            "quiz"
+          ]
+        },
+        {
+          "id": "die-card",
+          "file": "grammar/articles/die-card.svg",
+          "recommendedUse": "die article helper badge.",
+          "tags": [
+            "die",
+            "feminine",
+            "card"
+          ]
+        },
+        {
+          "id": "die-glow",
+          "file": "grammar/articles/die-glow.svg",
+          "recommendedUse": "die article helper badge.",
+          "tags": [
+            "die",
+            "feminine",
+            "glow"
+          ]
+        },
+        {
+          "id": "die-mini",
+          "file": "grammar/articles/die-mini.svg",
+          "recommendedUse": "die article helper badge.",
+          "tags": [
+            "die",
+            "feminine",
+            "mini"
+          ]
+        },
+        {
+          "id": "die-stamp",
+          "file": "grammar/articles/die-stamp.svg",
+          "recommendedUse": "die article helper badge.",
+          "tags": [
+            "die",
+            "feminine",
+            "stamp"
+          ]
+        },
+        {
+          "id": "das-plain",
+          "file": "grammar/articles/das-plain.svg",
+          "recommendedUse": "das article helper badge.",
+          "tags": [
+            "das",
+            "neuter",
+            "plain"
+          ]
+        },
+        {
+          "id": "das-soft",
+          "file": "grammar/articles/das-soft.svg",
+          "recommendedUse": "das article helper badge.",
+          "tags": [
+            "das",
+            "neuter",
+            "soft"
+          ]
+        },
+        {
+          "id": "das-bold",
+          "file": "grammar/articles/das-bold.svg",
+          "recommendedUse": "das article helper badge.",
+          "tags": [
+            "das",
+            "neuter",
+            "bold"
+          ]
+        },
+        {
+          "id": "das-quiz",
+          "file": "grammar/articles/das-quiz.svg",
+          "recommendedUse": "das article helper badge.",
+          "tags": [
+            "das",
+            "neuter",
+            "quiz"
+          ]
+        },
+        {
+          "id": "das-card",
+          "file": "grammar/articles/das-card.svg",
+          "recommendedUse": "das article helper badge.",
+          "tags": [
+            "das",
+            "neuter",
+            "card"
+          ]
+        },
+        {
+          "id": "das-glow",
+          "file": "grammar/articles/das-glow.svg",
+          "recommendedUse": "das article helper badge.",
+          "tags": [
+            "das",
+            "neuter",
+            "glow"
+          ]
+        },
+        {
+          "id": "das-mini",
+          "file": "grammar/articles/das-mini.svg",
+          "recommendedUse": "das article helper badge.",
+          "tags": [
+            "das",
+            "neuter",
+            "mini"
+          ]
+        },
+        {
+          "id": "das-stamp",
+          "file": "grammar/articles/das-stamp.svg",
+          "recommendedUse": "das article helper badge.",
+          "tags": [
+            "das",
+            "neuter",
+            "stamp"
+          ]
+        }
+      ]
+    },
+    "grammarCaseBadges": {
+      "count": 24,
+      "items": [
+        {
+          "id": "nominativ-01",
+          "file": "grammar/cases/nominativ-01.svg",
+          "recommendedUse": "Nominativ case helper badge.",
+          "tags": [
+            "Nominativ"
+          ]
+        },
+        {
+          "id": "nominativ-02",
+          "file": "grammar/cases/nominativ-02.svg",
+          "recommendedUse": "Nominativ case helper badge.",
+          "tags": [
+            "Nominativ"
+          ]
+        },
+        {
+          "id": "nominativ-03",
+          "file": "grammar/cases/nominativ-03.svg",
+          "recommendedUse": "Nominativ case helper badge.",
+          "tags": [
+            "Nominativ"
+          ]
+        },
+        {
+          "id": "nominativ-04",
+          "file": "grammar/cases/nominativ-04.svg",
+          "recommendedUse": "Nominativ case helper badge.",
+          "tags": [
+            "Nominativ"
+          ]
+        },
+        {
+          "id": "nominativ-05",
+          "file": "grammar/cases/nominativ-05.svg",
+          "recommendedUse": "Nominativ case helper badge.",
+          "tags": [
+            "Nominativ"
+          ]
+        },
+        {
+          "id": "nominativ-06",
+          "file": "grammar/cases/nominativ-06.svg",
+          "recommendedUse": "Nominativ case helper badge.",
+          "tags": [
+            "Nominativ"
+          ]
+        },
+        {
+          "id": "akkusativ-01",
+          "file": "grammar/cases/akkusativ-01.svg",
+          "recommendedUse": "Akkusativ case helper badge.",
+          "tags": [
+            "Akkusativ"
+          ]
+        },
+        {
+          "id": "akkusativ-02",
+          "file": "grammar/cases/akkusativ-02.svg",
+          "recommendedUse": "Akkusativ case helper badge.",
+          "tags": [
+            "Akkusativ"
+          ]
+        },
+        {
+          "id": "akkusativ-03",
+          "file": "grammar/cases/akkusativ-03.svg",
+          "recommendedUse": "Akkusativ case helper badge.",
+          "tags": [
+            "Akkusativ"
+          ]
+        },
+        {
+          "id": "akkusativ-04",
+          "file": "grammar/cases/akkusativ-04.svg",
+          "recommendedUse": "Akkusativ case helper badge.",
+          "tags": [
+            "Akkusativ"
+          ]
+        },
+        {
+          "id": "akkusativ-05",
+          "file": "grammar/cases/akkusativ-05.svg",
+          "recommendedUse": "Akkusativ case helper badge.",
+          "tags": [
+            "Akkusativ"
+          ]
+        },
+        {
+          "id": "akkusativ-06",
+          "file": "grammar/cases/akkusativ-06.svg",
+          "recommendedUse": "Akkusativ case helper badge.",
+          "tags": [
+            "Akkusativ"
+          ]
+        },
+        {
+          "id": "dativ-01",
+          "file": "grammar/cases/dativ-01.svg",
+          "recommendedUse": "Dativ case helper badge.",
+          "tags": [
+            "Dativ"
+          ]
+        },
+        {
+          "id": "dativ-02",
+          "file": "grammar/cases/dativ-02.svg",
+          "recommendedUse": "Dativ case helper badge.",
+          "tags": [
+            "Dativ"
+          ]
+        },
+        {
+          "id": "dativ-03",
+          "file": "grammar/cases/dativ-03.svg",
+          "recommendedUse": "Dativ case helper badge.",
+          "tags": [
+            "Dativ"
+          ]
+        },
+        {
+          "id": "dativ-04",
+          "file": "grammar/cases/dativ-04.svg",
+          "recommendedUse": "Dativ case helper badge.",
+          "tags": [
+            "Dativ"
+          ]
+        },
+        {
+          "id": "dativ-05",
+          "file": "grammar/cases/dativ-05.svg",
+          "recommendedUse": "Dativ case helper badge.",
+          "tags": [
+            "Dativ"
+          ]
+        },
+        {
+          "id": "dativ-06",
+          "file": "grammar/cases/dativ-06.svg",
+          "recommendedUse": "Dativ case helper badge.",
+          "tags": [
+            "Dativ"
+          ]
+        },
+        {
+          "id": "genitiv-01",
+          "file": "grammar/cases/genitiv-01.svg",
+          "recommendedUse": "Genitiv case helper badge.",
+          "tags": [
+            "Genitiv"
+          ]
+        },
+        {
+          "id": "genitiv-02",
+          "file": "grammar/cases/genitiv-02.svg",
+          "recommendedUse": "Genitiv case helper badge.",
+          "tags": [
+            "Genitiv"
+          ]
+        },
+        {
+          "id": "genitiv-03",
+          "file": "grammar/cases/genitiv-03.svg",
+          "recommendedUse": "Genitiv case helper badge.",
+          "tags": [
+            "Genitiv"
+          ]
+        },
+        {
+          "id": "genitiv-04",
+          "file": "grammar/cases/genitiv-04.svg",
+          "recommendedUse": "Genitiv case helper badge.",
+          "tags": [
+            "Genitiv"
+          ]
+        },
+        {
+          "id": "genitiv-05",
+          "file": "grammar/cases/genitiv-05.svg",
+          "recommendedUse": "Genitiv case helper badge.",
+          "tags": [
+            "Genitiv"
+          ]
+        },
+        {
+          "id": "genitiv-06",
+          "file": "grammar/cases/genitiv-06.svg",
+          "recommendedUse": "Genitiv case helper badge.",
+          "tags": [
+            "Genitiv"
+          ]
+        }
+      ]
+    },
+    "pronounChips": {
+      "count": 36,
+      "items": [
+        {
+          "id": "ich-i-01",
+          "file": "grammar/pronouns/ich-i-01.svg",
+          "recommendedUse": "Pronoun chip for ich.",
+          "tags": [
+            "ich",
+            "I"
+          ]
+        },
+        {
+          "id": "ich-i-02",
+          "file": "grammar/pronouns/ich-i-02.svg",
+          "recommendedUse": "Pronoun chip for ich.",
+          "tags": [
+            "ich",
+            "I"
+          ]
+        },
+        {
+          "id": "ich-i-03",
+          "file": "grammar/pronouns/ich-i-03.svg",
+          "recommendedUse": "Pronoun chip for ich.",
+          "tags": [
+            "ich",
+            "I"
+          ]
+        },
+        {
+          "id": "ich-i-04",
+          "file": "grammar/pronouns/ich-i-04.svg",
+          "recommendedUse": "Pronoun chip for ich.",
+          "tags": [
+            "ich",
+            "I"
+          ]
+        },
+        {
+          "id": "du-you-01",
+          "file": "grammar/pronouns/du-you-01.svg",
+          "recommendedUse": "Pronoun chip for du.",
+          "tags": [
+            "du",
+            "you"
+          ]
+        },
+        {
+          "id": "du-you-02",
+          "file": "grammar/pronouns/du-you-02.svg",
+          "recommendedUse": "Pronoun chip for du.",
+          "tags": [
+            "du",
+            "you"
+          ]
+        },
+        {
+          "id": "du-you-03",
+          "file": "grammar/pronouns/du-you-03.svg",
+          "recommendedUse": "Pronoun chip for du.",
+          "tags": [
+            "du",
+            "you"
+          ]
+        },
+        {
+          "id": "du-you-04",
+          "file": "grammar/pronouns/du-you-04.svg",
+          "recommendedUse": "Pronoun chip for du.",
+          "tags": [
+            "du",
+            "you"
+          ]
+        },
+        {
+          "id": "er-he-01",
+          "file": "grammar/pronouns/er-he-01.svg",
+          "recommendedUse": "Pronoun chip for er.",
+          "tags": [
+            "er",
+            "he"
+          ]
+        },
+        {
+          "id": "er-he-02",
+          "file": "grammar/pronouns/er-he-02.svg",
+          "recommendedUse": "Pronoun chip for er.",
+          "tags": [
+            "er",
+            "he"
+          ]
+        },
+        {
+          "id": "er-he-03",
+          "file": "grammar/pronouns/er-he-03.svg",
+          "recommendedUse": "Pronoun chip for er.",
+          "tags": [
+            "er",
+            "he"
+          ]
+        },
+        {
+          "id": "er-he-04",
+          "file": "grammar/pronouns/er-he-04.svg",
+          "recommendedUse": "Pronoun chip for er.",
+          "tags": [
+            "er",
+            "he"
+          ]
+        },
+        {
+          "id": "sie-she-01",
+          "file": "grammar/pronouns/sie-she-01.svg",
+          "recommendedUse": "Pronoun chip for sie.",
+          "tags": [
+            "sie",
+            "she"
+          ]
+        },
+        {
+          "id": "sie-she-02",
+          "file": "grammar/pronouns/sie-she-02.svg",
+          "recommendedUse": "Pronoun chip for sie.",
+          "tags": [
+            "sie",
+            "she"
+          ]
+        },
+        {
+          "id": "sie-she-03",
+          "file": "grammar/pronouns/sie-she-03.svg",
+          "recommendedUse": "Pronoun chip for sie.",
+          "tags": [
+            "sie",
+            "she"
+          ]
+        },
+        {
+          "id": "sie-she-04",
+          "file": "grammar/pronouns/sie-she-04.svg",
+          "recommendedUse": "Pronoun chip for sie.",
+          "tags": [
+            "sie",
+            "she"
+          ]
+        },
+        {
+          "id": "es-it-01",
+          "file": "grammar/pronouns/es-it-01.svg",
+          "recommendedUse": "Pronoun chip for es.",
+          "tags": [
+            "es",
+            "it"
+          ]
+        },
+        {
+          "id": "es-it-02",
+          "file": "grammar/pronouns/es-it-02.svg",
+          "recommendedUse": "Pronoun chip for es.",
+          "tags": [
+            "es",
+            "it"
+          ]
+        },
+        {
+          "id": "es-it-03",
+          "file": "grammar/pronouns/es-it-03.svg",
+          "recommendedUse": "Pronoun chip for es.",
+          "tags": [
+            "es",
+            "it"
+          ]
+        },
+        {
+          "id": "es-it-04",
+          "file": "grammar/pronouns/es-it-04.svg",
+          "recommendedUse": "Pronoun chip for es.",
+          "tags": [
+            "es",
+            "it"
+          ]
+        },
+        {
+          "id": "wir-we-01",
+          "file": "grammar/pronouns/wir-we-01.svg",
+          "recommendedUse": "Pronoun chip for wir.",
+          "tags": [
+            "wir",
+            "we"
+          ]
+        },
+        {
+          "id": "wir-we-02",
+          "file": "grammar/pronouns/wir-we-02.svg",
+          "recommendedUse": "Pronoun chip for wir.",
+          "tags": [
+            "wir",
+            "we"
+          ]
+        },
+        {
+          "id": "wir-we-03",
+          "file": "grammar/pronouns/wir-we-03.svg",
+          "recommendedUse": "Pronoun chip for wir.",
+          "tags": [
+            "wir",
+            "we"
+          ]
+        },
+        {
+          "id": "wir-we-04",
+          "file": "grammar/pronouns/wir-we-04.svg",
+          "recommendedUse": "Pronoun chip for wir.",
+          "tags": [
+            "wir",
+            "we"
+          ]
+        },
+        {
+          "id": "ihr-you-all-01",
+          "file": "grammar/pronouns/ihr-you-all-01.svg",
+          "recommendedUse": "Pronoun chip for ihr.",
+          "tags": [
+            "ihr",
+            "you all"
+          ]
+        },
+        {
+          "id": "ihr-you-all-02",
+          "file": "grammar/pronouns/ihr-you-all-02.svg",
+          "recommendedUse": "Pronoun chip for ihr.",
+          "tags": [
+            "ihr",
+            "you all"
+          ]
+        },
+        {
+          "id": "ihr-you-all-03",
+          "file": "grammar/pronouns/ihr-you-all-03.svg",
+          "recommendedUse": "Pronoun chip for ihr.",
+          "tags": [
+            "ihr",
+            "you all"
+          ]
+        },
+        {
+          "id": "ihr-you-all-04",
+          "file": "grammar/pronouns/ihr-you-all-04.svg",
+          "recommendedUse": "Pronoun chip for ihr.",
+          "tags": [
+            "ihr",
+            "you all"
+          ]
+        },
+        {
+          "id": "sie-they-01",
+          "file": "grammar/pronouns/sie-they-01.svg",
+          "recommendedUse": "Pronoun chip for sie.",
+          "tags": [
+            "sie",
+            "they"
+          ]
+        },
+        {
+          "id": "sie-they-02",
+          "file": "grammar/pronouns/sie-they-02.svg",
+          "recommendedUse": "Pronoun chip for sie.",
+          "tags": [
+            "sie",
+            "they"
+          ]
+        },
+        {
+          "id": "sie-they-03",
+          "file": "grammar/pronouns/sie-they-03.svg",
+          "recommendedUse": "Pronoun chip for sie.",
+          "tags": [
+            "sie",
+            "they"
+          ]
+        },
+        {
+          "id": "sie-they-04",
+          "file": "grammar/pronouns/sie-they-04.svg",
+          "recommendedUse": "Pronoun chip for sie.",
+          "tags": [
+            "sie",
+            "they"
+          ]
+        },
+        {
+          "id": "sie-formal-01",
+          "file": "grammar/pronouns/sie-formal-01.svg",
+          "recommendedUse": "Pronoun chip for Sie.",
+          "tags": [
+            "Sie",
+            "formal"
+          ]
+        },
+        {
+          "id": "sie-formal-02",
+          "file": "grammar/pronouns/sie-formal-02.svg",
+          "recommendedUse": "Pronoun chip for Sie.",
+          "tags": [
+            "Sie",
+            "formal"
+          ]
+        },
+        {
+          "id": "sie-formal-03",
+          "file": "grammar/pronouns/sie-formal-03.svg",
+          "recommendedUse": "Pronoun chip for Sie.",
+          "tags": [
+            "Sie",
+            "formal"
+          ]
+        },
+        {
+          "id": "sie-formal-04",
+          "file": "grammar/pronouns/sie-formal-04.svg",
+          "recommendedUse": "Pronoun chip for Sie.",
+          "tags": [
+            "Sie",
+            "formal"
+          ]
+        }
+      ]
+    },
+    "sentenceTiles": {
+      "count": 136,
+      "items": [
+        {
+          "id": "ich-pronoun-01",
+          "file": "sentence-tiles/ich-pronoun-01.svg",
+          "recommendedUse": "Sentence builder tile for ich.",
+          "tags": [
+            "pronoun"
+          ]
+        },
+        {
+          "id": "du-pronoun-01",
+          "file": "sentence-tiles/du-pronoun-01.svg",
+          "recommendedUse": "Sentence builder tile for du.",
+          "tags": [
+            "pronoun"
+          ]
+        },
+        {
+          "id": "wir-pronoun-01",
+          "file": "sentence-tiles/wir-pronoun-01.svg",
+          "recommendedUse": "Sentence builder tile for wir.",
+          "tags": [
+            "pronoun"
+          ]
+        },
+        {
+          "id": "sie-pronoun-01",
+          "file": "sentence-tiles/sie-pronoun-01.svg",
+          "recommendedUse": "Sentence builder tile for sie.",
+          "tags": [
+            "pronoun"
+          ]
+        },
+        {
+          "id": "bin-verb-01",
+          "file": "sentence-tiles/bin-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for bin.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "bist-verb-01",
+          "file": "sentence-tiles/bist-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for bist.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "ist-verb-01",
+          "file": "sentence-tiles/ist-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for ist.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "sind-verb-01",
+          "file": "sentence-tiles/sind-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for sind.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "habe-verb-01",
+          "file": "sentence-tiles/habe-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for habe.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "hast-verb-01",
+          "file": "sentence-tiles/hast-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for hast.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "hat-verb-01",
+          "file": "sentence-tiles/hat-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for hat.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "haben-verb-01",
+          "file": "sentence-tiles/haben-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for haben.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "gehe-verb-01",
+          "file": "sentence-tiles/gehe-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for gehe.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "gehst-verb-01",
+          "file": "sentence-tiles/gehst-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for gehst.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "geht-verb-01",
+          "file": "sentence-tiles/geht-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for geht.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "gehen-verb-01",
+          "file": "sentence-tiles/gehen-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for gehen.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "lerne-verb-01",
+          "file": "sentence-tiles/lerne-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for lerne.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "lernst-verb-01",
+          "file": "sentence-tiles/lernst-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for lernst.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "lernt-verb-01",
+          "file": "sentence-tiles/lernt-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for lernt.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "lernen-verb-01",
+          "file": "sentence-tiles/lernen-verb-01.svg",
+          "recommendedUse": "Sentence builder tile for lernen.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "der-article-01",
+          "file": "sentence-tiles/der-article-01.svg",
+          "recommendedUse": "Sentence builder tile for der.",
+          "tags": [
+            "article"
+          ]
+        },
+        {
+          "id": "die-article-01",
+          "file": "sentence-tiles/die-article-01.svg",
+          "recommendedUse": "Sentence builder tile for die.",
+          "tags": [
+            "article"
+          ]
+        },
+        {
+          "id": "das-article-01",
+          "file": "sentence-tiles/das-article-01.svg",
+          "recommendedUse": "Sentence builder tile for das.",
+          "tags": [
+            "article"
+          ]
+        },
+        {
+          "id": "ein-article-01",
+          "file": "sentence-tiles/ein-article-01.svg",
+          "recommendedUse": "Sentence builder tile for ein.",
+          "tags": [
+            "article"
+          ]
+        },
+        {
+          "id": "eine-article-01",
+          "file": "sentence-tiles/eine-article-01.svg",
+          "recommendedUse": "Sentence builder tile for eine.",
+          "tags": [
+            "article"
+          ]
+        },
+        {
+          "id": "mein-possessive-01",
+          "file": "sentence-tiles/mein-possessive-01.svg",
+          "recommendedUse": "Sentence builder tile for mein.",
+          "tags": [
+            "possessive"
+          ]
+        },
+        {
+          "id": "meine-possessive-01",
+          "file": "sentence-tiles/meine-possessive-01.svg",
+          "recommendedUse": "Sentence builder tile for meine.",
+          "tags": [
+            "possessive"
+          ]
+        },
+        {
+          "id": "dein-possessive-01",
+          "file": "sentence-tiles/dein-possessive-01.svg",
+          "recommendedUse": "Sentence builder tile for dein.",
+          "tags": [
+            "possessive"
+          ]
+        },
+        {
+          "id": "haus-noun-01",
+          "file": "sentence-tiles/haus-noun-01.svg",
+          "recommendedUse": "Sentence builder tile for Haus.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "buch-noun-01",
+          "file": "sentence-tiles/buch-noun-01.svg",
+          "recommendedUse": "Sentence builder tile for Buch.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "apfel-noun-01",
+          "file": "sentence-tiles/apfel-noun-01.svg",
+          "recommendedUse": "Sentence builder tile for Apfel.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "wasser-noun-01",
+          "file": "sentence-tiles/wasser-noun-01.svg",
+          "recommendedUse": "Sentence builder tile for Wasser.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "schule-noun-01",
+          "file": "sentence-tiles/schule-noun-01.svg",
+          "recommendedUse": "Sentence builder tile for Schule.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "familie-noun-01",
+          "file": "sentence-tiles/familie-noun-01.svg",
+          "recommendedUse": "Sentence builder tile for Familie.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "freund-noun-01",
+          "file": "sentence-tiles/freund-noun-01.svg",
+          "recommendedUse": "Sentence builder tile for Freund.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "stadt-noun-01",
+          "file": "sentence-tiles/stadt-noun-01.svg",
+          "recommendedUse": "Sentence builder tile for Stadt.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "heute-time-01",
+          "file": "sentence-tiles/heute-time-01.svg",
+          "recommendedUse": "Sentence builder tile for heute.",
+          "tags": [
+            "time"
+          ]
+        },
+        {
+          "id": "morgen-time-01",
+          "file": "sentence-tiles/morgen-time-01.svg",
+          "recommendedUse": "Sentence builder tile for morgen.",
+          "tags": [
+            "time"
+          ]
+        },
+        {
+          "id": "jetzt-time-01",
+          "file": "sentence-tiles/jetzt-time-01.svg",
+          "recommendedUse": "Sentence builder tile for jetzt.",
+          "tags": [
+            "time"
+          ]
+        },
+        {
+          "id": "spaeter-time-01",
+          "file": "sentence-tiles/spaeter-time-01.svg",
+          "recommendedUse": "Sentence builder tile for später.",
+          "tags": [
+            "time"
+          ]
+        },
+        {
+          "id": "gut-adjective-01",
+          "file": "sentence-tiles/gut-adjective-01.svg",
+          "recommendedUse": "Sentence builder tile for gut.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "gross-adjective-01",
+          "file": "sentence-tiles/gross-adjective-01.svg",
+          "recommendedUse": "Sentence builder tile for groß.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "klein-adjective-01",
+          "file": "sentence-tiles/klein-adjective-01.svg",
+          "recommendedUse": "Sentence builder tile for klein.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "neu-adjective-01",
+          "file": "sentence-tiles/neu-adjective-01.svg",
+          "recommendedUse": "Sentence builder tile for neu.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "alt-adjective-01",
+          "file": "sentence-tiles/alt-adjective-01.svg",
+          "recommendedUse": "Sentence builder tile for alt.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "schnell-adjective-01",
+          "file": "sentence-tiles/schnell-adjective-01.svg",
+          "recommendedUse": "Sentence builder tile for schnell.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "langsam-adjective-01",
+          "file": "sentence-tiles/langsam-adjective-01.svg",
+          "recommendedUse": "Sentence builder tile for langsam.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "schoen-adjective-01",
+          "file": "sentence-tiles/schoen-adjective-01.svg",
+          "recommendedUse": "Sentence builder tile for schön.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "in-preposition-01",
+          "file": "sentence-tiles/in-preposition-01.svg",
+          "recommendedUse": "Sentence builder tile for in.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "auf-preposition-01",
+          "file": "sentence-tiles/auf-preposition-01.svg",
+          "recommendedUse": "Sentence builder tile for auf.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "mit-preposition-01",
+          "file": "sentence-tiles/mit-preposition-01.svg",
+          "recommendedUse": "Sentence builder tile for mit.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "zu-preposition-01",
+          "file": "sentence-tiles/zu-preposition-01.svg",
+          "recommendedUse": "Sentence builder tile for zu.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "nach-preposition-01",
+          "file": "sentence-tiles/nach-preposition-01.svg",
+          "recommendedUse": "Sentence builder tile for nach.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "von-preposition-01",
+          "file": "sentence-tiles/von-preposition-01.svg",
+          "recommendedUse": "Sentence builder tile for von.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "fuer-preposition-01",
+          "file": "sentence-tiles/fuer-preposition-01.svg",
+          "recommendedUse": "Sentence builder tile for für.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "ohne-preposition-01",
+          "file": "sentence-tiles/ohne-preposition-01.svg",
+          "recommendedUse": "Sentence builder tile for ohne.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "und-connector-01",
+          "file": "sentence-tiles/und-connector-01.svg",
+          "recommendedUse": "Sentence builder tile for und.",
+          "tags": [
+            "connector"
+          ]
+        },
+        {
+          "id": "oder-connector-01",
+          "file": "sentence-tiles/oder-connector-01.svg",
+          "recommendedUse": "Sentence builder tile for oder.",
+          "tags": [
+            "connector"
+          ]
+        },
+        {
+          "id": "aber-connector-01",
+          "file": "sentence-tiles/aber-connector-01.svg",
+          "recommendedUse": "Sentence builder tile for aber.",
+          "tags": [
+            "connector"
+          ]
+        },
+        {
+          "id": "weil-connector-01",
+          "file": "sentence-tiles/weil-connector-01.svg",
+          "recommendedUse": "Sentence builder tile for weil.",
+          "tags": [
+            "connector"
+          ]
+        },
+        {
+          "id": "bitte-phrase-01",
+          "file": "sentence-tiles/bitte-phrase-01.svg",
+          "recommendedUse": "Sentence builder tile for bitte.",
+          "tags": [
+            "phrase"
+          ]
+        },
+        {
+          "id": "danke-phrase-01",
+          "file": "sentence-tiles/danke-phrase-01.svg",
+          "recommendedUse": "Sentence builder tile for danke.",
+          "tags": [
+            "phrase"
+          ]
+        },
+        {
+          "id": "hallo-phrase-01",
+          "file": "sentence-tiles/hallo-phrase-01.svg",
+          "recommendedUse": "Sentence builder tile for hallo.",
+          "tags": [
+            "phrase"
+          ]
+        },
+        {
+          "id": "tschuess-phrase-01",
+          "file": "sentence-tiles/tschuess-phrase-01.svg",
+          "recommendedUse": "Sentence builder tile for tschüss.",
+          "tags": [
+            "phrase"
+          ]
+        },
+        {
+          "id": "ja-answer-01",
+          "file": "sentence-tiles/ja-answer-01.svg",
+          "recommendedUse": "Sentence builder tile for ja.",
+          "tags": [
+            "answer"
+          ]
+        },
+        {
+          "id": "nein-answer-01",
+          "file": "sentence-tiles/nein-answer-01.svg",
+          "recommendedUse": "Sentence builder tile for nein.",
+          "tags": [
+            "answer"
+          ]
+        },
+        {
+          "id": "richtig-feedback-01",
+          "file": "sentence-tiles/richtig-feedback-01.svg",
+          "recommendedUse": "Sentence builder tile for richtig.",
+          "tags": [
+            "feedback"
+          ]
+        },
+        {
+          "id": "falsch-feedback-01",
+          "file": "sentence-tiles/falsch-feedback-01.svg",
+          "recommendedUse": "Sentence builder tile for falsch.",
+          "tags": [
+            "feedback"
+          ]
+        },
+        {
+          "id": "ich-pronoun-02",
+          "file": "sentence-tiles/ich-pronoun-02.svg",
+          "recommendedUse": "Sentence builder tile for ich.",
+          "tags": [
+            "pronoun"
+          ]
+        },
+        {
+          "id": "du-pronoun-02",
+          "file": "sentence-tiles/du-pronoun-02.svg",
+          "recommendedUse": "Sentence builder tile for du.",
+          "tags": [
+            "pronoun"
+          ]
+        },
+        {
+          "id": "wir-pronoun-02",
+          "file": "sentence-tiles/wir-pronoun-02.svg",
+          "recommendedUse": "Sentence builder tile for wir.",
+          "tags": [
+            "pronoun"
+          ]
+        },
+        {
+          "id": "sie-pronoun-02",
+          "file": "sentence-tiles/sie-pronoun-02.svg",
+          "recommendedUse": "Sentence builder tile for sie.",
+          "tags": [
+            "pronoun"
+          ]
+        },
+        {
+          "id": "bin-verb-02",
+          "file": "sentence-tiles/bin-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for bin.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "bist-verb-02",
+          "file": "sentence-tiles/bist-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for bist.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "ist-verb-02",
+          "file": "sentence-tiles/ist-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for ist.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "sind-verb-02",
+          "file": "sentence-tiles/sind-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for sind.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "habe-verb-02",
+          "file": "sentence-tiles/habe-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for habe.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "hast-verb-02",
+          "file": "sentence-tiles/hast-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for hast.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "hat-verb-02",
+          "file": "sentence-tiles/hat-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for hat.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "haben-verb-02",
+          "file": "sentence-tiles/haben-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for haben.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "gehe-verb-02",
+          "file": "sentence-tiles/gehe-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for gehe.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "gehst-verb-02",
+          "file": "sentence-tiles/gehst-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for gehst.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "geht-verb-02",
+          "file": "sentence-tiles/geht-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for geht.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "gehen-verb-02",
+          "file": "sentence-tiles/gehen-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for gehen.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "lerne-verb-02",
+          "file": "sentence-tiles/lerne-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for lerne.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "lernst-verb-02",
+          "file": "sentence-tiles/lernst-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for lernst.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "lernt-verb-02",
+          "file": "sentence-tiles/lernt-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for lernt.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "lernen-verb-02",
+          "file": "sentence-tiles/lernen-verb-02.svg",
+          "recommendedUse": "Sentence builder tile for lernen.",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "id": "der-article-02",
+          "file": "sentence-tiles/der-article-02.svg",
+          "recommendedUse": "Sentence builder tile for der.",
+          "tags": [
+            "article"
+          ]
+        },
+        {
+          "id": "die-article-02",
+          "file": "sentence-tiles/die-article-02.svg",
+          "recommendedUse": "Sentence builder tile for die.",
+          "tags": [
+            "article"
+          ]
+        },
+        {
+          "id": "das-article-02",
+          "file": "sentence-tiles/das-article-02.svg",
+          "recommendedUse": "Sentence builder tile for das.",
+          "tags": [
+            "article"
+          ]
+        },
+        {
+          "id": "ein-article-02",
+          "file": "sentence-tiles/ein-article-02.svg",
+          "recommendedUse": "Sentence builder tile for ein.",
+          "tags": [
+            "article"
+          ]
+        },
+        {
+          "id": "eine-article-02",
+          "file": "sentence-tiles/eine-article-02.svg",
+          "recommendedUse": "Sentence builder tile for eine.",
+          "tags": [
+            "article"
+          ]
+        },
+        {
+          "id": "mein-possessive-02",
+          "file": "sentence-tiles/mein-possessive-02.svg",
+          "recommendedUse": "Sentence builder tile for mein.",
+          "tags": [
+            "possessive"
+          ]
+        },
+        {
+          "id": "meine-possessive-02",
+          "file": "sentence-tiles/meine-possessive-02.svg",
+          "recommendedUse": "Sentence builder tile for meine.",
+          "tags": [
+            "possessive"
+          ]
+        },
+        {
+          "id": "dein-possessive-02",
+          "file": "sentence-tiles/dein-possessive-02.svg",
+          "recommendedUse": "Sentence builder tile for dein.",
+          "tags": [
+            "possessive"
+          ]
+        },
+        {
+          "id": "haus-noun-02",
+          "file": "sentence-tiles/haus-noun-02.svg",
+          "recommendedUse": "Sentence builder tile for Haus.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "buch-noun-02",
+          "file": "sentence-tiles/buch-noun-02.svg",
+          "recommendedUse": "Sentence builder tile for Buch.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "apfel-noun-02",
+          "file": "sentence-tiles/apfel-noun-02.svg",
+          "recommendedUse": "Sentence builder tile for Apfel.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "wasser-noun-02",
+          "file": "sentence-tiles/wasser-noun-02.svg",
+          "recommendedUse": "Sentence builder tile for Wasser.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "schule-noun-02",
+          "file": "sentence-tiles/schule-noun-02.svg",
+          "recommendedUse": "Sentence builder tile for Schule.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "familie-noun-02",
+          "file": "sentence-tiles/familie-noun-02.svg",
+          "recommendedUse": "Sentence builder tile for Familie.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "freund-noun-02",
+          "file": "sentence-tiles/freund-noun-02.svg",
+          "recommendedUse": "Sentence builder tile for Freund.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "stadt-noun-02",
+          "file": "sentence-tiles/stadt-noun-02.svg",
+          "recommendedUse": "Sentence builder tile for Stadt.",
+          "tags": [
+            "noun"
+          ]
+        },
+        {
+          "id": "heute-time-02",
+          "file": "sentence-tiles/heute-time-02.svg",
+          "recommendedUse": "Sentence builder tile for heute.",
+          "tags": [
+            "time"
+          ]
+        },
+        {
+          "id": "morgen-time-02",
+          "file": "sentence-tiles/morgen-time-02.svg",
+          "recommendedUse": "Sentence builder tile for morgen.",
+          "tags": [
+            "time"
+          ]
+        },
+        {
+          "id": "jetzt-time-02",
+          "file": "sentence-tiles/jetzt-time-02.svg",
+          "recommendedUse": "Sentence builder tile for jetzt.",
+          "tags": [
+            "time"
+          ]
+        },
+        {
+          "id": "spaeter-time-02",
+          "file": "sentence-tiles/spaeter-time-02.svg",
+          "recommendedUse": "Sentence builder tile for später.",
+          "tags": [
+            "time"
+          ]
+        },
+        {
+          "id": "gut-adjective-02",
+          "file": "sentence-tiles/gut-adjective-02.svg",
+          "recommendedUse": "Sentence builder tile for gut.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "gross-adjective-02",
+          "file": "sentence-tiles/gross-adjective-02.svg",
+          "recommendedUse": "Sentence builder tile for groß.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "klein-adjective-02",
+          "file": "sentence-tiles/klein-adjective-02.svg",
+          "recommendedUse": "Sentence builder tile for klein.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "neu-adjective-02",
+          "file": "sentence-tiles/neu-adjective-02.svg",
+          "recommendedUse": "Sentence builder tile for neu.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "alt-adjective-02",
+          "file": "sentence-tiles/alt-adjective-02.svg",
+          "recommendedUse": "Sentence builder tile for alt.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "schnell-adjective-02",
+          "file": "sentence-tiles/schnell-adjective-02.svg",
+          "recommendedUse": "Sentence builder tile for schnell.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "langsam-adjective-02",
+          "file": "sentence-tiles/langsam-adjective-02.svg",
+          "recommendedUse": "Sentence builder tile for langsam.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "schoen-adjective-02",
+          "file": "sentence-tiles/schoen-adjective-02.svg",
+          "recommendedUse": "Sentence builder tile for schön.",
+          "tags": [
+            "adjective"
+          ]
+        },
+        {
+          "id": "in-preposition-02",
+          "file": "sentence-tiles/in-preposition-02.svg",
+          "recommendedUse": "Sentence builder tile for in.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "auf-preposition-02",
+          "file": "sentence-tiles/auf-preposition-02.svg",
+          "recommendedUse": "Sentence builder tile for auf.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "mit-preposition-02",
+          "file": "sentence-tiles/mit-preposition-02.svg",
+          "recommendedUse": "Sentence builder tile for mit.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "zu-preposition-02",
+          "file": "sentence-tiles/zu-preposition-02.svg",
+          "recommendedUse": "Sentence builder tile for zu.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "nach-preposition-02",
+          "file": "sentence-tiles/nach-preposition-02.svg",
+          "recommendedUse": "Sentence builder tile for nach.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "von-preposition-02",
+          "file": "sentence-tiles/von-preposition-02.svg",
+          "recommendedUse": "Sentence builder tile for von.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "fuer-preposition-02",
+          "file": "sentence-tiles/fuer-preposition-02.svg",
+          "recommendedUse": "Sentence builder tile for für.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "ohne-preposition-02",
+          "file": "sentence-tiles/ohne-preposition-02.svg",
+          "recommendedUse": "Sentence builder tile for ohne.",
+          "tags": [
+            "preposition"
+          ]
+        },
+        {
+          "id": "und-connector-02",
+          "file": "sentence-tiles/und-connector-02.svg",
+          "recommendedUse": "Sentence builder tile for und.",
+          "tags": [
+            "connector"
+          ]
+        },
+        {
+          "id": "oder-connector-02",
+          "file": "sentence-tiles/oder-connector-02.svg",
+          "recommendedUse": "Sentence builder tile for oder.",
+          "tags": [
+            "connector"
+          ]
+        },
+        {
+          "id": "aber-connector-02",
+          "file": "sentence-tiles/aber-connector-02.svg",
+          "recommendedUse": "Sentence builder tile for aber.",
+          "tags": [
+            "connector"
+          ]
+        },
+        {
+          "id": "weil-connector-02",
+          "file": "sentence-tiles/weil-connector-02.svg",
+          "recommendedUse": "Sentence builder tile for weil.",
+          "tags": [
+            "connector"
+          ]
+        },
+        {
+          "id": "bitte-phrase-02",
+          "file": "sentence-tiles/bitte-phrase-02.svg",
+          "recommendedUse": "Sentence builder tile for bitte.",
+          "tags": [
+            "phrase"
+          ]
+        },
+        {
+          "id": "danke-phrase-02",
+          "file": "sentence-tiles/danke-phrase-02.svg",
+          "recommendedUse": "Sentence builder tile for danke.",
+          "tags": [
+            "phrase"
+          ]
+        },
+        {
+          "id": "hallo-phrase-02",
+          "file": "sentence-tiles/hallo-phrase-02.svg",
+          "recommendedUse": "Sentence builder tile for hallo.",
+          "tags": [
+            "phrase"
+          ]
+        },
+        {
+          "id": "tschuess-phrase-02",
+          "file": "sentence-tiles/tschuess-phrase-02.svg",
+          "recommendedUse": "Sentence builder tile for tschüss.",
+          "tags": [
+            "phrase"
+          ]
+        },
+        {
+          "id": "ja-answer-02",
+          "file": "sentence-tiles/ja-answer-02.svg",
+          "recommendedUse": "Sentence builder tile for ja.",
+          "tags": [
+            "answer"
+          ]
+        },
+        {
+          "id": "nein-answer-02",
+          "file": "sentence-tiles/nein-answer-02.svg",
+          "recommendedUse": "Sentence builder tile for nein.",
+          "tags": [
+            "answer"
+          ]
+        },
+        {
+          "id": "richtig-feedback-02",
+          "file": "sentence-tiles/richtig-feedback-02.svg",
+          "recommendedUse": "Sentence builder tile for richtig.",
+          "tags": [
+            "feedback"
+          ]
+        },
+        {
+          "id": "falsch-feedback-02",
+          "file": "sentence-tiles/falsch-feedback-02.svg",
+          "recommendedUse": "Sentence builder tile for falsch.",
+          "tags": [
+            "feedback"
+          ]
+        }
+      ]
+    },
+    "feedbackParticles": {
+      "count": 80,
+      "items": [
+        {
+          "id": "particle-001",
+          "file": "feedback-particles/particle-001.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-002",
+          "file": "feedback-particles/particle-002.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-003",
+          "file": "feedback-particles/particle-003.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-004",
+          "file": "feedback-particles/particle-004.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-005",
+          "file": "feedback-particles/particle-005.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-006",
+          "file": "feedback-particles/particle-006.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-007",
+          "file": "feedback-particles/particle-007.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-008",
+          "file": "feedback-particles/particle-008.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-009",
+          "file": "feedback-particles/particle-009.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-010",
+          "file": "feedback-particles/particle-010.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-011",
+          "file": "feedback-particles/particle-011.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-012",
+          "file": "feedback-particles/particle-012.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-013",
+          "file": "feedback-particles/particle-013.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-014",
+          "file": "feedback-particles/particle-014.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-015",
+          "file": "feedback-particles/particle-015.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-016",
+          "file": "feedback-particles/particle-016.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-017",
+          "file": "feedback-particles/particle-017.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-018",
+          "file": "feedback-particles/particle-018.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-019",
+          "file": "feedback-particles/particle-019.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-020",
+          "file": "feedback-particles/particle-020.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-021",
+          "file": "feedback-particles/particle-021.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-022",
+          "file": "feedback-particles/particle-022.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-023",
+          "file": "feedback-particles/particle-023.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-024",
+          "file": "feedback-particles/particle-024.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-025",
+          "file": "feedback-particles/particle-025.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-026",
+          "file": "feedback-particles/particle-026.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-027",
+          "file": "feedback-particles/particle-027.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-028",
+          "file": "feedback-particles/particle-028.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-029",
+          "file": "feedback-particles/particle-029.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-030",
+          "file": "feedback-particles/particle-030.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-031",
+          "file": "feedback-particles/particle-031.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-032",
+          "file": "feedback-particles/particle-032.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-033",
+          "file": "feedback-particles/particle-033.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-034",
+          "file": "feedback-particles/particle-034.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-035",
+          "file": "feedback-particles/particle-035.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-036",
+          "file": "feedback-particles/particle-036.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-037",
+          "file": "feedback-particles/particle-037.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-038",
+          "file": "feedback-particles/particle-038.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-039",
+          "file": "feedback-particles/particle-039.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-040",
+          "file": "feedback-particles/particle-040.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-041",
+          "file": "feedback-particles/particle-041.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-042",
+          "file": "feedback-particles/particle-042.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-043",
+          "file": "feedback-particles/particle-043.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-044",
+          "file": "feedback-particles/particle-044.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-045",
+          "file": "feedback-particles/particle-045.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-046",
+          "file": "feedback-particles/particle-046.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-047",
+          "file": "feedback-particles/particle-047.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-048",
+          "file": "feedback-particles/particle-048.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-049",
+          "file": "feedback-particles/particle-049.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-050",
+          "file": "feedback-particles/particle-050.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-051",
+          "file": "feedback-particles/particle-051.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-052",
+          "file": "feedback-particles/particle-052.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-053",
+          "file": "feedback-particles/particle-053.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-054",
+          "file": "feedback-particles/particle-054.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-055",
+          "file": "feedback-particles/particle-055.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-056",
+          "file": "feedback-particles/particle-056.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-057",
+          "file": "feedback-particles/particle-057.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-058",
+          "file": "feedback-particles/particle-058.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-059",
+          "file": "feedback-particles/particle-059.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-060",
+          "file": "feedback-particles/particle-060.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-061",
+          "file": "feedback-particles/particle-061.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-062",
+          "file": "feedback-particles/particle-062.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-063",
+          "file": "feedback-particles/particle-063.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-064",
+          "file": "feedback-particles/particle-064.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-065",
+          "file": "feedback-particles/particle-065.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-066",
+          "file": "feedback-particles/particle-066.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-067",
+          "file": "feedback-particles/particle-067.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-068",
+          "file": "feedback-particles/particle-068.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-069",
+          "file": "feedback-particles/particle-069.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-070",
+          "file": "feedback-particles/particle-070.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-071",
+          "file": "feedback-particles/particle-071.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-072",
+          "file": "feedback-particles/particle-072.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-073",
+          "file": "feedback-particles/particle-073.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-074",
+          "file": "feedback-particles/particle-074.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-075",
+          "file": "feedback-particles/particle-075.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-076",
+          "file": "feedback-particles/particle-076.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-077",
+          "file": "feedback-particles/particle-077.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-078",
+          "file": "feedback-particles/particle-078.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-079",
+          "file": "feedback-particles/particle-079.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        },
+        {
+          "id": "particle-080",
+          "file": "feedback-particles/particle-080.svg",
+          "recommendedUse": "Small celebration, success, or transition particle.",
+          "tags": [
+            "particle"
+          ]
+        }
+      ]
+    },
+    "uiAccents": {
+      "count": 36,
+      "items": [
+        {
+          "id": "vocabulary-01",
+          "file": "ui-accents/vocabulary-01.svg",
+          "recommendedUse": "Vocabulary section or card accent.",
+          "tags": [
+            "Vocabulary"
+          ]
+        },
+        {
+          "id": "vocabulary-02",
+          "file": "ui-accents/vocabulary-02.svg",
+          "recommendedUse": "Vocabulary section or card accent.",
+          "tags": [
+            "Vocabulary"
+          ]
+        },
+        {
+          "id": "vocabulary-03",
+          "file": "ui-accents/vocabulary-03.svg",
+          "recommendedUse": "Vocabulary section or card accent.",
+          "tags": [
+            "Vocabulary"
+          ]
+        },
+        {
+          "id": "grammar-01",
+          "file": "ui-accents/grammar-01.svg",
+          "recommendedUse": "Grammar section or card accent.",
+          "tags": [
+            "Grammar"
+          ]
+        },
+        {
+          "id": "grammar-02",
+          "file": "ui-accents/grammar-02.svg",
+          "recommendedUse": "Grammar section or card accent.",
+          "tags": [
+            "Grammar"
+          ]
+        },
+        {
+          "id": "grammar-03",
+          "file": "ui-accents/grammar-03.svg",
+          "recommendedUse": "Grammar section or card accent.",
+          "tags": [
+            "Grammar"
+          ]
+        },
+        {
+          "id": "listening-01",
+          "file": "ui-accents/listening-01.svg",
+          "recommendedUse": "Listening section or card accent.",
+          "tags": [
+            "Listening"
+          ]
+        },
+        {
+          "id": "listening-02",
+          "file": "ui-accents/listening-02.svg",
+          "recommendedUse": "Listening section or card accent.",
+          "tags": [
+            "Listening"
+          ]
+        },
+        {
+          "id": "listening-03",
+          "file": "ui-accents/listening-03.svg",
+          "recommendedUse": "Listening section or card accent.",
+          "tags": [
+            "Listening"
+          ]
+        },
+        {
+          "id": "speaking-01",
+          "file": "ui-accents/speaking-01.svg",
+          "recommendedUse": "Speaking section or card accent.",
+          "tags": [
+            "Speaking"
+          ]
+        },
+        {
+          "id": "speaking-02",
+          "file": "ui-accents/speaking-02.svg",
+          "recommendedUse": "Speaking section or card accent.",
+          "tags": [
+            "Speaking"
+          ]
+        },
+        {
+          "id": "speaking-03",
+          "file": "ui-accents/speaking-03.svg",
+          "recommendedUse": "Speaking section or card accent.",
+          "tags": [
+            "Speaking"
+          ]
+        },
+        {
+          "id": "review-01",
+          "file": "ui-accents/review-01.svg",
+          "recommendedUse": "Review section or card accent.",
+          "tags": [
+            "Review"
+          ]
+        },
+        {
+          "id": "review-02",
+          "file": "ui-accents/review-02.svg",
+          "recommendedUse": "Review section or card accent.",
+          "tags": [
+            "Review"
+          ]
+        },
+        {
+          "id": "review-03",
+          "file": "ui-accents/review-03.svg",
+          "recommendedUse": "Review section or card accent.",
+          "tags": [
+            "Review"
+          ]
+        },
+        {
+          "id": "daily-goal-01",
+          "file": "ui-accents/daily-goal-01.svg",
+          "recommendedUse": "Daily Goal section or card accent.",
+          "tags": [
+            "Daily Goal"
+          ]
+        },
+        {
+          "id": "daily-goal-02",
+          "file": "ui-accents/daily-goal-02.svg",
+          "recommendedUse": "Daily Goal section or card accent.",
+          "tags": [
+            "Daily Goal"
+          ]
+        },
+        {
+          "id": "daily-goal-03",
+          "file": "ui-accents/daily-goal-03.svg",
+          "recommendedUse": "Daily Goal section or card accent.",
+          "tags": [
+            "Daily Goal"
+          ]
+        },
+        {
+          "id": "streak-01",
+          "file": "ui-accents/streak-01.svg",
+          "recommendedUse": "Streak section or card accent.",
+          "tags": [
+            "Streak"
+          ]
+        },
+        {
+          "id": "streak-02",
+          "file": "ui-accents/streak-02.svg",
+          "recommendedUse": "Streak section or card accent.",
+          "tags": [
+            "Streak"
+          ]
+        },
+        {
+          "id": "streak-03",
+          "file": "ui-accents/streak-03.svg",
+          "recommendedUse": "Streak section or card accent.",
+          "tags": [
+            "Streak"
+          ]
+        },
+        {
+          "id": "lesson-complete-01",
+          "file": "ui-accents/lesson-complete-01.svg",
+          "recommendedUse": "Lesson Complete section or card accent.",
+          "tags": [
+            "Lesson Complete"
+          ]
+        },
+        {
+          "id": "lesson-complete-02",
+          "file": "ui-accents/lesson-complete-02.svg",
+          "recommendedUse": "Lesson Complete section or card accent.",
+          "tags": [
+            "Lesson Complete"
+          ]
+        },
+        {
+          "id": "lesson-complete-03",
+          "file": "ui-accents/lesson-complete-03.svg",
+          "recommendedUse": "Lesson Complete section or card accent.",
+          "tags": [
+            "Lesson Complete"
+          ]
+        },
+        {
+          "id": "try-again-01",
+          "file": "ui-accents/try-again-01.svg",
+          "recommendedUse": "Try Again section or card accent.",
+          "tags": [
+            "Try Again"
+          ]
+        },
+        {
+          "id": "try-again-02",
+          "file": "ui-accents/try-again-02.svg",
+          "recommendedUse": "Try Again section or card accent.",
+          "tags": [
+            "Try Again"
+          ]
+        },
+        {
+          "id": "try-again-03",
+          "file": "ui-accents/try-again-03.svg",
+          "recommendedUse": "Try Again section or card accent.",
+          "tags": [
+            "Try Again"
+          ]
+        },
+        {
+          "id": "perfect-round-01",
+          "file": "ui-accents/perfect-round-01.svg",
+          "recommendedUse": "Perfect Round section or card accent.",
+          "tags": [
+            "Perfect Round"
+          ]
+        },
+        {
+          "id": "perfect-round-02",
+          "file": "ui-accents/perfect-round-02.svg",
+          "recommendedUse": "Perfect Round section or card accent.",
+          "tags": [
+            "Perfect Round"
+          ]
+        },
+        {
+          "id": "perfect-round-03",
+          "file": "ui-accents/perfect-round-03.svg",
+          "recommendedUse": "Perfect Round section or card accent.",
+          "tags": [
+            "Perfect Round"
+          ]
+        },
+        {
+          "id": "a1-path-01",
+          "file": "ui-accents/a1-path-01.svg",
+          "recommendedUse": "A1 Path section or card accent.",
+          "tags": [
+            "A1 Path"
+          ]
+        },
+        {
+          "id": "a1-path-02",
+          "file": "ui-accents/a1-path-02.svg",
+          "recommendedUse": "A1 Path section or card accent.",
+          "tags": [
+            "A1 Path"
+          ]
+        },
+        {
+          "id": "a1-path-03",
+          "file": "ui-accents/a1-path-03.svg",
+          "recommendedUse": "A1 Path section or card accent.",
+          "tags": [
+            "A1 Path"
+          ]
+        },
+        {
+          "id": "a2-path-01",
+          "file": "ui-accents/a2-path-01.svg",
+          "recommendedUse": "A2 Path section or card accent.",
+          "tags": [
+            "A2 Path"
+          ]
+        },
+        {
+          "id": "a2-path-02",
+          "file": "ui-accents/a2-path-02.svg",
+          "recommendedUse": "A2 Path section or card accent.",
+          "tags": [
+            "A2 Path"
+          ]
+        },
+        {
+          "id": "a2-path-03",
+          "file": "ui-accents/a2-path-03.svg",
+          "recommendedUse": "A2 Path section or card accent.",
+          "tags": [
+            "A2 Path"
+          ]
+        }
+      ]
+    }
+  },
+  "totalCount": 532
+}

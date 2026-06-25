@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="feedback particle 50">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#263238" flood-opacity=".16"/>
+    </filter>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".55"/>
+      <stop offset=".65" stop-color="#FFFFFF" stop-opacity=".08"/>
+    </linearGradient>
+  </defs>
+<circle cx="94.8" cy="96.9" r="5" fill="#F9C74F" opacity=".9"/>
+<rect x="66.9" y="110.3" width="12" height="12" rx="3" fill="#F36F5B" transform="rotate(67.0 72.9 116.3)" opacity=".85"/>
+<path d="M35.0 80.3l4 7 8 1-6 5 2 8-8-4-8 4 2-8-6-5 8-1 4-7Z" fill="#65A765" opacity=".88"/>
+<circle cx="58.8" cy="65.5" r="8" fill="#7A6FF0" opacity=".9"/>
+<rect x="63.8" y="52.9" width="12" height="12" rx="3" fill="#2F6F6D" transform="rotate(118.0 69.8 58.9)" opacity=".85"/>
+<path d="M109.3 39.7l4 7 8 1-6 5 2 8-8-4-8 4 2-8-6-5 8-1 4-7Z" fill="#5AA9E6" opacity=".88"/>
+<circle cx="102.9" cy="78.5" r="7" fill="#F9C74F" opacity=".9"/>
+<path d="M42 96c11-36 21-55 38-55s27 19 38 55c-22 17-54 17-76 0Z" fill="#F9C74F" filter="url(#shadow)"/><circle cx="80" cy="73" r="13" fill="#FFFDF7" opacity=".75"/>
+  <circle cx="80" cy="80" r="48" fill="none" stroke="#7A6FF0" stroke-width="5" opacity=".24"/>
+</svg>

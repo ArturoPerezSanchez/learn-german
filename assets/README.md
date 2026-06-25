@@ -9,6 +9,7 @@ This folder contains an original, family-friendly asset pack for a professional 
 - `images/backgrounds/` - calm SVG scene backgrounds for dashboard, lesson, quiz, and celebration states.
 - `images/main-menu/` - background art, polished game-mode icons, stickers, and SVG accents for the game selection menu.
 - `images/feedback-states/` - transparent PNG feedback stickers for correct answers, hints, retries, streaks, and completion moments.
+- `images/extended/` - 532 generated SVG assets for achievements, lessons, grammar helpers, sentence tiles, particles, and UI accents.
 - `images/cards/` - vocabulary card artwork with German labels, including `generated/` with 442 app-ready cards.
 - `images/characters/` - friendly human guide illustrations, including polished PNG cutouts in `generated/` and four-frame animation previews in `animations/`.
 - `images/icons/` - reusable SVG icons for app navigation and learning modes.
@@ -27,6 +28,7 @@ This folder contains an original, family-friendly asset pack for a professional 
 - Animated characters: preview all four at `images/characters/animations/preview.html`; implementation notes live in `docs/character-animation-integration.md`.
 - Main menu polish: use `images/main-menu/main-menu-background-town.png`, `images/main-menu/hero-decoration.png`, and `images/main-menu/icons/*.png` to upgrade the game selection screen.
 - Feedback states: use `images/feedback-states/items/*.png` for correct, retry, hint, streak, and completion UI moments.
+- Extended asset pack: browse `images/extended/index.html` and load paths from `images/extended/extended-assets-manifest.json`.
 - Flashcards: `images/cards/*.svg`, `audio/sfx/card_flip.wav`, `audio/sfx/correct_soft.wav`.
 - Expanded deck: load `data/vocabulary-expanded.json` and render each card's `image` path.
 - Quiz mode: `images/backgrounds/quiz-table.svg`, `audio/sfx/incorrect_gentle.wav`, `audio/sfx/level_complete.wav`.
@@ -52,3 +54,13 @@ python assets/scripts/generate_vocabulary_cards.py
 ```
 
 This creates `442` SVG cards in `images/cards/generated/`, writes `data/vocabulary-expanded.json`, and builds `images/cards/generated/index.html` for browsing the full deck.
+
+## Extended Asset Pack Regeneration
+
+Run this any time you want to regenerate the achievement, lesson, grammar, sentence tile, particle, and UI accent pack:
+
+```powershell
+python assets/scripts/generate_extended_app_assets.py
+```
+
+This creates `532` SVG assets in `images/extended/`, writes `images/extended/extended-assets-manifest.json`, and builds `images/extended/index.html` for browsing the pack.

@@ -7,7 +7,7 @@
   "folders": {
     "brand": "Design tokens and brand direction",
     "data": "Starter content and copy",
-    "images": "SVG illustrations, icons, cards, stickers, backgrounds, menu art",
+    "images": "SVG illustrations, icons, cards, stickers, backgrounds, menu art, extended UI/game assets",
     "audio": "Generated WAV sfx and music loops",
     "docs": "Developer handoff notes and integration guides",
     "licenses": "Provenance and attribution notes",
@@ -41,6 +41,23 @@
     "sheet": "images/feedback-states/feedback-states-sheet.png",
     "itemFolder": "images/feedback-states/items",
     "count": 8
+  },
+  "extendedAssets": {
+    "manifest": "images/extended/extended-assets-manifest.json",
+    "readme": "images/extended/README.md",
+    "preview": "images/extended/index.html",
+    "generator": "scripts/generate_extended_app_assets.py",
+    "count": 532,
+    "categories": {
+      "achievements": 100,
+      "lessonBadges": 96,
+      "grammarArticleBadges": 24,
+      "grammarCaseBadges": 24,
+      "pronounChips": 36,
+      "sentenceTiles": 136,
+      "feedbackParticles": 80,
+      "uiAccents": 36
+    }
   },
   "characters": {
     "polishedCount": 4,
