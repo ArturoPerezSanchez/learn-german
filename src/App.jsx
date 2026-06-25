@@ -194,15 +194,13 @@ export default function App() {
           const vis = CATEGORY_VISUALS[cat] ?? {}
           return (
             <section key={cat} style={s.section}>
-              {/* Section ribbon with sticker accent */}
-              <div style={s.sectionHead}>
-                {/* Ribbon is in-flow so it sets the parent's height */}
-                <img src={vis.ribbon} alt="" aria-hidden="true" style={s.sectionRibbon} />
-                {/* Text + sticker float on top */}
-                <div style={s.sectionOverlay}>
-                  <span style={s.catLabel}>{cat}</span>
-                  <img src={vis.sticker} alt="" aria-hidden="true" style={s.sectionSticker} />
-                </div>
+              {/* Section ribbon — SVG as CSS background so text/sticker are normal children */}
+              <div style={{
+                ...s.sectionHead,
+                backgroundImage: `url(${vis.ribbon})`,
+              }}>
+                <span style={s.catLabel}>{cat}</span>
+                <img src={vis.sticker} alt="" aria-hidden="true" style={s.sectionSticker} />
               </div>
 
               <div style={s.grid}>
@@ -317,22 +315,22 @@ const s = {
   subtitle: { fontSize: 15, color: 'var(--color-spruce)', marginTop: 2 },
 
   // ── Section ribbons ──
-  section:     { marginBottom: 'var(--space-xl)' },
-  // Ribbon img is in normal flow — it sets the container height naturally
-  sectionHead:   { position: 'relative', marginBottom: 14 },
-  sectionRibbon: { display: 'block', width: '100%', height: 52, objectFit: 'fill', opacity: 0.92 },
-  // Overlay sits on top of the ribbon
-  sectionOverlay: {
-    position: 'absolute', inset: 0,
-    display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-    paddingLeft: 52, paddingRight: 12,
-    pointerEvents: 'none',
+  section: { marginBottom: 'var(--space-xl)' },
+  sectionHead: {
+    display: 'flex', alignItems: 'center', justifyContent: 'center',
+    height: 52, marginBottom: 14,
+    position: 'relative',
+    backgroundSize: '100% 100%',
+    backgroundRepeat: 'no-repeat',
   },
   catLabel: {
     fontSize: 13, fontWeight: 900, textTransform: 'uppercase',
     letterSpacing: 1.5, color: '#FFFDF7',
   },
-  sectionSticker: { width: 44, height: 44, objectFit: 'contain', flexShrink: 0 },
+  sectionSticker: {
+    position: 'absolute', right: 8, top: '50%', transform: 'translateY(-50%)',
+    width: 44, height: 44, objectFit: 'contain',
+  },
 
   // ── Game cards ──
   grid: { display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(175px, 1fr))', gap: 12 },
