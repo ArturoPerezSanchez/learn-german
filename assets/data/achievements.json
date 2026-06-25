@@ -1,0 +1,9 @@
+{
+  "achievements": [
+    {"id": "first-word", "title": "First Word", "description": "Learn your first German word.", "icon": "../images/icons/star.svg", "sfx": "../audio/sfx/correct_soft.wav"},
+    {"id": "five-in-row", "title": "Five In A Row", "description": "Answer five cards correctly.", "icon": "../images/icons/trophy.svg", "sfx": "../audio/sfx/streak_sparkle.wav"},
+    {"id": "pronunciation-practice", "title": "Clear Voice", "description": "Practice a phrase out loud.", "icon": "../images/icons/pronunciation.svg", "sfx": "../audio/sfx/pronunciation_ping.wav"},
+    {"id": "lesson-complete", "title": "Lesson Complete", "description": "Finish a full lesson.", "icon": "../images/icons/lesson.svg", "sfx": "../audio/sfx/level_complete.wav"}
+  ]
+}
+

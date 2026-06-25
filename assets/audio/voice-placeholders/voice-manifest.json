@@ -1,0 +1,19 @@
+{
+  "notes": "These are recording targets for future native-speaker pronunciation audio. No synthetic voice files are included yet.",
+  "recordingFormat": {
+    "preferred": "wav",
+    "sampleRate": 48000,
+    "channels": "mono",
+    "normalization": "-16 LUFS"
+  },
+  "items": [
+    {"id": "der-apfel", "text": "der Apfel", "targetFile": "der-apfel.wav"},
+    {"id": "das-haus", "text": "das Haus", "targetFile": "das-haus.wav"},
+    {"id": "das-buch", "text": "das Buch", "targetFile": "das-buch.wav"},
+    {"id": "die-familie", "text": "die Familie", "targetFile": "die-familie.wav"},
+    {"id": "guten-morgen", "text": "Guten Morgen!", "targetFile": "guten-morgen.wav"},
+    {"id": "wie-geht-es-dir", "text": "Wie geht es dir?", "targetFile": "wie-geht-es-dir.wav"},
+    {"id": "danke-schoen", "text": "Danke schön.", "targetFile": "danke-schoen.wav"}
+  ]
+}
+

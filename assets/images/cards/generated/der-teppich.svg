@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 480" role="img" aria-labelledby="title desc">
+  <title id="title">der Teppich vocabulary card</title>
+  <desc id="desc">A German vocabulary card for der Teppich, meaning rug.</desc>
+  <rect x="10" y="10" width="340" height="460" rx="24" fill="#FFFDF7" stroke="#263238" stroke-width="8"/>
+  <rect x="230" y="24" width="106" height="34" rx="17" fill="#E8F1F2" stroke="#D7E0DF" stroke-width="3"/>
+  <text x="283" y="47" text-anchor="middle" fill="#2F6F6D" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="900">NOUN</text>
+  <rect x="24" y="24" width="72" height="42" rx="21" fill="#FFFDF7" stroke="#263238" stroke-width="5"/><text x="60" y="53" text-anchor="middle" fill="#263238" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900">der</text>
+  
+  <rect x="86" y="152" width="188" height="132" rx="28" fill="#5AA9E6" stroke="#263238" stroke-width="7"/>
+  <path d="M121 180h118M121 218h118M121 256h118" stroke="#FFFDF7" stroke-width="10" stroke-linecap="round"/>
+  <path d="M92 168h-18M92 198h-18M92 228h-18M92 258h-18M268 168h18M268 198h18M268 228h18M268 258h18" stroke="#263238" stroke-width="6" stroke-linecap="round"/>
+
+  <text x="180" y="356" text-anchor="middle" fill="#263238" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="900">der Teppich</text>
+  <text x="180" y="420" text-anchor="middle" fill="#2F6F6D" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800">rug</text>
+</svg>

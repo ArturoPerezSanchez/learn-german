@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">Lesson icon</title>
+  <rect x="18" y="12" width="60" height="72" rx="10" fill="#5AA9E6" stroke="#263238" stroke-width="6"/>
+  <path d="M33 32h30M33 48h22M33 64h30" stroke="#FFFDF7" stroke-width="7" stroke-linecap="round"/>
+</svg>
+

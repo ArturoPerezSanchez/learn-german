@@ -1,0 +1,83 @@
+{
+  "name": "Main Menu Visual Upgrade Assets",
+  "generatedOn": "2026-06-25",
+  "style": "Premium family-friendly German learning app UI illustration",
+  "usage": "Optional assets to make the current game selection menu feel warmer, richer, and more polished without requiring a layout rewrite.",
+  "backgrounds": [
+    {
+      "id": "main-menu-background-town",
+      "file": "main-menu-background-town.png",
+      "type": "full-screen background",
+      "recommendedUse": "Set behind the existing menu content with a soft overlay if needed."
+    }
+  ],
+  "hero": [
+    {
+      "id": "hero-decoration",
+      "file": "hero-decoration.png",
+      "source": "hero-decoration-chromakey.png",
+      "type": "transparent overlay",
+      "recommendedUse": "Place around the title/teacher hero panel. Center is intentionally open for text."
+    }
+  ],
+  "gameModeIcons": {
+    "sheet": "game-mode-icons-sheet.png",
+    "source": "game-mode-icons-sheet-chromakey.png",
+    "manifest": "game-mode-icons-manifest.json",
+    "icons": [
+      { "id": "flashcards", "file": "icons/flashcards.png" },
+      { "id": "nouns-choice", "file": "icons/nouns-choice.png" },
+      { "id": "adjectives", "file": "icons/adjectives.png" },
+      { "id": "matching", "file": "icons/matching.png" },
+      { "id": "articles", "file": "icons/articles.png" },
+      { "id": "verb-forms", "file": "icons/verb-forms.png" },
+      { "id": "fill-gap", "file": "icons/fill-gap.png" },
+      { "id": "build-sentence", "file": "icons/build-sentence.png" }
+    ]
+  },
+  "stickers": {
+    "sheet": "decor-stickers-sheet.png",
+    "source": "decor-stickers-sheet-chromakey.png",
+    "manifest": "decor-stickers-manifest.json",
+    "items": [
+      { "id": "vocabulary-stack", "file": "stickers/vocabulary-stack.png" },
+      { "id": "grammar-tags", "file": "stickers/grammar-tags.png" },
+      { "id": "book-pile", "file": "stickers/book-pile.png" },
+      { "id": "pencil-sparkle", "file": "stickers/pencil-sparkle.png" },
+      { "id": "headphones-badge", "file": "stickers/headphones-badge.png" },
+      { "id": "sunny-star", "file": "stickers/sunny-star.png" },
+      { "id": "check-badge", "file": "stickers/check-badge.png" },
+      { "id": "progress-ribbon", "file": "stickers/progress-ribbon.png" }
+    ]
+  },
+  "svgAccents": [
+    {
+      "id": "section-ribbon-vocabulary",
+      "file": "section-ribbon-vocabulary.svg",
+      "recommendedUse": "Optional decorative backing behind the Vocabulary section heading."
+    },
+    {
+      "id": "section-ribbon-grammar",
+      "file": "section-ribbon-grammar.svg",
+      "recommendedUse": "Optional decorative backing behind the Grammar section heading."
+    },
+    {
+      "id": "card-corner-vocabulary",
+      "file": "card-corner-vocabulary.svg",
+      "recommendedUse": "Optional low-opacity corner accent for vocabulary cards."
+    },
+    {
+      "id": "card-corner-grammar",
+      "file": "card-corner-grammar.svg",
+      "recommendedUse": "Optional low-opacity corner accent for grammar cards."
+    },
+    {
+      "id": "footer-progress-band",
+      "file": "footer-progress-band.svg",
+      "recommendedUse": "Optional footer decoration behind the vocabulary count."
+    }
+  ],
+  "review": {
+    "contactSheet": "main-menu-assets-contact-sheet.jpg"
+  }
+}

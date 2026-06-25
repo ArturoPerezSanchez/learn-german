@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="180" viewBox="0 0 220 180" role="img" aria-label="Grammar card corner decoration">
+  <path d="M0 0h220v180C142 166 72 117 0 29V0Z" fill="#FFF3DB"/>
+  <path d="M142 45l44 18-24 58-44-18 24-58Z" fill="#FFFDF7" stroke="#F36F5B" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="158" cy="78" r="12" fill="#7A6FF0" opacity=".9"/>
+  <circle cx="183" cy="92" r="9" fill="#F9C74F"/>
+  <path d="M132 98h35M124 112h28" stroke="#2F6F6D" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="82" cy="96" r="10" fill="#65A765"/>
+</svg>

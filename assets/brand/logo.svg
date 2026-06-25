@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" role="img" aria-labelledby="title desc">
+  <title id="title">German learning app logo</title>
+  <desc id="desc">A friendly open book logo with the words Deutsch Start.</desc>
+  <rect width="720" height="220" rx="32" fill="#FFFDF7"/>
+  <g transform="translate(42 42)">
+    <path d="M64 28c38-19 78-10 112 14v111c-35-23-72-31-112-12V28Z" fill="#5AA9E6"/>
+    <path d="M176 42c34-24 74-33 112-14v113c-40-19-77-11-112 12V42Z" fill="#65A765"/>
+    <path d="M176 42v111" stroke="#263238" stroke-width="8" stroke-linecap="round"/>
+    <path d="M64 28c38-19 78-10 112 14 34-24 74-33 112-14" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M64 28v113c40-19 77-11 112 12 35-23 72-31 112-12V28" fill="none" stroke="#263238" stroke-width="8" stroke-linejoin="round"/>
+    <circle cx="118" cy="88" r="13" fill="#F9C74F"/>
+    <path d="M103 118h48" stroke="#FFFDF7" stroke-width="8" stroke-linecap="round"/>
+    <path d="M207 82h44M207 112h34" stroke="#FFFDF7" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <text x="365" y="98" fill="#263238" font-family="Nunito Sans, Inter, Arial, sans-serif" font-size="52" font-weight="800">Deutsch</text>
+  <text x="368" y="150" fill="#2F6F6D" font-family="Nunito Sans, Inter, Arial, sans-serif" font-size="44" font-weight="700">Start</text>
+</svg>
+

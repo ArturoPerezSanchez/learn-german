@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">Quiz icon</title>
+  <circle cx="48" cy="48" r="36" fill="#F9C74F" stroke="#263238" stroke-width="6"/>
+  <text x="48" y="65" text-anchor="middle" fill="#263238" font-family="Inter, Arial, sans-serif" font-size="50" font-weight="900">?</text>
+</svg>
+

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 480" role="img" aria-labelledby="title desc">
+  <title id="title">das Wasser vocabulary card</title>
+  <desc id="desc">A glass of water vocabulary card labeled das Wasser.</desc>
+  <rect x="10" y="10" width="340" height="460" rx="24" fill="#FFFDF7" stroke="#263238" stroke-width="8"/>
+  <path d="M112 122h136l-18 220H130Z" fill="#DDF2F8" stroke="#263238" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M124 235c38-22 73 22 112 0l-9 100h-94Z" fill="#5AA9E6"/>
+  <path d="M130 174h100" stroke="#FFFDF7" stroke-width="10" stroke-linecap="round"/>
+  <text x="180" y="405" text-anchor="middle" fill="#263238" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="900">das Wasser</text>
+</svg>
+

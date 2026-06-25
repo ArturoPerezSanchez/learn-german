@@ -1,0 +1,157 @@
+{
+  "source": "../teacher-rig-parts-sheet.png",
+  "layers": {
+    "body": {
+      "file": "layers/body.png",
+      "sourceBox": [
+        107,
+        166,
+        394,
+        972
+      ],
+      "cropBox": [
+        95,
+        154,
+        406,
+        984
+      ],
+      "size": [
+        311,
+        830
+      ]
+    },
+    "head": {
+      "file": "layers/head.png",
+      "sourceBox": [
+        434,
+        36,
+        660,
+        316
+      ],
+      "cropBox": [
+        422,
+        24,
+        672,
+        328
+      ],
+      "size": [
+        250,
+        304
+      ]
+    },
+    "book": {
+      "file": "layers/book.png",
+      "sourceBox": [
+        743,
+        630,
+        902,
+        854
+      ],
+      "cropBox": [
+        731,
+        618,
+        914,
+        866
+      ],
+      "size": [
+        183,
+        248
+      ]
+    },
+    "wave-arm": {
+      "file": "layers/wave-arm.png",
+      "sourceBox": [
+        967,
+        556,
+        1170,
+        715
+      ],
+      "cropBox": [
+        955,
+        544,
+        1182,
+        727
+      ],
+      "size": [
+        227,
+        183
+      ]
+    },
+    "eyes-open": {
+      "file": "layers/eyes-open.png",
+      "sourceBox": [
+        462,
+        380,
+        620,
+        455
+      ],
+      "cropBox": [
+        450,
+        368,
+        632,
+        467
+      ],
+      "size": [
+        182,
+        99
+      ]
+    },
+    "eyes-closed": {
+      "file": "layers/eyes-closed.png",
+      "sourceBox": [
+        650,
+        379,
+        805,
+        452
+      ],
+      "cropBox": [
+        638,
+        367,
+        817,
+        464
+      ],
+      "size": [
+        179,
+        97
+      ]
+    },
+    "mouth-open": {
+      "file": "layers/mouth-open.png",
+      "sourceBox": [
+        702,
+        465,
+        752,
+        511
+      ],
+      "cropBox": [
+        690,
+        453,
+        764,
+        523
+      ],
+      "size": [
+        74,
+        70
+      ]
+    },
+    "shadow": {
+      "file": "layers/shadow.png",
+      "sourceBox": [
+        923,
+        904,
+        1366,
+        944
+      ],
+      "cropBox": [
+        911,
+        892,
+        1378,
+        956
+      ],
+      "size": [
+        467,
+        64
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "source": "../teacher-4frame-sprite.png",
+  "frames": [
+    {
+      "file": "frames/frame-1.png",
+      "sourceBox": [
+        139,
+        41,
+        502,
+        837
+      ],
+      "cropBox": [
+        121,
+        23,
+        520,
+        855
+      ],
+      "size": [
+        399,
+        832
+      ]
+    },
+    {
+      "file": "frames/frame-2.png",
+      "sourceBox": [
+        555,
+        39,
+        922,
+        837
+      ],
+      "cropBox": [
+        537,
+        21,
+        930,
+        855
+      ],
+      "size": [
+        393,
+        834
+      ]
+    },
+    {
+      "file": "frames/frame-3.png",
+      "sourceBox": [
+        938,
+        38,
+        1245,
+        836
+      ],
+      "cropBox": [
+        930,
+        20,
+        1263,
+        854
+      ],
+      "size": [
+        333,
+        834
+      ]
+    },
+    {
+      "file": "frames/frame-4.png",
+      "sourceBox": [
+        1336,
+        41,
+        1700,
+        837
+      ],
+      "cropBox": [
+        1318,
+        23,
+        1718,
+        855
+      ],
+      "size": [
+        400,
+        832
+      ]
+    }
+  ]
+}

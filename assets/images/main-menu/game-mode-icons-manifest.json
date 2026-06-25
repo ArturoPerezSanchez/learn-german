@@ -1,0 +1,165 @@
+{
+  "source": "game-mode-icons-sheet.png",
+  "icons": [
+    {
+      "id": "flashcards",
+      "file": "icons/flashcards.png",
+      "sourceCell": [
+        0,
+        0,
+        423,
+        464
+      ],
+      "trimBox": [
+        58,
+        50,
+        423,
+        464
+      ],
+      "size": [
+        420,
+        420
+      ]
+    },
+    {
+      "id": "nouns-choice",
+      "file": "icons/nouns-choice.png",
+      "sourceCell": [
+        423,
+        0,
+        847,
+        464
+      ],
+      "trimBox": [
+        28,
+        49,
+        423,
+        464
+      ],
+      "size": [
+        420,
+        420
+      ]
+    },
+    {
+      "id": "adjectives",
+      "file": "icons/adjectives.png",
+      "sourceCell": [
+        847,
+        0,
+        1270,
+        464
+      ],
+      "trimBox": [
+        3,
+        49,
+        400,
+        464
+      ],
+      "size": [
+        420,
+        420
+      ]
+    },
+    {
+      "id": "matching",
+      "file": "icons/matching.png",
+      "sourceCell": [
+        1270,
+        0,
+        1694,
+        464
+      ],
+      "trimBox": [
+        0,
+        51,
+        366,
+        464
+      ],
+      "size": [
+        420,
+        420
+      ]
+    },
+    {
+      "id": "articles",
+      "file": "icons/articles.png",
+      "sourceCell": [
+        0,
+        464,
+        423,
+        929
+      ],
+      "trimBox": [
+        57,
+        0,
+        423,
+        419
+      ],
+      "size": [
+        420,
+        420
+      ]
+    },
+    {
+      "id": "verb-forms",
+      "file": "icons/verb-forms.png",
+      "sourceCell": [
+        423,
+        464,
+        847,
+        929
+      ],
+      "trimBox": [
+        31,
+        0,
+        417,
+        418
+      ],
+      "size": [
+        420,
+        420
+      ]
+    },
+    {
+      "id": "fill-gap",
+      "file": "icons/fill-gap.png",
+      "sourceCell": [
+        847,
+        464,
+        1270,
+        929
+      ],
+      "trimBox": [
+        0,
+        0,
+        393,
+        420
+      ],
+      "size": [
+        420,
+        420
+      ]
+    },
+    {
+      "id": "build-sentence",
+      "file": "icons/build-sentence.png",
+      "sourceCell": [
+        1270,
+        464,
+        1694,
+        929
+      ],
+      "trimBox": [
+        0,
+        2,
+        362,
+        422
+      ],
+      "size": [
+        420,
+        420
+      ]
+    }
+  ]
+}

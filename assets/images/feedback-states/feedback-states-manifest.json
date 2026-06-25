@@ -1,0 +1,161 @@
+{
+  "name": "Feedback States Sticker Pack",
+  "generatedOn": "2026-06-25",
+  "style": "Premium family-friendly 2D app stickers",
+  "sourceSheet": "feedback-states-sheet.png",
+  "sourceChromaKey": "feedback-states-sheet-chromakey.png",
+  "items": [
+    {
+      "id": "correct-burst",
+      "file": "items/correct-burst.png",
+      "sourceCell": [
+        0,
+        0,
+        422,
+        465
+      ],
+      "trimBox": [
+        49,
+        56,
+        422,
+        460
+      ],
+      "width": 420,
+      "height": 420,
+      "recommendedUse": "Short celebration after a correct answer."
+    },
+    {
+      "id": "wrong-gentle-hint",
+      "file": "items/wrong-gentle-hint.png",
+      "sourceCell": [
+        422,
+        0,
+        845,
+        465
+      ],
+      "trimBox": [
+        39,
+        46,
+        423,
+        455
+      ],
+      "width": 420,
+      "height": 420,
+      "recommendedUse": "Non-punitive feedback after an incorrect answer."
+    },
+    {
+      "id": "try-again-sparkle",
+      "file": "items/try-again-sparkle.png",
+      "sourceCell": [
+        845,
+        0,
+        1268,
+        465
+      ],
+      "trimBox": [
+        4,
+        60,
+        402,
+        462
+      ],
+      "width": 420,
+      "height": 420,
+      "recommendedUse": "Retry prompt or second-attempt encouragement."
+    },
+    {
+      "id": "streak-star-flame",
+      "file": "items/streak-star-flame.png",
+      "sourceCell": [
+        1268,
+        0,
+        1691,
+        465
+      ],
+      "trimBox": [
+        0,
+        59,
+        384,
+        465
+      ],
+      "width": 420,
+      "height": 420,
+      "recommendedUse": "Daily streak or repeated-correct-answer feedback."
+    },
+    {
+      "id": "level-complete-trophy",
+      "file": "items/level-complete-trophy.png",
+      "sourceCell": [
+        0,
+        465,
+        422,
+        930
+      ],
+      "trimBox": [
+        30,
+        0,
+        422,
+        400
+      ],
+      "width": 420,
+      "height": 420,
+      "recommendedUse": "Lesson/game completion screen."
+    },
+    {
+      "id": "perfect-score-badge",
+      "file": "items/perfect-score-badge.png",
+      "sourceCell": [
+        422,
+        465,
+        845,
+        930
+      ],
+      "trimBox": [
+        6,
+        0,
+        423,
+        383
+      ],
+      "width": 420,
+      "height": 420,
+      "recommendedUse": "Perfect round or no-mistake result."
+    },
+    {
+      "id": "hint-glow-lightbulb",
+      "file": "items/hint-glow-lightbulb.png",
+      "sourceCell": [
+        845,
+        465,
+        1268,
+        930
+      ],
+      "trimBox": [
+        18,
+        0,
+        423,
+        397
+      ],
+      "width": 420,
+      "height": 420,
+      "recommendedUse": "Optional hint reveal or grammar clue."
+    },
+    {
+      "id": "review-complete-stack",
+      "file": "items/review-complete-stack.png",
+      "sourceCell": [
+        1268,
+        465,
+        1691,
+        930
+      ],
+      "trimBox": [
+        0,
+        0,
+        386,
+        388
+      ],
+      "width": 420,
+      "height": 420,
+      "recommendedUse": "Review queue complete or flashcard session done."
+    }
+  ]
+}

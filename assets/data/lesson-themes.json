@@ -1,0 +1,26 @@
+{
+  "themes": [
+    {
+      "id": "morning-routine",
+      "title": "Morning Routine",
+      "background": "../images/backgrounds/sunny-classroom.svg",
+      "primarySkill": "listening",
+      "rewardSticker": "../images/stickers/super.svg"
+    },
+    {
+      "id": "around-town",
+      "title": "Around Town",
+      "background": "../images/backgrounds/friendly-town.svg",
+      "primarySkill": "vocabulary",
+      "rewardSticker": "../images/stickers/weiter-so.svg"
+    },
+    {
+      "id": "quiz-time",
+      "title": "Quiz Time",
+      "background": "../images/backgrounds/quiz-table.svg",
+      "primarySkill": "recall",
+      "rewardSticker": "../images/stickers/richtig.svg"
+    }
+  ]
+}
+

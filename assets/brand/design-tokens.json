@@ -1,0 +1,44 @@
+{
+  "colors": {
+    "ink": "#263238",
+    "paper": "#FFFDF7",
+    "mist": "#E8F1F2",
+    "spruce": "#2F6F6D",
+    "sun": "#F9C74F",
+    "coral": "#F36F5B",
+    "sky": "#5AA9E6",
+    "leaf": "#65A765",
+    "grape": "#7A6FF0",
+    "line": "#D7E0DF",
+    "success": "#2E8B57",
+    "warning": "#F2A541",
+    "error": "#D85C5C"
+  },
+  "fontFamilies": {
+    "ui": "Inter, Nunito Sans, system-ui, sans-serif",
+    "display": "Nunito Sans, Inter, system-ui, sans-serif"
+  },
+  "radius": {
+    "small": "6px",
+    "medium": "8px",
+    "large": "14px"
+  },
+  "spacing": {
+    "xs": "4px",
+    "sm": "8px",
+    "md": "16px",
+    "lg": "24px",
+    "xl": "40px"
+  },
+  "motion": {
+    "fast": "120ms",
+    "standard": "220ms",
+    "gentle": "360ms"
+  },
+  "audioDefaults": {
+    "sfxVolume": 0.45,
+    "musicVolume": 0.18,
+    "respectReducedMotionAndSound": true
+  }
+}
+

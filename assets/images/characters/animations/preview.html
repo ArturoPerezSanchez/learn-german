@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Character Animation Preview</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f7f3ec;
+      color: #202936;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+    }
+
+    main {
+      width: min(1220px, calc(100vw - 32px));
+      margin: 0 auto;
+      padding: 28px 0 40px;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: clamp(1.5rem, 2.5vw, 2.4rem);
+      letter-spacing: 0;
+    }
+
+    p {
+      margin: 0;
+      max-width: 780px;
+      color: #5f6875;
+      line-height: 1.5;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 16px;
+      margin-top: 24px;
+    }
+
+    .card {
+      display: grid;
+      grid-template-rows: auto 1fr;
+      gap: 10px;
+      min-width: 0;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: 0.98rem;
+      line-height: 1.2;
+    }
+
+    .frame {
+      position: relative;
+      height: 560px;
+      border: 1px solid #d8d0c4;
+      border-radius: 8px;
+      overflow: hidden;
+      background:
+        linear-gradient(45deg, #eee8df 25%, transparent 25%),
+        linear-gradient(-45deg, #eee8df 25%, transparent 25%),
+        linear-gradient(45deg, transparent 75%, #eee8df 75%),
+        linear-gradient(-45deg, transparent 75%, #eee8df 75%),
+        #faf8f3;
+      background-position: 0 0, 0 10px, 10px -10px, -10px 0;
+      background-size: 20px 20px;
+      display: grid;
+      place-items: end center;
+      padding: 18px 14px;
+      isolation: isolate;
+    }
+
+    .frame::after {
+      content: "";
+      position: absolute;
+      left: 50%;
+      bottom: 24px;
+      width: min(62%, 210px);
+      height: 28px;
+      border-radius: 999px;
+      background: rgb(33 41 52 / 0.14);
+      transform: translateX(-50%);
+      animation: shadowPulse 3.6s ease-in-out infinite;
+      z-index: 0;
+    }
+
+    .character {
+      position: relative;
+      width: min(100%, 310px);
+      height: 510px;
+      z-index: 1;
+    }
+
+    .character img {
+      position: absolute;
+      left: 50%;
+      bottom: 0;
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+      opacity: 0;
+      transform: translateX(-50%);
+      filter: drop-shadow(0 18px 16px rgb(42 35 28 / 0.15));
+      animation-duration: 3.6s;
+      animation-timing-function: ease-in-out;
+      animation-iteration-count: infinite;
+    }
+
+    .character img:nth-child(1) {
+      animation-name: frame1;
+    }
+
+    .character img:nth-child(2) {
+      animation-name: frame2;
+    }
+
+    .character img:nth-child(3) {
+      animation-name: frame3;
+    }
+
+    .character img:nth-child(4) {
+      animation-name: frame4;
+    }
+
+    @keyframes frame1 {
+      0%, 18%, 100% { opacity: 1; }
+      25%, 93% { opacity: 0; }
+      96% { opacity: 0.55; }
+    }
+
+    @keyframes frame2 {
+      0%, 17%, 55%, 100% { opacity: 0; }
+      24%, 43% { opacity: 1; }
+    }
+
+    @keyframes frame3 {
+      0%, 42%, 80%, 100% { opacity: 0; }
+      49%, 68% { opacity: 1; }
+    }
+
+    @keyframes frame4 {
+      0%, 67%, 100% { opacity: 0; }
+      74%, 92% { opacity: 1; }
+    }
+
+    @keyframes shadowPulse {
+      0%, 100% { opacity: 0.13; transform: translateX(-50%) scaleX(1); }
+      50% { opacity: 0.19; transform: translateX(-50%) scaleX(0.94); }
+    }
+
+    @media (max-width: 1100px) {
+      .grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 620px) {
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .frame {
+        height: 500px;
+      }
+
+      .character {
+        height: 455px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Character Animation Preview</h1>
+    <p>Four-frame transparent PNG sequences for the German learning app characters: neutral, breathe, gesture, and blink.</p>
+
+    <section class="grid" aria-label="Animated character previews">
+      <article class="card">
+        <h2>Teacher Guide</h2>
+        <div class="frame">
+          <div class="character">
+            <img src="teacher-guide/frames/frame-1.png" alt="">
+            <img src="teacher-guide/frames/frame-2.png" alt="">
+            <img src="teacher-guide/frames/frame-3.png" alt="">
+            <img src="teacher-guide/frames/frame-4.png" alt="">
+          </div>
+        </div>
+      </article>
+
+      <article class="card">
+        <h2>Child Learner</h2>
+        <div class="frame">
+          <div class="character">
+            <img src="child-learner/frames/frame-1.png" alt="">
+            <img src="child-learner/frames/frame-2.png" alt="">
+            <img src="child-learner/frames/frame-3.png" alt="">
+            <img src="child-learner/frames/frame-4.png" alt="">
+          </div>
+        </div>
+      </article>
+
+      <article class="card">
+        <h2>Teen Learner</h2>
+        <div class="frame">
+          <div class="character">
+            <img src="teen-learner/frames/frame-1.png" alt="">
+            <img src="teen-learner/frames/frame-2.png" alt="">
+            <img src="teen-learner/frames/frame-3.png" alt="">
+            <img src="teen-learner/frames/frame-4.png" alt="">
+          </div>
+        </div>
+      </article>
+
+      <article class="card">
+        <h2>Parent Learner</h2>
+        <div class="frame">
+          <div class="character">
+            <img src="parent-learner/frames/frame-1.png" alt="">
+            <img src="parent-learner/frames/frame-2.png" alt="">
+            <img src="parent-learner/frames/frame-3.png" alt="">
+            <img src="parent-learner/frames/frame-4.png" alt="">
+          </div>
+        </div>
+      </article>
+    </section>
+  </main>
+</body>
+</html>

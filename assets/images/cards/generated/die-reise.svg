@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 480" role="img" aria-labelledby="title desc">
+  <title id="title">die Reise vocabulary card</title>
+  <desc id="desc">A German vocabulary card for die Reise, meaning trip.</desc>
+  <rect x="10" y="10" width="340" height="460" rx="24" fill="#FFFDF7" stroke="#263238" stroke-width="8"/>
+  <rect x="230" y="24" width="106" height="34" rx="17" fill="#E8F1F2" stroke="#D7E0DF" stroke-width="3"/>
+  <text x="283" y="47" text-anchor="middle" fill="#2F6F6D" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="900">NOUN</text>
+  <rect x="24" y="24" width="72" height="42" rx="21" fill="#65A765" stroke="#263238" stroke-width="5"/><text x="60" y="53" text-anchor="middle" fill="#263238" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900">die</text>
+  
+  <circle cx="180" cy="210" r="98" fill="#E8F1F2" stroke="#263238" stroke-width="7"/>
+  <circle cx="180" cy="210" r="78" fill="#5AA9E6" opacity="0.16"/>
+  <text x="180" y="248" text-anchor="middle" fill="#263238" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, Inter, Arial, sans-serif" font-size="108" font-weight="900">🧳</text>
+
+  <text x="180" y="356" text-anchor="middle" fill="#263238" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="900">die Reise</text>
+  <text x="180" y="420" text-anchor="middle" fill="#2F6F6D" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800">trip</text>
+</svg>

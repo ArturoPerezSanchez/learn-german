@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="92" viewBox="0 0 720 92" role="img" aria-label="Vocabulary section ribbon">
+  <defs>
+    <linearGradient id="vocabRibbon" x1="0" x2="1">
+      <stop offset="0" stop-color="#2F6F6D"/>
+      <stop offset="0.55" stop-color="#5AA9E6"/>
+      <stop offset="1" stop-color="#65A765"/>
+    </linearGradient>
+    <filter id="softShadow" x="-5%" y="-40%" width="110%" height="180%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#263238" flood-opacity=".14"/>
+    </filter>
+  </defs>
+  <path filter="url(#softShadow)" d="M31 21h626c18 0 32 14 32 32s-14 32-32 32H31c-15 0-25-16-18-29l8-14-8-15c-7-13 3-29 18-29Z" fill="url(#vocabRibbon)" opacity=".95"/>
+  <circle cx="72" cy="53" r="18" fill="#FFFDF7" opacity=".95"/>
+  <path d="M62 55h21M62 47h16M62 63h14" stroke="#2F6F6D" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="631" cy="53" r="9" fill="#F9C74F"/>
+  <circle cx="659" cy="44" r="6" fill="#FFFDF7" opacity=".85"/>
+  <circle cx="674" cy="61" r="5" fill="#F36F5B"/>
+</svg>

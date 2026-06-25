@@ -1,0 +1,36 @@
+{
+  "name": "Beautiful Character Set",
+  "generatedOn": "2026-06-25",
+  "sourceSheet": "beautiful-character-sheet.png",
+  "sourceChromaKey": "beautiful-character-sheet-chromakey.png",
+  "style": "Premium family-friendly 2D app illustration",
+  "background": "transparent",
+  "characters": [
+    {
+      "id": "teacher-guide",
+      "role": "Warm German teacher guide",
+      "file": "teacher-guide-beautiful.png",
+      "suggestedUse": ["onboarding", "lesson guidance", "feedback"]
+    },
+    {
+      "id": "child-learner",
+      "role": "Curious child learner",
+      "file": "child-learner-beautiful.png",
+      "suggestedUse": ["starter lessons", "vocabulary practice", "family mode"]
+    },
+    {
+      "id": "teen-learner",
+      "role": "Friendly teen learner",
+      "file": "teen-learner-beautiful.png",
+      "suggestedUse": ["listening practice", "quiz mode", "progress screens"]
+    },
+    {
+      "id": "parent-learner",
+      "role": "Encouraging parent learner",
+      "file": "parent-learner-beautiful.png",
+      "suggestedUse": ["family account", "encouragement", "lesson completion"]
+    }
+  ],
+  "promptSummary": "Four separate full-body, beautiful, polished, family-friendly German learning app characters on a flat chroma-key background, converted to transparent PNG cutouts."
+}
+

@@ -1,0 +1,77 @@
+{
+  "name": "German Learning App Asset Pack",
+  "version": "1.1.0",
+  "generatedOn": "2026-06-25",
+  "localeFocus": ["de-DE", "en-US"],
+  "license": "Project-owned original assets",
+  "folders": {
+    "brand": "Design tokens and brand direction",
+    "data": "Starter content and copy",
+    "images": "SVG illustrations, icons, cards, stickers, backgrounds, menu art",
+    "audio": "Generated WAV sfx and music loops",
+    "docs": "Developer handoff notes and integration guides",
+    "licenses": "Provenance and attribution notes",
+    "scripts": "Reproducible asset generation scripts"
+  },
+  "recommendedFirstScreen": {
+    "background": "images/backgrounds/sunny-classroom.svg",
+    "guide": "images/characters/friendly-guide.svg",
+    "music": "audio/music/focus_loop.wav"
+  },
+  "cards": {
+    "starterCount": 6,
+    "expandedCount": 442,
+    "expandedData": "data/vocabulary-expanded.json",
+    "expandedFolder": "images/cards/generated",
+    "expandedPreview": "images/cards/generated/index.html"
+  },
+  "mainMenu": {
+    "manifest": "images/main-menu/main-menu-assets-manifest.json",
+    "readme": "images/main-menu/README.md",
+    "contactSheet": "images/main-menu/main-menu-assets-contact-sheet.jpg",
+    "background": "images/main-menu/main-menu-background-town.png",
+    "heroDecoration": "images/main-menu/hero-decoration.png",
+    "iconFolder": "images/main-menu/icons",
+    "stickerFolder": "images/main-menu/stickers"
+  },
+  "feedbackStates": {
+    "manifest": "images/feedback-states/feedback-states-manifest.json",
+    "readme": "images/feedback-states/README.md",
+    "contactSheet": "images/feedback-states/feedback-states-contact-sheet.jpg",
+    "sheet": "images/feedback-states/feedback-states-sheet.png",
+    "itemFolder": "images/feedback-states/items",
+    "count": 8
+  },
+  "characters": {
+    "polishedCount": 4,
+    "manifest": "images/characters/generated/character-manifest.json",
+    "sourceSheet": "images/characters/generated/beautiful-character-sheet.png",
+    "files": [
+      "images/characters/generated/teacher-guide-beautiful.png",
+      "images/characters/generated/child-learner-beautiful.png",
+      "images/characters/generated/teen-learner-beautiful.png",
+      "images/characters/generated/parent-learner-beautiful.png"
+    ],
+    "animationCount": 4,
+    "animationManifest": "images/characters/animations/character-animation-manifest.json",
+    "animationPreview": "images/characters/animations/preview.html",
+    "animationContactSheet": "images/characters/animations/contact-sheet.jpg",
+    "animationGuide": "docs/character-animation-integration.md"
+  },
+  "audio": {
+    "sfx": [
+      "audio/sfx/tap_soft.wav",
+      "audio/sfx/card_flip.wav",
+      "audio/sfx/correct_soft.wav",
+      "audio/sfx/incorrect_gentle.wav",
+      "audio/sfx/pronunciation_ping.wav",
+      "audio/sfx/streak_sparkle.wav",
+      "audio/sfx/level_complete.wav"
+    ],
+    "music": [
+      "audio/music/focus_loop.wav",
+      "audio/music/warm_welcome_loop.wav",
+      "audio/music/celebration_loop.wav"
+    ]
+  }
+}

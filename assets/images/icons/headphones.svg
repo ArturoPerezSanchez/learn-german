@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">Listening icon</title>
+  <path d="M20 52c0-21 12-36 28-36s28 15 28 36" fill="none" stroke="#263238" stroke-width="7" stroke-linecap="round"/>
+  <rect x="14" y="50" width="18" height="28" rx="8" fill="#5AA9E6" stroke="#263238" stroke-width="6"/>
+  <rect x="64" y="50" width="18" height="28" rx="8" fill="#65A765" stroke="#263238" stroke-width="6"/>
+</svg>
+

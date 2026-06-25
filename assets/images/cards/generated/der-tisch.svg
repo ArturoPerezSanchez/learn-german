@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 480" role="img" aria-labelledby="title desc">
+  <title id="title">der Tisch vocabulary card</title>
+  <desc id="desc">A German vocabulary card for der Tisch, meaning table.</desc>
+  <rect x="10" y="10" width="340" height="460" rx="24" fill="#FFFDF7" stroke="#263238" stroke-width="8"/>
+  <rect x="230" y="24" width="106" height="34" rx="17" fill="#E8F1F2" stroke="#D7E0DF" stroke-width="3"/>
+  <text x="283" y="47" text-anchor="middle" fill="#2F6F6D" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="900">NOUN</text>
+  <rect x="24" y="24" width="72" height="42" rx="21" fill="#FFFDF7" stroke="#263238" stroke-width="5"/><text x="60" y="53" text-anchor="middle" fill="#263238" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900">der</text>
+  
+  <rect x="88" y="174" width="184" height="38" rx="10" fill="#5AA9E6" stroke="#263238" stroke-width="7"/>
+  <path d="M121 212v98M239 212v98" stroke="#263238" stroke-width="14" stroke-linecap="round"/>
+
+  <text x="180" y="356" text-anchor="middle" fill="#263238" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="900">der Tisch</text>
+  <text x="180" y="420" text-anchor="middle" fill="#2F6F6D" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800">table</text>
+</svg>

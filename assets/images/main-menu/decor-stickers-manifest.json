@@ -1,0 +1,165 @@
+{
+  "source": "decor-stickers-sheet.png",
+  "stickers": [
+    {
+      "id": "vocabulary-stack",
+      "file": "stickers/vocabulary-stack.png",
+      "sourceCell": [
+        0,
+        0,
+        443,
+        443
+      ],
+      "trimBox": [
+        24,
+        69,
+        429,
+        440
+      ],
+      "size": [
+        405,
+        405
+      ]
+    },
+    {
+      "id": "grammar-tags",
+      "file": "stickers/grammar-tags.png",
+      "sourceCell": [
+        443,
+        0,
+        887,
+        443
+      ],
+      "trimBox": [
+        7,
+        74,
+        437,
+        440
+      ],
+      "size": [
+        430,
+        430
+      ]
+    },
+    {
+      "id": "book-pile",
+      "file": "stickers/book-pile.png",
+      "sourceCell": [
+        887,
+        0,
+        1330,
+        443
+      ],
+      "trimBox": [
+        3,
+        81,
+        427,
+        443
+      ],
+      "size": [
+        424,
+        424
+      ]
+    },
+    {
+      "id": "pencil-sparkle",
+      "file": "stickers/pencil-sparkle.png",
+      "sourceCell": [
+        1330,
+        0,
+        1774,
+        443
+      ],
+      "trimBox": [
+        16,
+        49,
+        363,
+        442
+      ],
+      "size": [
+        393,
+        393
+      ]
+    },
+    {
+      "id": "headphones-badge",
+      "file": "stickers/headphones-badge.png",
+      "sourceCell": [
+        0,
+        443,
+        443,
+        887
+      ],
+      "trimBox": [
+        49,
+        0,
+        431,
+        377
+      ],
+      "size": [
+        382,
+        382
+      ]
+    },
+    {
+      "id": "sunny-star",
+      "file": "stickers/sunny-star.png",
+      "sourceCell": [
+        443,
+        443,
+        887,
+        887
+      ],
+      "trimBox": [
+        16,
+        26,
+        416,
+        356
+      ],
+      "size": [
+        400,
+        400
+      ]
+    },
+    {
+      "id": "check-badge",
+      "file": "stickers/check-badge.png",
+      "sourceCell": [
+        887,
+        443,
+        1330,
+        887
+      ],
+      "trimBox": [
+        17,
+        23,
+        443,
+        376
+      ],
+      "size": [
+        426,
+        426
+      ]
+    },
+    {
+      "id": "progress-ribbon",
+      "file": "stickers/progress-ribbon.png",
+      "sourceCell": [
+        1330,
+        443,
+        1774,
+        887
+      ],
+      "trimBox": [
+        0,
+        34,
+        406,
+        359
+      ],
+      "size": [
+        406,
+        406
+      ]
+    }
+  ]
+}

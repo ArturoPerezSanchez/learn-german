@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Teacher Animation Prototype</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f6f3ee;
+      color: #1e2732;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+    }
+
+    main {
+      width: min(1180px, calc(100vw - 32px));
+      margin: 0 auto;
+      padding: 28px 0 36px;
+    }
+
+    h1 {
+      margin: 0 0 6px;
+      font-size: clamp(1.45rem, 2.4vw, 2.35rem);
+      letter-spacing: 0;
+    }
+
+    p {
+      margin: 0;
+      color: #5d6672;
+      line-height: 1.5;
+      max-width: 760px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+      margin-top: 22px;
+      align-items: stretch;
+    }
+
+    .panel {
+      display: grid;
+      grid-template-rows: auto 1fr;
+      gap: 10px;
+      min-width: 0;
+    }
+
+    .panel h2 {
+      margin: 0;
+      font-size: 0.95rem;
+      font-weight: 760;
+      color: #2d3a48;
+    }
+
+    .frame {
+      min-height: 560px;
+      border: 1px solid #d8d2c7;
+      background:
+        linear-gradient(45deg, #ebe6dd 25%, transparent 25%),
+        linear-gradient(-45deg, #ebe6dd 25%, transparent 25%),
+        linear-gradient(45deg, transparent 75%, #ebe6dd 75%),
+        linear-gradient(-45deg, transparent 75%, #ebe6dd 75%),
+        #f9f7f2;
+      background-position: 0 0, 0 10px, 10px -10px, -10px 0;
+      background-size: 20px 20px;
+      border-radius: 8px;
+      overflow: hidden;
+      display: grid;
+      place-items: center;
+      padding: 14px;
+    }
+
+    .original {
+      max-width: 100%;
+      max-height: 520px;
+      object-fit: contain;
+      filter: drop-shadow(0 18px 18px rgb(50 42 34 / 0.18));
+    }
+
+    .sheet {
+      width: 100%;
+      object-fit: contain;
+      filter: drop-shadow(0 14px 16px rgb(50 42 34 / 0.12));
+    }
+
+    .stage {
+      position: relative;
+      width: 330px;
+      height: 540px;
+      isolation: isolate;
+    }
+
+    .stage img {
+      position: absolute;
+      user-select: none;
+      pointer-events: none;
+      transform-style: preserve-3d;
+    }
+
+    .shadow {
+      left: 48px;
+      bottom: 12px;
+      width: 245px;
+      opacity: 0.45;
+      animation: shadowPulse 3.2s ease-in-out infinite;
+    }
+
+    .body {
+      left: 69px;
+      top: 72px;
+      width: 194px;
+      transform-origin: 50% 70%;
+      animation: breathe 3.2s ease-in-out infinite;
+      z-index: 2;
+    }
+
+    .head {
+      left: 92px;
+      top: 6px;
+      width: 162px;
+      transform-origin: 50% 82%;
+      animation: headAlive 4.2s ease-in-out infinite;
+      z-index: 6;
+    }
+
+    .book {
+      left: 79px;
+      top: 217px;
+      width: 108px;
+      transform-origin: 50% 82%;
+      animation: bookSettle 3.2s ease-in-out infinite;
+      z-index: 5;
+    }
+
+    .wave-arm {
+      left: 194px;
+      top: 175px;
+      width: 150px;
+      transform-origin: 16% 69%;
+      animation: wave 2.15s ease-in-out infinite;
+      z-index: 4;
+    }
+
+    .blink {
+      left: 134px;
+      top: 128px;
+      width: 72px;
+      opacity: 0;
+      z-index: 7;
+      animation: blink 5.2s infinite;
+    }
+
+    @keyframes breathe {
+      0%, 100% { transform: translateY(0) scaleY(1); }
+      50% { transform: translateY(3px) scaleY(1.012); }
+    }
+
+    @keyframes headAlive {
+      0%, 100% { transform: rotate(-1.2deg) translateY(0); }
+      40% { transform: rotate(1.4deg) translateY(2px); }
+      70% { transform: rotate(0.2deg) translateY(0); }
+    }
+
+    @keyframes wave {
+      0%, 100% { transform: rotate(-8deg) translateY(0); }
+      30% { transform: rotate(8deg) translateY(-4px); }
+      58% { transform: rotate(-3deg) translateY(1px); }
+      78% { transform: rotate(7deg) translateY(-2px); }
+    }
+
+    @keyframes bookSettle {
+      0%, 100% { transform: rotate(-1deg) translateY(0); }
+      50% { transform: rotate(1deg) translateY(2px); }
+    }
+
+    @keyframes blink {
+      0%, 92%, 100% { opacity: 0; }
+      94%, 96% { opacity: 1; }
+    }
+
+    @keyframes shadowPulse {
+      0%, 100% { transform: scaleX(1); opacity: 0.42; }
+      50% { transform: scaleX(0.96); opacity: 0.36; }
+    }
+
+    .sprite-stage {
+      position: relative;
+      width: min(100%, 350px);
+      height: 530px;
+      isolation: isolate;
+    }
+
+    .sprite-stage::after {
+      content: "";
+      position: absolute;
+      left: 50%;
+      bottom: 18px;
+      width: 220px;
+      height: 28px;
+      border-radius: 999px;
+      background: rgb(31 41 55 / 0.16);
+      transform: translateX(-50%);
+      animation: spriteShadow 2.8s ease-in-out infinite;
+      z-index: 0;
+    }
+
+    .sprite-frame {
+      position: absolute;
+      left: 50%;
+      bottom: 16px;
+      max-width: 100%;
+      max-height: 500px;
+      object-fit: contain;
+      opacity: 0;
+      transform: translateX(-50%);
+      filter: drop-shadow(0 18px 18px rgb(50 42 34 / 0.16));
+      z-index: 1;
+    }
+
+    .sprite-frame:nth-child(1) {
+      animation: spriteFrame1 3.6s steps(1, end) infinite;
+    }
+
+    .sprite-frame:nth-child(2) {
+      animation: spriteFrame2 3.6s steps(1, end) infinite;
+    }
+
+    .sprite-frame:nth-child(3) {
+      animation: spriteFrame3 3.6s steps(1, end) infinite;
+    }
+
+    .sprite-frame:nth-child(4) {
+      animation: spriteFrame4 3.6s steps(1, end) infinite;
+    }
+
+    @keyframes spriteFrame1 {
+      0%, 24.99%, 100% { opacity: 1; }
+      25%, 99.99% { opacity: 0; }
+    }
+
+    @keyframes spriteFrame2 {
+      0%, 24.99%, 50%, 100% { opacity: 0; }
+      25%, 49.99% { opacity: 1; }
+    }
+
+    @keyframes spriteFrame3 {
+      0%, 49.99%, 75%, 100% { opacity: 0; }
+      50%, 74.99% { opacity: 1; }
+    }
+
+    @keyframes spriteFrame4 {
+      0%, 74.99%, 100% { opacity: 0; }
+      75%, 99.99% { opacity: 1; }
+    }
+
+    @keyframes spriteShadow {
+      0%, 100% { opacity: 0.14; transform: translateX(-50%) scaleX(1); }
+      50% { opacity: 0.2; transform: translateX(-50%) scaleX(0.94); }
+    }
+
+    @media (max-width: 980px) {
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .frame {
+        min-height: 420px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Teacher Animation Prototype</h1>
+    <p>This is a corrected proof of direction: the character stays visually consistent first, then the animation adds a small breath, wave, and blink.</p>
+
+    <section class="grid" aria-label="Rig prototype comparison">
+      <article class="panel">
+        <h2>Original Character</h2>
+        <div class="frame">
+          <img class="original" src="../../../generated/teacher-guide-beautiful.png" alt="Original teacher character">
+        </div>
+      </article>
+
+      <article class="panel">
+        <h2>Raw Rig Sheet</h2>
+        <div class="frame">
+          <img class="sheet" src="teacher-rig-parts-sheet.png" alt="Teacher puppet parts sheet">
+        </div>
+      </article>
+
+      <article class="panel">
+        <h2>Correct Full-Body Motion Test</h2>
+        <div class="frame">
+          <div class="sprite-stage" aria-label="Animated teacher sprite preview">
+            <img class="sprite-frame" src="../sprite-preview/frames/frame-1.png" alt="">
+            <img class="sprite-frame" src="../sprite-preview/frames/frame-2.png" alt="">
+            <img class="sprite-frame" src="../sprite-preview/frames/frame-3.png" alt="">
+            <img class="sprite-frame" src="../sprite-preview/frames/frame-4.png" alt="">
+          </div>
+        </div>
+      </article>
+    </section>
+  </main>
+</body>
+</html>

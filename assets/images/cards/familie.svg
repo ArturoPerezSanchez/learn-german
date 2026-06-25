@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 480" role="img" aria-labelledby="title desc">
+  <title id="title">die Familie vocabulary card</title>
+  <desc id="desc">A family vocabulary card labeled die Familie.</desc>
+  <rect x="10" y="10" width="340" height="460" rx="24" fill="#FFFDF7" stroke="#263238" stroke-width="8"/>
+  <g stroke="#263238" stroke-width="6">
+    <circle cx="112" cy="180" r="36" fill="#F4C6A6"/>
+    <circle cx="180" cy="158" r="44" fill="#F4C6A6"/>
+    <circle cx="248" cy="180" r="36" fill="#F4C6A6"/>
+    <path d="M75 314c6-62 18-93 37-93s31 31 37 93Z" fill="#F36F5B"/>
+    <path d="M131 326c8-78 24-118 49-118s41 40 49 118Z" fill="#5AA9E6"/>
+    <path d="M211 314c6-62 18-93 37-93s31 31 37 93Z" fill="#65A765"/>
+  </g>
+  <text x="180" y="405" text-anchor="middle" fill="#263238" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="900">die Familie</text>
+</svg>
+

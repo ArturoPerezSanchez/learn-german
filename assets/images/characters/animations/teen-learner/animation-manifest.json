@@ -1,0 +1,87 @@
+{
+  "id": "teen-learner",
+  "role": "Friendly teen learner",
+  "type": "four-frame-transparent-png-sequence",
+  "recommendedFps": 3,
+  "loopDurationMs": 3600,
+  "spriteSheet": "sprite-sheet.png",
+  "spriteSheetChromaKeySource": "sprite-sheet-chromakey.png",
+  "frames": [
+    {
+      "index": 1,
+      "state": "neutral",
+      "file": "frames/frame-1.png",
+      "sourceBox": [
+        80,
+        4,
+        403,
+        871
+      ],
+      "cropBox": [
+        80,
+        4,
+        403,
+        871
+      ],
+      "width": 323,
+      "height": 867
+    },
+    {
+      "index": 2,
+      "state": "breathe",
+      "file": "frames/frame-2.png",
+      "sourceBox": [
+        483,
+        0,
+        809,
+        871
+      ],
+      "cropBox": [
+        483,
+        0,
+        809,
+        871
+      ],
+      "width": 326,
+      "height": 871
+    },
+    {
+      "index": 3,
+      "state": "gesture",
+      "file": "frames/frame-3.png",
+      "sourceBox": [
+        889,
+        10,
+        1203,
+        871
+      ],
+      "cropBox": [
+        889,
+        10,
+        1203,
+        871
+      ],
+      "width": 314,
+      "height": 861
+    },
+    {
+      "index": 4,
+      "state": "blink",
+      "file": "frames/frame-4.png",
+      "sourceBox": [
+        1283,
+        10,
+        1610,
+        871
+      ],
+      "cropBox": [
+        1283,
+        10,
+        1610,
+        871
+      ],
+      "width": 327,
+      "height": 861
+    }
+  ]
+}

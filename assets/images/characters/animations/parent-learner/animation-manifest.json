@@ -1,0 +1,87 @@
+{
+  "id": "parent-learner",
+  "role": "Encouraging parent learner",
+  "type": "four-frame-transparent-png-sequence",
+  "recommendedFps": 3,
+  "loopDurationMs": 3600,
+  "spriteSheet": "sprite-sheet.png",
+  "spriteSheetChromaKeySource": "sprite-sheet-chromakey.png",
+  "frames": [
+    {
+      "index": 1,
+      "state": "neutral",
+      "file": "frames/frame-1.png",
+      "sourceBox": [
+        123,
+        43,
+        435,
+        877
+      ],
+      "cropBox": [
+        105,
+        25,
+        453,
+        887
+      ],
+      "width": 348,
+      "height": 862
+    },
+    {
+      "index": 2,
+      "state": "breathe",
+      "file": "frames/frame-2.png",
+      "sourceBox": [
+        532,
+        43,
+        844,
+        877
+      ],
+      "cropBox": [
+        514,
+        25,
+        862,
+        887
+      ],
+      "width": 348,
+      "height": 862
+    },
+    {
+      "index": 3,
+      "state": "gesture",
+      "file": "frames/frame-3.png",
+      "sourceBox": [
+        934,
+        44,
+        1262,
+        878
+      ],
+      "cropBox": [
+        916,
+        26,
+        1280,
+        887
+      ],
+      "width": 364,
+      "height": 861
+    },
+    {
+      "index": 4,
+      "state": "blink",
+      "file": "frames/frame-4.png",
+      "sourceBox": [
+        1340,
+        45,
+        1653,
+        877
+      ],
+      "cropBox": [
+        1322,
+        27,
+        1671,
+        887
+      ],
+      "width": 349,
+      "height": 860
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Menu footer progress band">
+  <path d="M0 84c129-58 236 34 369-16 136-51 228-71 352-24 147 56 262-20 479 20v156H0V84Z" fill="#DDEDEE"/>
+  <path d="M0 122c111-39 230 40 365-3 141-45 222-54 355-5 142 53 274-11 480 22v84H0v-98Z" fill="#C7E0D7"/>
+  <path d="M0 157c137-24 241 33 395 8 141-23 247-27 360 4 145 40 279-7 445 15v36H0v-63Z" fill="#F9E3B2"/>
+  <circle cx="980" cy="56" r="23" fill="#F9C74F"/>
+  <circle cx="1033" cy="82" r="11" fill="#F36F5B" opacity=".8"/>
+  <circle cx="902" cy="96" r="8" fill="#5AA9E6" opacity=".8"/>
+</svg>

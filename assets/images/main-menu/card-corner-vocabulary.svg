@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="180" viewBox="0 0 220 180" role="img" aria-label="Vocabulary card corner decoration">
+  <path d="M0 0h220v180C148 166 72 118 0 29V0Z" fill="#E8F1F2"/>
+  <circle cx="174" cy="42" r="25" fill="#F9C74F"/>
+  <rect x="119" y="63" width="52" height="38" rx="8" fill="#FFFDF7" stroke="#2F6F6D" stroke-width="5"/>
+  <rect x="139" y="77" width="52" height="38" rx="8" fill="#5AA9E6" opacity=".9"/>
+  <path d="M128 78h25M128 90h17" stroke="#2F6F6D" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="77" cy="90" r="10" fill="#F36F5B"/>
+  <circle cx="100" cy="119" r="7" fill="#65A765"/>
+</svg>

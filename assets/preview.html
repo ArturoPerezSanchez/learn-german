@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>German Learning Asset Pack Preview</title>
+    <style>
+      :root {
+        --ink: #263238;
+        --paper: #fffdf7;
+        --mist: #e8f1f2;
+        --line: #d7e0df;
+        --spruce: #2f6f6d;
+        --sun: #f9c74f;
+        --coral: #f36f5b;
+        --sky: #5aa9e6;
+        --leaf: #65a765;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        color: var(--ink);
+        background: var(--paper);
+        font-family: Inter, "Nunito Sans", system-ui, sans-serif;
+      }
+
+      header {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 24px;
+        align-items: center;
+        padding: 32px clamp(18px, 5vw, 56px);
+        border-bottom: 1px solid var(--line);
+        background: var(--mist);
+      }
+
+      h1,
+      h2 {
+        margin: 0;
+        line-height: 1.1;
+      }
+
+      h1 {
+        font-size: clamp(32px, 5vw, 58px);
+      }
+
+      h2 {
+        margin-bottom: 18px;
+        font-size: 26px;
+      }
+
+      p {
+        max-width: 760px;
+        margin: 12px 0 0;
+        font-size: 17px;
+        line-height: 1.55;
+      }
+
+      main {
+        display: grid;
+        gap: 40px;
+        padding: 34px clamp(18px, 5vw, 56px) 56px;
+      }
+
+      section {
+        min-width: 0;
+      }
+
+      .logo {
+        width: min(280px, 32vw);
+        min-width: 180px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--paper);
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+        gap: 16px;
+      }
+
+      .wide-grid {
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      }
+
+      figure {
+        margin: 0;
+        padding: 10px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: white;
+      }
+
+      figure img {
+        display: block;
+        width: 100%;
+        aspect-ratio: 4 / 3;
+        object-fit: contain;
+        border-radius: 6px;
+        background: var(--paper);
+      }
+
+      .cards img {
+        aspect-ratio: 3 / 4;
+      }
+
+      .characters img {
+        aspect-ratio: 2 / 3;
+      }
+
+      figcaption {
+        padding: 10px 2px 2px;
+        font-size: 14px;
+        font-weight: 800;
+        color: var(--spruce);
+        word-break: break-word;
+      }
+
+      .audio-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 14px;
+      }
+
+      .audio-item {
+        display: grid;
+        gap: 8px;
+        padding: 14px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: white;
+      }
+
+      audio {
+        width: 100%;
+      }
+
+      code {
+        color: var(--spruce);
+        font-weight: 800;
+      }
+
+      .deck-link {
+        display: grid;
+        gap: 10px;
+        max-width: 720px;
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: white;
+      }
+
+      .deck-link a {
+        width: fit-content;
+        color: var(--paper);
+        background: var(--spruce);
+        border-radius: 6px;
+        padding: 10px 14px;
+        font-weight: 900;
+        text-decoration: none;
+      }
+
+      @media (max-width: 720px) {
+        header {
+          grid-template-columns: 1fr;
+        }
+
+        .logo {
+          width: 100%;
+          max-width: 360px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div>
+        <h1>German Learning Asset Pack</h1>
+        <p>Original starter media for a family-friendly German learning app: brand tokens, SVG illustrations, vocabulary cards, reward stickers, UI sounds, and loopable study music.</p>
+      </div>
+      <img class="logo" src="brand/logo.svg" alt="Deutsch Start logo" />
+    </header>
+
+    <main>
+      <section>
+        <h2>Expanded Deck</h2>
+        <div class="deck-link">
+          <strong>442 generated German vocabulary cards</strong>
+          <span>Use <code>data/vocabulary-expanded.json</code> in the app, or browse the full generated SVG deck.</span>
+          <a href="images/cards/generated/index.html">Open generated card gallery</a>
+        </div>
+      </section>
+
+      <section>
+        <h2>Backgrounds</h2>
+        <div class="grid wide-grid">
+          <figure><img src="images/backgrounds/sunny-classroom.svg" alt="Sunny classroom" /><figcaption>sunny-classroom.svg</figcaption></figure>
+          <figure><img src="images/backgrounds/friendly-town.svg" alt="Friendly town" /><figcaption>friendly-town.svg</figcaption></figure>
+          <figure><img src="images/backgrounds/quiz-table.svg" alt="Quiz table" /><figcaption>quiz-table.svg</figcaption></figure>
+        </div>
+      </section>
+
+      <section>
+        <h2>Characters</h2>
+        <div class="grid characters">
+          <figure><img src="images/characters/generated/teacher-guide-beautiful.png" alt="Beautiful teacher guide" /><figcaption>teacher-guide-beautiful.png</figcaption></figure>
+          <figure><img src="images/characters/generated/child-learner-beautiful.png" alt="Beautiful child learner" /><figcaption>child-learner-beautiful.png</figcaption></figure>
+          <figure><img src="images/characters/generated/teen-learner-beautiful.png" alt="Beautiful teen learner" /><figcaption>teen-learner-beautiful.png</figcaption></figure>
+          <figure><img src="images/characters/generated/parent-learner-beautiful.png" alt="Beautiful parent learner" /><figcaption>parent-learner-beautiful.png</figcaption></figure>
+          <figure><img src="images/characters/friendly-guide.svg" alt="Friendly guide" /><figcaption>friendly-guide.svg</figcaption></figure>
+          <figure><img src="images/characters/learner-family.svg" alt="Learner family" /><figcaption>learner-family.svg</figcaption></figure>
+        </div>
+      </section>
+
+      <section>
+        <h2>Vocabulary Cards</h2>
+        <div class="grid cards">
+          <figure><img src="images/cards/apfel.svg" alt="der Apfel card" /><figcaption>apfel.svg</figcaption></figure>
+          <figure><img src="images/cards/haus.svg" alt="das Haus card" /><figcaption>haus.svg</figcaption></figure>
+          <figure><img src="images/cards/buch.svg" alt="das Buch card" /><figcaption>buch.svg</figcaption></figure>
+          <figure><img src="images/cards/familie.svg" alt="die Familie card" /><figcaption>familie.svg</figcaption></figure>
+          <figure><img src="images/cards/wasser.svg" alt="das Wasser card" /><figcaption>wasser.svg</figcaption></figure>
+          <figure><img src="images/cards/schule.svg" alt="die Schule card" /><figcaption>schule.svg</figcaption></figure>
+        </div>
+      </section>
+
+      <section>
+        <h2>Icons And Stickers</h2>
+        <div class="grid">
+          <figure><img src="images/icons/lesson.svg" alt="Lesson icon" /><figcaption>lesson.svg</figcaption></figure>
+          <figure><img src="images/icons/quiz.svg" alt="Quiz icon" /><figcaption>quiz.svg</figcaption></figure>
+          <figure><img src="images/icons/pronunciation.svg" alt="Pronunciation icon" /><figcaption>pronunciation.svg</figcaption></figure>
+          <figure><img src="images/icons/progress.svg" alt="Progress icon" /><figcaption>progress.svg</figcaption></figure>
+          <figure><img src="images/icons/star.svg" alt="Star icon" /><figcaption>star.svg</figcaption></figure>
+          <figure><img src="images/icons/trophy.svg" alt="Trophy icon" /><figcaption>trophy.svg</figcaption></figure>
+          <figure><img src="images/stickers/richtig.svg" alt="Richtig sticker" /><figcaption>richtig.svg</figcaption></figure>
+          <figure><img src="images/stickers/super.svg" alt="Super sticker" /><figcaption>super.svg</figcaption></figure>
+          <figure><img src="images/stickers/weiter-so.svg" alt="Weiter so sticker" /><figcaption>weiter-so.svg</figcaption></figure>
+        </div>
+      </section>
+
+      <section>
+        <h2>Sound Effects</h2>
+        <div class="audio-list">
+          <div class="audio-item"><code>tap_soft.wav</code><audio controls src="audio/sfx/tap_soft.wav"></audio></div>
+          <div class="audio-item"><code>card_flip.wav</code><audio controls src="audio/sfx/card_flip.wav"></audio></div>
+          <div class="audio-item"><code>correct_soft.wav</code><audio controls src="audio/sfx/correct_soft.wav"></audio></div>
+          <div class="audio-item"><code>incorrect_gentle.wav</code><audio controls src="audio/sfx/incorrect_gentle.wav"></audio></div>
+          <div class="audio-item"><code>pronunciation_ping.wav</code><audio controls src="audio/sfx/pronunciation_ping.wav"></audio></div>
+          <div class="audio-item"><code>streak_sparkle.wav</code><audio controls src="audio/sfx/streak_sparkle.wav"></audio></div>
+          <div class="audio-item"><code>level_complete.wav</code><audio controls src="audio/sfx/level_complete.wav"></audio></div>
+        </div>
+      </section>
+
+      <section>
+        <h2>Music Loops</h2>
+        <div class="audio-list">
+          <div class="audio-item"><code>focus_loop.wav</code><audio controls src="audio/music/focus_loop.wav"></audio></div>
+          <div class="audio-item"><code>warm_welcome_loop.wav</code><audio controls src="audio/music/warm_welcome_loop.wav"></audio></div>
+          <div class="audio-item"><code>celebration_loop.wav</code><audio controls src="audio/music/celebration_loop.wav"></audio></div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

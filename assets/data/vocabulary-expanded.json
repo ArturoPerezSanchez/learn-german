@@ -1,0 +1,7438 @@
+{
+  "name": "Expanded German Vocabulary Deck",
+  "generatedOn": "2026-06-25",
+  "count": 442,
+  "levels": [
+    "A1",
+    "A1-A2",
+    "A2"
+  ],
+  "countsByCategory": {
+    "adjectives": 60,
+    "animals": 16,
+    "body": 20,
+    "clothes": 16,
+    "family": 24,
+    "food": 42,
+    "home": 35,
+    "nature": 20,
+    "phrases": 46,
+    "school": 30,
+    "time": 19,
+    "town": 22,
+    "transport": 14,
+    "verbs": 78
+  },
+  "countsByPartOfSpeech": {
+    "adjective": 60,
+    "noun": 258,
+    "phrase": 46,
+    "verb": 78
+  },
+  "cards": [
+    {
+      "german": "der Apfel",
+      "english": "apple",
+      "article": "der",
+      "word": "Apfel",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-apfel",
+      "image": "../images/cards/generated/der-apfel.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🍎"
+    },
+    {
+      "german": "die Banane",
+      "english": "banana",
+      "article": "die",
+      "word": "Banane",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "die-banane",
+      "image": "../images/cards/generated/die-banane.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🍌"
+    },
+    {
+      "german": "das Brot",
+      "english": "bread",
+      "article": "das",
+      "word": "Brot",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "das-brot",
+      "image": "../images/cards/generated/das-brot.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🍞"
+    },
+    {
+      "german": "die Butter",
+      "english": "butter",
+      "article": "die",
+      "word": "Butter",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "die-butter",
+      "image": "../images/cards/generated/die-butter.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🧈"
+    },
+    {
+      "german": "der Käse",
+      "english": "cheese",
+      "article": "der",
+      "word": "Käse",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-kase",
+      "image": "../images/cards/generated/der-kase.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🧀"
+    },
+    {
+      "german": "das Ei",
+      "english": "egg",
+      "article": "das",
+      "word": "Ei",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "das-ei",
+      "image": "../images/cards/generated/das-ei.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🥚"
+    },
+    {
+      "german": "der Fisch",
+      "english": "fish",
+      "article": "der",
+      "word": "Fisch",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-fisch",
+      "image": "../images/cards/generated/der-fisch.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🐟"
+    },
+    {
+      "german": "das Fleisch",
+      "english": "meat",
+      "article": "das",
+      "word": "Fleisch",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "das-fleisch",
+      "image": "../images/cards/generated/das-fleisch.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🥩"
+    },
+    {
+      "german": "das Gemüse",
+      "english": "vegetables",
+      "article": "das",
+      "word": "Gemüse",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "das-gemuse",
+      "image": "../images/cards/generated/das-gemuse.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🥦"
+    },
+    {
+      "german": "das Obst",
+      "english": "fruit",
+      "article": "das",
+      "word": "Obst",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "das-obst",
+      "image": "../images/cards/generated/das-obst.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🍓"
+    },
+    {
+      "german": "die Kartoffel",
+      "english": "potato",
+      "article": "die",
+      "word": "Kartoffel",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "die-kartoffel",
+      "image": "../images/cards/generated/die-kartoffel.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🥔"
+    },
+    {
+      "german": "die Tomate",
+      "english": "tomato",
+      "article": "die",
+      "word": "Tomate",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "die-tomate",
+      "image": "../images/cards/generated/die-tomate.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🍅"
+    },
+    {
+      "german": "die Karotte",
+      "english": "carrot",
+      "article": "die",
+      "word": "Karotte",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "die-karotte",
+      "image": "../images/cards/generated/die-karotte.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🥕"
+    },
+    {
+      "german": "die Gurke",
+      "english": "cucumber",
+      "article": "die",
+      "word": "Gurke",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "die-gurke",
+      "image": "../images/cards/generated/die-gurke.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🥒"
+    },
+    {
+      "german": "der Salat",
+      "english": "salad",
+      "article": "der",
+      "word": "Salat",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-salat",
+      "image": "../images/cards/generated/der-salat.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🥗"
+    },
+    {
+      "german": "die Suppe",
+      "english": "soup",
+      "article": "die",
+      "word": "Suppe",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "die-suppe",
+      "image": "../images/cards/generated/die-suppe.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🍲"
+    },
+    {
+      "german": "der Reis",
+      "english": "rice",
+      "article": "der",
+      "word": "Reis",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-reis",
+      "image": "../images/cards/generated/der-reis.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🍚"
+    },
+    {
+      "german": "die Nudel",
+      "english": "noodle",
+      "article": "die",
+      "word": "Nudel",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "die-nudel",
+      "image": "../images/cards/generated/die-nudel.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🍝"
+    },
+    {
+      "german": "der Kuchen",
+      "english": "cake",
+      "article": "der",
+      "word": "Kuchen",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-kuchen",
+      "image": "../images/cards/generated/der-kuchen.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🍰"
+    },
+    {
+      "german": "die Schokolade",
+      "english": "chocolate",
+      "article": "die",
+      "word": "Schokolade",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "die-schokolade",
+      "image": "../images/cards/generated/die-schokolade.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🍫"
+    },
+    {
+      "german": "der Honig",
+      "english": "honey",
+      "article": "der",
+      "word": "Honig",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-honig",
+      "image": "../images/cards/generated/der-honig.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🍯"
+    },
+    {
+      "german": "die Milch",
+      "english": "milk",
+      "article": "die",
+      "word": "Milch",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "die-milch",
+      "image": "../images/cards/generated/die-milch.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🥛"
+    },
+    {
+      "german": "das Wasser",
+      "english": "water",
+      "article": "das",
+      "word": "Wasser",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "das-wasser",
+      "image": "../images/cards/generated/das-wasser.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "💧"
+    },
+    {
+      "german": "der Saft",
+      "english": "juice",
+      "article": "der",
+      "word": "Saft",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-saft",
+      "image": "../images/cards/generated/der-saft.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🧃"
+    },
+    {
+      "german": "der Kaffee",
+      "english": "coffee",
+      "article": "der",
+      "word": "Kaffee",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-kaffee",
+      "image": "../images/cards/generated/der-kaffee.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "☕"
+    },
+    {
+      "german": "der Tee",
+      "english": "tea",
+      "article": "der",
+      "word": "Tee",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-tee",
+      "image": "../images/cards/generated/der-tee.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🍵"
+    },
+    {
+      "german": "das Salz",
+      "english": "salt",
+      "article": "das",
+      "word": "Salz",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "das-salz",
+      "image": "../images/cards/generated/das-salz.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🧂"
+    },
+    {
+      "german": "der Zucker",
+      "english": "sugar",
+      "article": "der",
+      "word": "Zucker",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-zucker",
+      "image": "../images/cards/generated/der-zucker.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🍬"
+    },
+    {
+      "german": "der Pfeffer",
+      "english": "pepper",
+      "article": "der",
+      "word": "Pfeffer",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-pfeffer",
+      "image": "../images/cards/generated/der-pfeffer.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🧂"
+    },
+    {
+      "german": "das Frühstück",
+      "english": "breakfast",
+      "article": "das",
+      "word": "Frühstück",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "das-fruhstuck",
+      "image": "../images/cards/generated/das-fruhstuck.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🍳"
+    },
+    {
+      "german": "das Mittagessen",
+      "english": "lunch",
+      "article": "das",
+      "word": "Mittagessen",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "das-mittagessen",
+      "image": "../images/cards/generated/das-mittagessen.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🍽️"
+    },
+    {
+      "german": "das Abendessen",
+      "english": "dinner",
+      "article": "das",
+      "word": "Abendessen",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "das-abendessen",
+      "image": "../images/cards/generated/das-abendessen.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🍽️"
+    },
+    {
+      "german": "das Brötchen",
+      "english": "bread roll",
+      "article": "das",
+      "word": "Brötchen",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "das-brotchen",
+      "image": "../images/cards/generated/das-brotchen.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🥖"
+    },
+    {
+      "german": "die Marmelade",
+      "english": "jam",
+      "article": "die",
+      "word": "Marmelade",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "die-marmelade",
+      "image": "../images/cards/generated/die-marmelade.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🍓"
+    },
+    {
+      "german": "der Joghurt",
+      "english": "yogurt",
+      "article": "der",
+      "word": "Joghurt",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-joghurt",
+      "image": "../images/cards/generated/der-joghurt.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🥣"
+    },
+    {
+      "german": "die Pizza",
+      "english": "pizza",
+      "article": "die",
+      "word": "Pizza",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "die-pizza",
+      "image": "../images/cards/generated/die-pizza.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🍕"
+    },
+    {
+      "german": "der Löffel",
+      "english": "spoon",
+      "article": "der",
+      "word": "Löffel",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-loffel",
+      "image": "../images/cards/generated/der-loffel.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🥄"
+    },
+    {
+      "german": "die Gabel",
+      "english": "fork",
+      "article": "die",
+      "word": "Gabel",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "die-gabel",
+      "image": "../images/cards/generated/die-gabel.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🍴"
+    },
+    {
+      "german": "das Messer",
+      "english": "knife",
+      "article": "das",
+      "word": "Messer",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "das-messer",
+      "image": "../images/cards/generated/das-messer.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🔪"
+    },
+    {
+      "german": "der Teller",
+      "english": "plate",
+      "article": "der",
+      "word": "Teller",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "der-teller",
+      "image": "../images/cards/generated/der-teller.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🍽️"
+    },
+    {
+      "german": "die Tasse",
+      "english": "cup",
+      "article": "die",
+      "word": "Tasse",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "die-tasse",
+      "image": "../images/cards/generated/die-tasse.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "☕"
+    },
+    {
+      "german": "das Glas",
+      "english": "glass",
+      "article": "das",
+      "word": "Glas",
+      "category": "food",
+      "partOfSpeech": "noun",
+      "id": "das-glas",
+      "image": "../images/cards/generated/das-glas.svg",
+      "level": "A1",
+      "tags": [
+        "food",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🥛"
+    },
+    {
+      "german": "das Haus",
+      "english": "house",
+      "article": "das",
+      "word": "Haus",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "das-haus",
+      "image": "../images/cards/generated/das-haus.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🏠"
+    },
+    {
+      "german": "die Wohnung",
+      "english": "apartment",
+      "article": "die",
+      "word": "Wohnung",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "die-wohnung",
+      "image": "../images/cards/generated/die-wohnung.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🏢"
+    },
+    {
+      "german": "das Zimmer",
+      "english": "room",
+      "article": "das",
+      "word": "Zimmer",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "das-zimmer",
+      "image": "../images/cards/generated/das-zimmer.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🚪"
+    },
+    {
+      "german": "die Küche",
+      "english": "kitchen",
+      "article": "die",
+      "word": "Küche",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "die-kuche",
+      "image": "../images/cards/generated/die-kuche.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🍳"
+    },
+    {
+      "german": "das Bad",
+      "english": "bathroom",
+      "article": "das",
+      "word": "Bad",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "das-bad",
+      "image": "../images/cards/generated/das-bad.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🛁"
+    },
+    {
+      "german": "die Tür",
+      "english": "door",
+      "article": "die",
+      "word": "Tür",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "die-tur",
+      "image": "../images/cards/generated/die-tur.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🚪"
+    },
+    {
+      "german": "das Fenster",
+      "english": "window",
+      "article": "das",
+      "word": "Fenster",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "das-fenster",
+      "image": "../images/cards/generated/das-fenster.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🪟"
+    },
+    {
+      "german": "der Tisch",
+      "english": "table",
+      "article": "der",
+      "word": "Tisch",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "der-tisch",
+      "image": "../images/cards/generated/der-tisch.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "custom:tisch"
+    },
+    {
+      "german": "der Stuhl",
+      "english": "chair",
+      "article": "der",
+      "word": "Stuhl",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "der-stuhl",
+      "image": "../images/cards/generated/der-stuhl.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🪑"
+    },
+    {
+      "german": "das Bett",
+      "english": "bed",
+      "article": "das",
+      "word": "Bett",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "das-bett",
+      "image": "../images/cards/generated/das-bett.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🛏️"
+    },
+    {
+      "german": "das Sofa",
+      "english": "sofa",
+      "article": "das",
+      "word": "Sofa",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "das-sofa",
+      "image": "../images/cards/generated/das-sofa.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🛋️"
+    },
+    {
+      "german": "der Schrank",
+      "english": "cabinet",
+      "article": "der",
+      "word": "Schrank",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "der-schrank",
+      "image": "../images/cards/generated/der-schrank.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🗄️"
+    },
+    {
+      "german": "die Lampe",
+      "english": "lamp",
+      "article": "die",
+      "word": "Lampe",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "die-lampe",
+      "image": "../images/cards/generated/die-lampe.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "💡"
+    },
+    {
+      "german": "der Teppich",
+      "english": "rug",
+      "article": "der",
+      "word": "Teppich",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "der-teppich",
+      "image": "../images/cards/generated/der-teppich.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "custom:teppich"
+    },
+    {
+      "german": "der Spiegel",
+      "english": "mirror",
+      "article": "der",
+      "word": "Spiegel",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "der-spiegel",
+      "image": "../images/cards/generated/der-spiegel.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🪞"
+    },
+    {
+      "german": "die Uhr",
+      "english": "clock",
+      "article": "die",
+      "word": "Uhr",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "die-uhr",
+      "image": "../images/cards/generated/die-uhr.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🕒"
+    },
+    {
+      "german": "der Schlüssel",
+      "english": "key",
+      "article": "der",
+      "word": "Schlüssel",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "der-schlussel",
+      "image": "../images/cards/generated/der-schlussel.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🔑"
+    },
+    {
+      "german": "die Treppe",
+      "english": "stairs",
+      "article": "die",
+      "word": "Treppe",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "die-treppe",
+      "image": "../images/cards/generated/die-treppe.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🪜"
+    },
+    {
+      "german": "der Garten",
+      "english": "garden",
+      "article": "der",
+      "word": "Garten",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "der-garten",
+      "image": "../images/cards/generated/der-garten.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🌻"
+    },
+    {
+      "german": "der Balkon",
+      "english": "balcony",
+      "article": "der",
+      "word": "Balkon",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "der-balkon",
+      "image": "../images/cards/generated/der-balkon.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🏘️"
+    },
+    {
+      "german": "die Wand",
+      "english": "wall",
+      "article": "die",
+      "word": "Wand",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "die-wand",
+      "image": "../images/cards/generated/die-wand.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🧱"
+    },
+    {
+      "german": "der Boden",
+      "english": "floor",
+      "article": "der",
+      "word": "Boden",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "der-boden",
+      "image": "../images/cards/generated/der-boden.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "custom:boden"
+    },
+    {
+      "german": "die Decke",
+      "english": "ceiling",
+      "article": "die",
+      "word": "Decke",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "die-decke",
+      "image": "../images/cards/generated/die-decke.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "custom:decke"
+    },
+    {
+      "german": "die Dusche",
+      "english": "shower",
+      "article": "die",
+      "word": "Dusche",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "die-dusche",
+      "image": "../images/cards/generated/die-dusche.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🚿"
+    },
+    {
+      "german": "die Toilette",
+      "english": "toilet",
+      "article": "die",
+      "word": "Toilette",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "die-toilette",
+      "image": "../images/cards/generated/die-toilette.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🚽"
+    },
+    {
+      "german": "das Dach",
+      "english": "roof",
+      "article": "das",
+      "word": "Dach",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "das-dach",
+      "image": "../images/cards/generated/das-dach.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🏠"
+    },
+    {
+      "german": "der Keller",
+      "english": "basement",
+      "article": "der",
+      "word": "Keller",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "der-keller",
+      "image": "../images/cards/generated/der-keller.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "📦"
+    },
+    {
+      "german": "die Garage",
+      "english": "garage",
+      "article": "die",
+      "word": "Garage",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "die-garage",
+      "image": "../images/cards/generated/die-garage.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🚗"
+    },
+    {
+      "german": "der Kühlschrank",
+      "english": "refrigerator",
+      "article": "der",
+      "word": "Kühlschrank",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "der-kuhlschrank",
+      "image": "../images/cards/generated/der-kuhlschrank.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🧊"
+    },
+    {
+      "german": "die Waschmaschine",
+      "english": "washing machine",
+      "article": "die",
+      "word": "Waschmaschine",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "die-waschmaschine",
+      "image": "../images/cards/generated/die-waschmaschine.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🧺"
+    },
+    {
+      "german": "der Ofen",
+      "english": "oven",
+      "article": "der",
+      "word": "Ofen",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "der-ofen",
+      "image": "../images/cards/generated/der-ofen.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "♨️"
+    },
+    {
+      "german": "der Herd",
+      "english": "stove",
+      "article": "der",
+      "word": "Herd",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "der-herd",
+      "image": "../images/cards/generated/der-herd.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🍳"
+    },
+    {
+      "german": "das Regal",
+      "english": "shelf",
+      "article": "das",
+      "word": "Regal",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "das-regal",
+      "image": "../images/cards/generated/das-regal.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "📚"
+    },
+    {
+      "german": "das Kissen",
+      "english": "pillow",
+      "article": "das",
+      "word": "Kissen",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "das-kissen",
+      "image": "../images/cards/generated/das-kissen.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🛏️"
+    },
+    {
+      "german": "die Pflanze",
+      "english": "plant",
+      "article": "die",
+      "word": "Pflanze",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "id": "die-pflanze",
+      "image": "../images/cards/generated/die-pflanze.svg",
+      "level": "A1",
+      "tags": [
+        "home",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🪴"
+    },
+    {
+      "german": "die Familie",
+      "english": "family",
+      "article": "die",
+      "word": "Familie",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "die-familie",
+      "image": "../images/cards/generated/die-familie.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "👨‍👩‍👧"
+    },
+    {
+      "german": "die Mutter",
+      "english": "mother",
+      "article": "die",
+      "word": "Mutter",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "die-mutter",
+      "image": "../images/cards/generated/die-mutter.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "👩"
+    },
+    {
+      "german": "der Vater",
+      "english": "father",
+      "article": "der",
+      "word": "Vater",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "der-vater",
+      "image": "../images/cards/generated/der-vater.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "👨"
+    },
+    {
+      "german": "die Schwester",
+      "english": "sister",
+      "article": "die",
+      "word": "Schwester",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "die-schwester",
+      "image": "../images/cards/generated/die-schwester.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "👧"
+    },
+    {
+      "german": "der Bruder",
+      "english": "brother",
+      "article": "der",
+      "word": "Bruder",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "der-bruder",
+      "image": "../images/cards/generated/der-bruder.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "👦"
+    },
+    {
+      "german": "die Tochter",
+      "english": "daughter",
+      "article": "die",
+      "word": "Tochter",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "die-tochter",
+      "image": "../images/cards/generated/die-tochter.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "👧"
+    },
+    {
+      "german": "der Sohn",
+      "english": "son",
+      "article": "der",
+      "word": "Sohn",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "der-sohn",
+      "image": "../images/cards/generated/der-sohn.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "👦"
+    },
+    {
+      "german": "die Oma",
+      "english": "grandma",
+      "article": "die",
+      "word": "Oma",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "die-oma",
+      "image": "../images/cards/generated/die-oma.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "👵"
+    },
+    {
+      "german": "der Opa",
+      "english": "grandpa",
+      "article": "der",
+      "word": "Opa",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "der-opa",
+      "image": "../images/cards/generated/der-opa.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "👴"
+    },
+    {
+      "german": "das Baby",
+      "english": "baby",
+      "article": "das",
+      "word": "Baby",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "das-baby",
+      "image": "../images/cards/generated/das-baby.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "👶"
+    },
+    {
+      "german": "das Kind",
+      "english": "child",
+      "article": "das",
+      "word": "Kind",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "das-kind",
+      "image": "../images/cards/generated/das-kind.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🧒"
+    },
+    {
+      "german": "die Eltern",
+      "english": "parents",
+      "article": "die",
+      "word": "Eltern",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "die-eltern",
+      "image": "../images/cards/generated/die-eltern.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "👪"
+    },
+    {
+      "german": "die Tante",
+      "english": "aunt",
+      "article": "die",
+      "word": "Tante",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "die-tante",
+      "image": "../images/cards/generated/die-tante.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "👩"
+    },
+    {
+      "german": "der Onkel",
+      "english": "uncle",
+      "article": "der",
+      "word": "Onkel",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "der-onkel",
+      "image": "../images/cards/generated/der-onkel.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "👨"
+    },
+    {
+      "german": "die Cousine",
+      "english": "female cousin",
+      "article": "die",
+      "word": "Cousine",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "die-cousine",
+      "image": "../images/cards/generated/die-cousine.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "👧"
+    },
+    {
+      "german": "der Cousin",
+      "english": "male cousin",
+      "article": "der",
+      "word": "Cousin",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "der-cousin",
+      "image": "../images/cards/generated/der-cousin.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "👦"
+    },
+    {
+      "german": "die Freundin",
+      "english": "female friend",
+      "article": "die",
+      "word": "Freundin",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "die-freundin",
+      "image": "../images/cards/generated/die-freundin.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "👩"
+    },
+    {
+      "german": "der Freund",
+      "english": "friend",
+      "article": "der",
+      "word": "Freund",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "der-freund",
+      "image": "../images/cards/generated/der-freund.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🙂"
+    },
+    {
+      "german": "die Nachbarin",
+      "english": "female neighbor",
+      "article": "die",
+      "word": "Nachbarin",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "die-nachbarin",
+      "image": "../images/cards/generated/die-nachbarin.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🏘️"
+    },
+    {
+      "german": "der Nachbar",
+      "english": "neighbor",
+      "article": "der",
+      "word": "Nachbar",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "der-nachbar",
+      "image": "../images/cards/generated/der-nachbar.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🏘️"
+    },
+    {
+      "german": "der Name",
+      "english": "name",
+      "article": "der",
+      "word": "Name",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "der-name",
+      "image": "../images/cards/generated/der-name.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🏷️"
+    },
+    {
+      "german": "die Adresse",
+      "english": "address",
+      "article": "die",
+      "word": "Adresse",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "die-adresse",
+      "image": "../images/cards/generated/die-adresse.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "✉️"
+    },
+    {
+      "german": "der Geburtstag",
+      "english": "birthday",
+      "article": "der",
+      "word": "Geburtstag",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "der-geburtstag",
+      "image": "../images/cards/generated/der-geburtstag.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🎂"
+    },
+    {
+      "german": "das Geschenk",
+      "english": "gift",
+      "article": "das",
+      "word": "Geschenk",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "id": "das-geschenk",
+      "image": "../images/cards/generated/das-geschenk.svg",
+      "level": "A1",
+      "tags": [
+        "family",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🎁"
+    },
+    {
+      "german": "die Schule",
+      "english": "school",
+      "article": "die",
+      "word": "Schule",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "die-schule",
+      "image": "../images/cards/generated/die-schule.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🏫"
+    },
+    {
+      "german": "die Klasse",
+      "english": "class",
+      "article": "die",
+      "word": "Klasse",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "die-klasse",
+      "image": "../images/cards/generated/die-klasse.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "👩‍🏫"
+    },
+    {
+      "german": "der Lehrer",
+      "english": "male teacher",
+      "article": "der",
+      "word": "Lehrer",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "der-lehrer",
+      "image": "../images/cards/generated/der-lehrer.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "👨‍🏫"
+    },
+    {
+      "german": "die Lehrerin",
+      "english": "female teacher",
+      "article": "die",
+      "word": "Lehrerin",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "die-lehrerin",
+      "image": "../images/cards/generated/die-lehrerin.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "👩‍🏫"
+    },
+    {
+      "german": "der Schüler",
+      "english": "male student",
+      "article": "der",
+      "word": "Schüler",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "der-schuler",
+      "image": "../images/cards/generated/der-schuler.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "👦"
+    },
+    {
+      "german": "die Schülerin",
+      "english": "female student",
+      "article": "die",
+      "word": "Schülerin",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "die-schulerin",
+      "image": "../images/cards/generated/die-schulerin.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "👧"
+    },
+    {
+      "german": "das Buch",
+      "english": "book",
+      "article": "das",
+      "word": "Buch",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "das-buch",
+      "image": "../images/cards/generated/das-buch.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "📖"
+    },
+    {
+      "german": "das Heft",
+      "english": "notebook",
+      "article": "das",
+      "word": "Heft",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "das-heft",
+      "image": "../images/cards/generated/das-heft.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "📓"
+    },
+    {
+      "german": "der Stift",
+      "english": "pen",
+      "article": "der",
+      "word": "Stift",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "der-stift",
+      "image": "../images/cards/generated/der-stift.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🖊️"
+    },
+    {
+      "german": "der Bleistift",
+      "english": "pencil",
+      "article": "der",
+      "word": "Bleistift",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "der-bleistift",
+      "image": "../images/cards/generated/der-bleistift.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "✏️"
+    },
+    {
+      "german": "der Kuli",
+      "english": "ballpoint pen",
+      "article": "der",
+      "word": "Kuli",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "der-kuli",
+      "image": "../images/cards/generated/der-kuli.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🖊️"
+    },
+    {
+      "german": "die Tasche",
+      "english": "bag",
+      "article": "die",
+      "word": "Tasche",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "die-tasche",
+      "image": "../images/cards/generated/die-tasche.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "👜"
+    },
+    {
+      "german": "der Rucksack",
+      "english": "backpack",
+      "article": "der",
+      "word": "Rucksack",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "der-rucksack",
+      "image": "../images/cards/generated/der-rucksack.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🎒"
+    },
+    {
+      "german": "die Pause",
+      "english": "break",
+      "article": "die",
+      "word": "Pause",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "die-pause",
+      "image": "../images/cards/generated/die-pause.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "⏸️"
+    },
+    {
+      "german": "die Aufgabe",
+      "english": "task",
+      "article": "die",
+      "word": "Aufgabe",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "die-aufgabe",
+      "image": "../images/cards/generated/die-aufgabe.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "📝"
+    },
+    {
+      "german": "die Prüfung",
+      "english": "exam",
+      "article": "die",
+      "word": "Prüfung",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "die-prufung",
+      "image": "../images/cards/generated/die-prufung.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "📋"
+    },
+    {
+      "german": "die Frage",
+      "english": "question",
+      "article": "die",
+      "word": "Frage",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "die-frage",
+      "image": "../images/cards/generated/die-frage.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "❓"
+    },
+    {
+      "german": "die Antwort",
+      "english": "answer",
+      "article": "die",
+      "word": "Antwort",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "die-antwort",
+      "image": "../images/cards/generated/die-antwort.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "✅"
+    },
+    {
+      "german": "die Tafel",
+      "english": "board",
+      "article": "die",
+      "word": "Tafel",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "die-tafel",
+      "image": "../images/cards/generated/die-tafel.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "🟩"
+    },
+    {
+      "german": "das Papier",
+      "english": "paper",
+      "article": "das",
+      "word": "Papier",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "das-papier",
+      "image": "../images/cards/generated/das-papier.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "📄"
+    },
+    {
+      "german": "die Schere",
+      "english": "scissors",
+      "article": "die",
+      "word": "Schere",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "die-schere",
+      "image": "../images/cards/generated/die-schere.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "✂️"
+    },
+    {
+      "german": "der Kleber",
+      "english": "glue",
+      "article": "der",
+      "word": "Kleber",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "der-kleber",
+      "image": "../images/cards/generated/der-kleber.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🧴"
+    },
+    {
+      "german": "der Computer",
+      "english": "computer",
+      "article": "der",
+      "word": "Computer",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "der-computer",
+      "image": "../images/cards/generated/der-computer.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "💻"
+    },
+    {
+      "german": "das Tablet",
+      "english": "tablet",
+      "article": "das",
+      "word": "Tablet",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "das-tablet",
+      "image": "../images/cards/generated/das-tablet.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "📱"
+    },
+    {
+      "german": "die Mappe",
+      "english": "folder",
+      "article": "die",
+      "word": "Mappe",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "die-mappe",
+      "image": "../images/cards/generated/die-mappe.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "📁"
+    },
+    {
+      "german": "das Lineal",
+      "english": "ruler",
+      "article": "das",
+      "word": "Lineal",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "das-lineal",
+      "image": "../images/cards/generated/das-lineal.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "📏"
+    },
+    {
+      "german": "der Radiergummi",
+      "english": "eraser",
+      "article": "der",
+      "word": "Radiergummi",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "der-radiergummi",
+      "image": "../images/cards/generated/der-radiergummi.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🧽"
+    },
+    {
+      "german": "die Note",
+      "english": "grade",
+      "article": "die",
+      "word": "Note",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "die-note",
+      "image": "../images/cards/generated/die-note.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "💯"
+    },
+    {
+      "german": "das Wörterbuch",
+      "english": "dictionary",
+      "article": "das",
+      "word": "Wörterbuch",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "das-worterbuch",
+      "image": "../images/cards/generated/das-worterbuch.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "📘"
+    },
+    {
+      "german": "der Unterricht",
+      "english": "lesson",
+      "article": "der",
+      "word": "Unterricht",
+      "category": "school",
+      "partOfSpeech": "noun",
+      "id": "der-unterricht",
+      "image": "../images/cards/generated/der-unterricht.svg",
+      "level": "A1",
+      "tags": [
+        "school",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🏫"
+    },
+    {
+      "german": "der Kopf",
+      "english": "head",
+      "article": "der",
+      "word": "Kopf",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "der-kopf",
+      "image": "../images/cards/generated/der-kopf.svg",
+      "level": "A1",
+      "tags": [
+        "body",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🙂"
+    },
+    {
+      "german": "das Auge",
+      "english": "eye",
+      "article": "das",
+      "word": "Auge",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "das-auge",
+      "image": "../images/cards/generated/das-auge.svg",
+      "level": "A1",
+      "tags": [
+        "body",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "👁️"
+    },
+    {
+      "german": "die Nase",
+      "english": "nose",
+      "article": "die",
+      "word": "Nase",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "die-nase",
+      "image": "../images/cards/generated/die-nase.svg",
+      "level": "A1",
+      "tags": [
+        "body",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "👃"
+    },
+    {
+      "german": "der Mund",
+      "english": "mouth",
+      "article": "der",
+      "word": "Mund",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "der-mund",
+      "image": "../images/cards/generated/der-mund.svg",
+      "level": "A1",
+      "tags": [
+        "body",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "👄"
+    },
+    {
+      "german": "das Ohr",
+      "english": "ear",
+      "article": "das",
+      "word": "Ohr",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "das-ohr",
+      "image": "../images/cards/generated/das-ohr.svg",
+      "level": "A1",
+      "tags": [
+        "body",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "👂"
+    },
+    {
+      "german": "die Hand",
+      "english": "hand",
+      "article": "die",
+      "word": "Hand",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "die-hand",
+      "image": "../images/cards/generated/die-hand.svg",
+      "level": "A1",
+      "tags": [
+        "body",
+        "noun",
+        "a1",
+        "die"
+      ],
+      "visualCue": "✋"
+    },
+    {
+      "german": "der Arm",
+      "english": "arm",
+      "article": "der",
+      "word": "Arm",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "der-arm",
+      "image": "../images/cards/generated/der-arm.svg",
+      "level": "A1",
+      "tags": [
+        "body",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "💪"
+    },
+    {
+      "german": "das Bein",
+      "english": "leg",
+      "article": "das",
+      "word": "Bein",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "das-bein",
+      "image": "../images/cards/generated/das-bein.svg",
+      "level": "A1",
+      "tags": [
+        "body",
+        "noun",
+        "a1",
+        "das"
+      ],
+      "visualCue": "🦵"
+    },
+    {
+      "german": "der Fuß",
+      "english": "foot",
+      "article": "der",
+      "word": "Fuß",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "der-fu",
+      "image": "../images/cards/generated/der-fu.svg",
+      "level": "A1",
+      "tags": [
+        "body",
+        "noun",
+        "a1",
+        "der"
+      ],
+      "visualCue": "🦶"
+    },
+    {
+      "german": "das Haar",
+      "english": "hair",
+      "article": "das",
+      "word": "Haar",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "das-haar",
+      "image": "../images/cards/generated/das-haar.svg",
+      "level": "A1-A2",
+      "tags": [
+        "body",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "custom:haar"
+    },
+    {
+      "german": "der Zahn",
+      "english": "tooth",
+      "article": "der",
+      "word": "Zahn",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "der-zahn",
+      "image": "../images/cards/generated/der-zahn.svg",
+      "level": "A1-A2",
+      "tags": [
+        "body",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🦷"
+    },
+    {
+      "german": "das Gesicht",
+      "english": "face",
+      "article": "das",
+      "word": "Gesicht",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "das-gesicht",
+      "image": "../images/cards/generated/das-gesicht.svg",
+      "level": "A1-A2",
+      "tags": [
+        "body",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🙂"
+    },
+    {
+      "german": "der Bauch",
+      "english": "belly",
+      "article": "der",
+      "word": "Bauch",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "der-bauch",
+      "image": "../images/cards/generated/der-bauch.svg",
+      "level": "A1-A2",
+      "tags": [
+        "body",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🧍"
+    },
+    {
+      "german": "der Rücken",
+      "english": "back",
+      "article": "der",
+      "word": "Rücken",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "der-rucken",
+      "image": "../images/cards/generated/der-rucken.svg",
+      "level": "A1-A2",
+      "tags": [
+        "body",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🚶"
+    },
+    {
+      "german": "das Herz",
+      "english": "heart",
+      "article": "das",
+      "word": "Herz",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "das-herz",
+      "image": "../images/cards/generated/das-herz.svg",
+      "level": "A1-A2",
+      "tags": [
+        "body",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "❤️"
+    },
+    {
+      "german": "der Finger",
+      "english": "finger",
+      "article": "der",
+      "word": "Finger",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "der-finger",
+      "image": "../images/cards/generated/der-finger.svg",
+      "level": "A1-A2",
+      "tags": [
+        "body",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "☝️"
+    },
+    {
+      "german": "das Knie",
+      "english": "knee",
+      "article": "das",
+      "word": "Knie",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "das-knie",
+      "image": "../images/cards/generated/das-knie.svg",
+      "level": "A1-A2",
+      "tags": [
+        "body",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🦵"
+    },
+    {
+      "german": "die Schulter",
+      "english": "shoulder",
+      "article": "die",
+      "word": "Schulter",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "die-schulter",
+      "image": "../images/cards/generated/die-schulter.svg",
+      "level": "A1-A2",
+      "tags": [
+        "body",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🤷"
+    },
+    {
+      "german": "der Hals",
+      "english": "neck",
+      "article": "der",
+      "word": "Hals",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "der-hals",
+      "image": "../images/cards/generated/der-hals.svg",
+      "level": "A1-A2",
+      "tags": [
+        "body",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🧣"
+    },
+    {
+      "german": "die Stimme",
+      "english": "voice",
+      "article": "die",
+      "word": "Stimme",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "id": "die-stimme",
+      "image": "../images/cards/generated/die-stimme.svg",
+      "level": "A1-A2",
+      "tags": [
+        "body",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🎙️"
+    },
+    {
+      "german": "das Hemd",
+      "english": "shirt",
+      "article": "das",
+      "word": "Hemd",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "das-hemd",
+      "image": "../images/cards/generated/das-hemd.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "👔"
+    },
+    {
+      "german": "die Hose",
+      "english": "pants",
+      "article": "die",
+      "word": "Hose",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "die-hose",
+      "image": "../images/cards/generated/die-hose.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "👖"
+    },
+    {
+      "german": "das Kleid",
+      "english": "dress",
+      "article": "das",
+      "word": "Kleid",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "das-kleid",
+      "image": "../images/cards/generated/das-kleid.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "👗"
+    },
+    {
+      "german": "der Rock",
+      "english": "skirt",
+      "article": "der",
+      "word": "Rock",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "der-rock",
+      "image": "../images/cards/generated/der-rock.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "👗"
+    },
+    {
+      "german": "die Jacke",
+      "english": "jacket",
+      "article": "die",
+      "word": "Jacke",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "die-jacke",
+      "image": "../images/cards/generated/die-jacke.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🧥"
+    },
+    {
+      "german": "der Mantel",
+      "english": "coat",
+      "article": "der",
+      "word": "Mantel",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "der-mantel",
+      "image": "../images/cards/generated/der-mantel.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🧥"
+    },
+    {
+      "german": "der Schuh",
+      "english": "shoe",
+      "article": "der",
+      "word": "Schuh",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "der-schuh",
+      "image": "../images/cards/generated/der-schuh.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "👞"
+    },
+    {
+      "german": "die Socke",
+      "english": "sock",
+      "article": "die",
+      "word": "Socke",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "die-socke",
+      "image": "../images/cards/generated/die-socke.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🧦"
+    },
+    {
+      "german": "der Hut",
+      "english": "hat",
+      "article": "der",
+      "word": "Hut",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "der-hut",
+      "image": "../images/cards/generated/der-hut.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🎩"
+    },
+    {
+      "german": "die Mütze",
+      "english": "cap",
+      "article": "die",
+      "word": "Mütze",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "die-mutze",
+      "image": "../images/cards/generated/die-mutze.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🧢"
+    },
+    {
+      "german": "der Schal",
+      "english": "scarf",
+      "article": "der",
+      "word": "Schal",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "der-schal",
+      "image": "../images/cards/generated/der-schal.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🧣"
+    },
+    {
+      "german": "die Brille",
+      "english": "glasses",
+      "article": "die",
+      "word": "Brille",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "die-brille",
+      "image": "../images/cards/generated/die-brille.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "👓"
+    },
+    {
+      "german": "der Gürtel",
+      "english": "belt",
+      "article": "der",
+      "word": "Gürtel",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "der-gurtel",
+      "image": "../images/cards/generated/der-gurtel.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "custom:gurtel"
+    },
+    {
+      "german": "der Pullover",
+      "english": "sweater",
+      "article": "der",
+      "word": "Pullover",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "der-pullover",
+      "image": "../images/cards/generated/der-pullover.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "👕"
+    },
+    {
+      "german": "das T-Shirt",
+      "english": "t-shirt",
+      "article": "das",
+      "word": "T-Shirt",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "das-t-shirt",
+      "image": "../images/cards/generated/das-t-shirt.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "👕"
+    },
+    {
+      "german": "die Jeans",
+      "english": "jeans",
+      "article": "die",
+      "word": "Jeans",
+      "category": "clothes",
+      "partOfSpeech": "noun",
+      "id": "die-jeans",
+      "image": "../images/cards/generated/die-jeans.svg",
+      "level": "A1-A2",
+      "tags": [
+        "clothes",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "👖"
+    },
+    {
+      "german": "der Hund",
+      "english": "dog",
+      "article": "der",
+      "word": "Hund",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "der-hund",
+      "image": "../images/cards/generated/der-hund.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🐶"
+    },
+    {
+      "german": "die Katze",
+      "english": "cat",
+      "article": "die",
+      "word": "Katze",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "die-katze",
+      "image": "../images/cards/generated/die-katze.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🐱"
+    },
+    {
+      "german": "der Vogel",
+      "english": "bird",
+      "article": "der",
+      "word": "Vogel",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "der-vogel",
+      "image": "../images/cards/generated/der-vogel.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🐦"
+    },
+    {
+      "german": "das Pferd",
+      "english": "horse",
+      "article": "das",
+      "word": "Pferd",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "das-pferd",
+      "image": "../images/cards/generated/das-pferd.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🐴"
+    },
+    {
+      "german": "die Kuh",
+      "english": "cow",
+      "article": "die",
+      "word": "Kuh",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "die-kuh",
+      "image": "../images/cards/generated/die-kuh.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🐮"
+    },
+    {
+      "german": "das Schwein",
+      "english": "pig",
+      "article": "das",
+      "word": "Schwein",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "das-schwein",
+      "image": "../images/cards/generated/das-schwein.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🐷"
+    },
+    {
+      "german": "das Schaf",
+      "english": "sheep",
+      "article": "das",
+      "word": "Schaf",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "das-schaf",
+      "image": "../images/cards/generated/das-schaf.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🐑"
+    },
+    {
+      "german": "die Ziege",
+      "english": "goat",
+      "article": "die",
+      "word": "Ziege",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "die-ziege",
+      "image": "../images/cards/generated/die-ziege.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🐐"
+    },
+    {
+      "german": "die Maus",
+      "english": "mouse",
+      "article": "die",
+      "word": "Maus",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "die-maus",
+      "image": "../images/cards/generated/die-maus.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🐭"
+    },
+    {
+      "german": "der Hase",
+      "english": "rabbit",
+      "article": "der",
+      "word": "Hase",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "der-hase",
+      "image": "../images/cards/generated/der-hase.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🐰"
+    },
+    {
+      "german": "die Ente",
+      "english": "duck",
+      "article": "die",
+      "word": "Ente",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "die-ente",
+      "image": "../images/cards/generated/die-ente.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🦆"
+    },
+    {
+      "german": "die Biene",
+      "english": "bee",
+      "article": "die",
+      "word": "Biene",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "die-biene",
+      "image": "../images/cards/generated/die-biene.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🐝"
+    },
+    {
+      "german": "der Schmetterling",
+      "english": "butterfly",
+      "article": "der",
+      "word": "Schmetterling",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "der-schmetterling",
+      "image": "../images/cards/generated/der-schmetterling.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🦋"
+    },
+    {
+      "german": "der Frosch",
+      "english": "frog",
+      "article": "der",
+      "word": "Frosch",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "der-frosch",
+      "image": "../images/cards/generated/der-frosch.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🐸"
+    },
+    {
+      "german": "der Elefant",
+      "english": "elephant",
+      "article": "der",
+      "word": "Elefant",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "der-elefant",
+      "image": "../images/cards/generated/der-elefant.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🐘"
+    },
+    {
+      "german": "der Löwe",
+      "english": "lion",
+      "article": "der",
+      "word": "Löwe",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "id": "der-lowe",
+      "image": "../images/cards/generated/der-lowe.svg",
+      "level": "A1-A2",
+      "tags": [
+        "animals",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🦁"
+    },
+    {
+      "german": "der Baum",
+      "english": "tree",
+      "article": "der",
+      "word": "Baum",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "der-baum",
+      "image": "../images/cards/generated/der-baum.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🌳"
+    },
+    {
+      "german": "die Blume",
+      "english": "flower",
+      "article": "die",
+      "word": "Blume",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "die-blume",
+      "image": "../images/cards/generated/die-blume.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🌸"
+    },
+    {
+      "german": "das Gras",
+      "english": "grass",
+      "article": "das",
+      "word": "Gras",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "das-gras",
+      "image": "../images/cards/generated/das-gras.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🌱"
+    },
+    {
+      "german": "der Himmel",
+      "english": "sky",
+      "article": "der",
+      "word": "Himmel",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "der-himmel",
+      "image": "../images/cards/generated/der-himmel.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "☁️"
+    },
+    {
+      "german": "die Sonne",
+      "english": "sun",
+      "article": "die",
+      "word": "Sonne",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "die-sonne",
+      "image": "../images/cards/generated/die-sonne.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "☀️"
+    },
+    {
+      "german": "der Mond",
+      "english": "moon",
+      "article": "der",
+      "word": "Mond",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "der-mond",
+      "image": "../images/cards/generated/der-mond.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🌙"
+    },
+    {
+      "german": "der Stern",
+      "english": "star",
+      "article": "der",
+      "word": "Stern",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "der-stern",
+      "image": "../images/cards/generated/der-stern.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "⭐"
+    },
+    {
+      "german": "die Wolke",
+      "english": "cloud",
+      "article": "die",
+      "word": "Wolke",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "die-wolke",
+      "image": "../images/cards/generated/die-wolke.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "☁️"
+    },
+    {
+      "german": "der Regen",
+      "english": "rain",
+      "article": "der",
+      "word": "Regen",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "der-regen",
+      "image": "../images/cards/generated/der-regen.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🌧️"
+    },
+    {
+      "german": "der Schnee",
+      "english": "snow",
+      "article": "der",
+      "word": "Schnee",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "der-schnee",
+      "image": "../images/cards/generated/der-schnee.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "❄️"
+    },
+    {
+      "german": "der Wind",
+      "english": "wind",
+      "article": "der",
+      "word": "Wind",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "der-wind",
+      "image": "../images/cards/generated/der-wind.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "💨"
+    },
+    {
+      "german": "der Berg",
+      "english": "mountain",
+      "article": "der",
+      "word": "Berg",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "der-berg",
+      "image": "../images/cards/generated/der-berg.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "⛰️"
+    },
+    {
+      "german": "der Fluss",
+      "english": "river",
+      "article": "der",
+      "word": "Fluss",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "der-fluss",
+      "image": "../images/cards/generated/der-fluss.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "〰️"
+    },
+    {
+      "german": "der See",
+      "english": "lake",
+      "article": "der",
+      "word": "See",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "der-see",
+      "image": "../images/cards/generated/der-see.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🌊"
+    },
+    {
+      "german": "das Meer",
+      "english": "sea",
+      "article": "das",
+      "word": "Meer",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "das-meer",
+      "image": "../images/cards/generated/das-meer.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🌊"
+    },
+    {
+      "german": "der Wald",
+      "english": "forest",
+      "article": "der",
+      "word": "Wald",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "der-wald",
+      "image": "../images/cards/generated/der-wald.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🌲"
+    },
+    {
+      "german": "der Strand",
+      "english": "beach",
+      "article": "der",
+      "word": "Strand",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "der-strand",
+      "image": "../images/cards/generated/der-strand.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🏖️"
+    },
+    {
+      "german": "die Insel",
+      "english": "island",
+      "article": "die",
+      "word": "Insel",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "die-insel",
+      "image": "../images/cards/generated/die-insel.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🏝️"
+    },
+    {
+      "german": "der Stein",
+      "english": "stone",
+      "article": "der",
+      "word": "Stein",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "der-stein",
+      "image": "../images/cards/generated/der-stein.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🪨"
+    },
+    {
+      "german": "das Feuer",
+      "english": "fire",
+      "article": "das",
+      "word": "Feuer",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "id": "das-feuer",
+      "image": "../images/cards/generated/das-feuer.svg",
+      "level": "A1-A2",
+      "tags": [
+        "nature",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🔥"
+    },
+    {
+      "german": "die Stadt",
+      "english": "city",
+      "article": "die",
+      "word": "Stadt",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "die-stadt",
+      "image": "../images/cards/generated/die-stadt.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🏙️"
+    },
+    {
+      "german": "das Dorf",
+      "english": "village",
+      "article": "das",
+      "word": "Dorf",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "das-dorf",
+      "image": "../images/cards/generated/das-dorf.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🏘️"
+    },
+    {
+      "german": "die Straße",
+      "english": "street",
+      "article": "die",
+      "word": "Straße",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "die-strae",
+      "image": "../images/cards/generated/die-strae.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🛣️"
+    },
+    {
+      "german": "der Park",
+      "english": "park",
+      "article": "der",
+      "word": "Park",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "der-park",
+      "image": "../images/cards/generated/der-park.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🌳"
+    },
+    {
+      "german": "der Bahnhof",
+      "english": "train station",
+      "article": "der",
+      "word": "Bahnhof",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "der-bahnhof",
+      "image": "../images/cards/generated/der-bahnhof.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🚉"
+    },
+    {
+      "german": "die Haltestelle",
+      "english": "stop",
+      "article": "die",
+      "word": "Haltestelle",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "die-haltestelle",
+      "image": "../images/cards/generated/die-haltestelle.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🚏"
+    },
+    {
+      "german": "die Brücke",
+      "english": "bridge",
+      "article": "die",
+      "word": "Brücke",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "die-brucke",
+      "image": "../images/cards/generated/die-brucke.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🌉"
+    },
+    {
+      "german": "das Geschäft",
+      "english": "shop",
+      "article": "das",
+      "word": "Geschäft",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "das-geschaft",
+      "image": "../images/cards/generated/das-geschaft.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🏬"
+    },
+    {
+      "german": "der Supermarkt",
+      "english": "supermarket",
+      "article": "der",
+      "word": "Supermarkt",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "der-supermarkt",
+      "image": "../images/cards/generated/der-supermarkt.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🛒"
+    },
+    {
+      "german": "die Bäckerei",
+      "english": "bakery",
+      "article": "die",
+      "word": "Bäckerei",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "die-backerei",
+      "image": "../images/cards/generated/die-backerei.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🥐"
+    },
+    {
+      "german": "die Apotheke",
+      "english": "pharmacy",
+      "article": "die",
+      "word": "Apotheke",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "die-apotheke",
+      "image": "../images/cards/generated/die-apotheke.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "⚕️"
+    },
+    {
+      "german": "das Krankenhaus",
+      "english": "hospital",
+      "article": "das",
+      "word": "Krankenhaus",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "das-krankenhaus",
+      "image": "../images/cards/generated/das-krankenhaus.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🏥"
+    },
+    {
+      "german": "die Bank",
+      "english": "bank",
+      "article": "die",
+      "word": "Bank",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "die-bank",
+      "image": "../images/cards/generated/die-bank.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🏦"
+    },
+    {
+      "german": "das Hotel",
+      "english": "hotel",
+      "article": "das",
+      "word": "Hotel",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "das-hotel",
+      "image": "../images/cards/generated/das-hotel.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🏨"
+    },
+    {
+      "german": "das Restaurant",
+      "english": "restaurant",
+      "article": "das",
+      "word": "Restaurant",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "das-restaurant",
+      "image": "../images/cards/generated/das-restaurant.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🍽️"
+    },
+    {
+      "german": "das Kino",
+      "english": "cinema",
+      "article": "das",
+      "word": "Kino",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "das-kino",
+      "image": "../images/cards/generated/das-kino.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🎬"
+    },
+    {
+      "german": "das Museum",
+      "english": "museum",
+      "article": "das",
+      "word": "Museum",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "das-museum",
+      "image": "../images/cards/generated/das-museum.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🏛️"
+    },
+    {
+      "german": "die Post",
+      "english": "post office",
+      "article": "die",
+      "word": "Post",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "die-post",
+      "image": "../images/cards/generated/die-post.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "📮"
+    },
+    {
+      "german": "die Polizei",
+      "english": "police",
+      "article": "die",
+      "word": "Polizei",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "die-polizei",
+      "image": "../images/cards/generated/die-polizei.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "👮"
+    },
+    {
+      "german": "die Bibliothek",
+      "english": "library",
+      "article": "die",
+      "word": "Bibliothek",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "die-bibliothek",
+      "image": "../images/cards/generated/die-bibliothek.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "📚"
+    },
+    {
+      "german": "der Markt",
+      "english": "market",
+      "article": "der",
+      "word": "Markt",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "der-markt",
+      "image": "../images/cards/generated/der-markt.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🛍️"
+    },
+    {
+      "german": "der Spielplatz",
+      "english": "playground",
+      "article": "der",
+      "word": "Spielplatz",
+      "category": "town",
+      "partOfSpeech": "noun",
+      "id": "der-spielplatz",
+      "image": "../images/cards/generated/der-spielplatz.svg",
+      "level": "A1-A2",
+      "tags": [
+        "town",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🛝"
+    },
+    {
+      "german": "der Bus",
+      "english": "bus",
+      "article": "der",
+      "word": "Bus",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "id": "der-bus",
+      "image": "../images/cards/generated/der-bus.svg",
+      "level": "A1-A2",
+      "tags": [
+        "transport",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🚌"
+    },
+    {
+      "german": "der Zug",
+      "english": "train",
+      "article": "der",
+      "word": "Zug",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "id": "der-zug",
+      "image": "../images/cards/generated/der-zug.svg",
+      "level": "A1-A2",
+      "tags": [
+        "transport",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🚆"
+    },
+    {
+      "german": "das Auto",
+      "english": "car",
+      "article": "das",
+      "word": "Auto",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "id": "das-auto",
+      "image": "../images/cards/generated/das-auto.svg",
+      "level": "A1-A2",
+      "tags": [
+        "transport",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🚗"
+    },
+    {
+      "german": "das Fahrrad",
+      "english": "bicycle",
+      "article": "das",
+      "word": "Fahrrad",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "id": "das-fahrrad",
+      "image": "../images/cards/generated/das-fahrrad.svg",
+      "level": "A1-A2",
+      "tags": [
+        "transport",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🚲"
+    },
+    {
+      "german": "das Taxi",
+      "english": "taxi",
+      "article": "das",
+      "word": "Taxi",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "id": "das-taxi",
+      "image": "../images/cards/generated/das-taxi.svg",
+      "level": "A1-A2",
+      "tags": [
+        "transport",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🚕"
+    },
+    {
+      "german": "das Flugzeug",
+      "english": "airplane",
+      "article": "das",
+      "word": "Flugzeug",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "id": "das-flugzeug",
+      "image": "../images/cards/generated/das-flugzeug.svg",
+      "level": "A1-A2",
+      "tags": [
+        "transport",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "✈️"
+    },
+    {
+      "german": "das Schiff",
+      "english": "ship",
+      "article": "das",
+      "word": "Schiff",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "id": "das-schiff",
+      "image": "../images/cards/generated/das-schiff.svg",
+      "level": "A1-A2",
+      "tags": [
+        "transport",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "🚢"
+    },
+    {
+      "german": "die U-Bahn",
+      "english": "subway",
+      "article": "die",
+      "word": "U-Bahn",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "id": "die-u-bahn",
+      "image": "../images/cards/generated/die-u-bahn.svg",
+      "level": "A1-A2",
+      "tags": [
+        "transport",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🚇"
+    },
+    {
+      "german": "die Straßenbahn",
+      "english": "tram",
+      "article": "die",
+      "word": "Straßenbahn",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "id": "die-straenbahn",
+      "image": "../images/cards/generated/die-straenbahn.svg",
+      "level": "A1-A2",
+      "tags": [
+        "transport",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🚊"
+    },
+    {
+      "german": "der Fahrplan",
+      "english": "timetable",
+      "article": "der",
+      "word": "Fahrplan",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "id": "der-fahrplan",
+      "image": "../images/cards/generated/der-fahrplan.svg",
+      "level": "A1-A2",
+      "tags": [
+        "transport",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🗓️"
+    },
+    {
+      "german": "die Fahrkarte",
+      "english": "ticket",
+      "article": "die",
+      "word": "Fahrkarte",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "id": "die-fahrkarte",
+      "image": "../images/cards/generated/die-fahrkarte.svg",
+      "level": "A1-A2",
+      "tags": [
+        "transport",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🎫"
+    },
+    {
+      "german": "der Koffer",
+      "english": "suitcase",
+      "article": "der",
+      "word": "Koffer",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "id": "der-koffer",
+      "image": "../images/cards/generated/der-koffer.svg",
+      "level": "A1-A2",
+      "tags": [
+        "transport",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🧳"
+    },
+    {
+      "german": "die Reise",
+      "english": "trip",
+      "article": "die",
+      "word": "Reise",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "id": "die-reise",
+      "image": "../images/cards/generated/die-reise.svg",
+      "level": "A1-A2",
+      "tags": [
+        "transport",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🧳"
+    },
+    {
+      "german": "der Weg",
+      "english": "way",
+      "article": "der",
+      "word": "Weg",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "id": "der-weg",
+      "image": "../images/cards/generated/der-weg.svg",
+      "level": "A1-A2",
+      "tags": [
+        "transport",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "➡️"
+    },
+    {
+      "german": "der Tag",
+      "english": "day",
+      "article": "der",
+      "word": "Tag",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "der-tag",
+      "image": "../images/cards/generated/der-tag.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "☀️"
+    },
+    {
+      "german": "die Nacht",
+      "english": "night",
+      "article": "die",
+      "word": "Nacht",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "die-nacht",
+      "image": "../images/cards/generated/die-nacht.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🌙"
+    },
+    {
+      "german": "der Morgen",
+      "english": "morning",
+      "article": "der",
+      "word": "Morgen",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "der-morgen",
+      "image": "../images/cards/generated/der-morgen.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🌅"
+    },
+    {
+      "german": "der Abend",
+      "english": "evening",
+      "article": "der",
+      "word": "Abend",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "der-abend",
+      "image": "../images/cards/generated/der-abend.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "🌇"
+    },
+    {
+      "german": "die Woche",
+      "english": "week",
+      "article": "die",
+      "word": "Woche",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "die-woche",
+      "image": "../images/cards/generated/die-woche.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🗓️"
+    },
+    {
+      "german": "der Monat",
+      "english": "month",
+      "article": "der",
+      "word": "Monat",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "der-monat",
+      "image": "../images/cards/generated/der-monat.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "📅"
+    },
+    {
+      "german": "das Jahr",
+      "english": "year",
+      "article": "das",
+      "word": "Jahr",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "das-jahr",
+      "image": "../images/cards/generated/das-jahr.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "das"
+      ],
+      "visualCue": "📆"
+    },
+    {
+      "german": "die Stunde",
+      "english": "hour",
+      "article": "die",
+      "word": "Stunde",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "die-stunde",
+      "image": "../images/cards/generated/die-stunde.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "🕐"
+    },
+    {
+      "german": "die Minute",
+      "english": "minute",
+      "article": "die",
+      "word": "Minute",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "die-minute",
+      "image": "../images/cards/generated/die-minute.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "⏱️"
+    },
+    {
+      "german": "der Termin",
+      "english": "appointment",
+      "article": "der",
+      "word": "Termin",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "der-termin",
+      "image": "../images/cards/generated/der-termin.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "📌"
+    },
+    {
+      "german": "der Kalender",
+      "english": "calendar",
+      "article": "der",
+      "word": "Kalender",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "der-kalender",
+      "image": "../images/cards/generated/der-kalender.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "📅"
+    },
+    {
+      "german": "die Zeit",
+      "english": "time",
+      "article": "die",
+      "word": "Zeit",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "die-zeit",
+      "image": "../images/cards/generated/die-zeit.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "die"
+      ],
+      "visualCue": "⏰"
+    },
+    {
+      "german": "der Montag",
+      "english": "Monday",
+      "article": "der",
+      "word": "Montag",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "der-montag",
+      "image": "../images/cards/generated/der-montag.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "1"
+    },
+    {
+      "german": "der Dienstag",
+      "english": "Tuesday",
+      "article": "der",
+      "word": "Dienstag",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "der-dienstag",
+      "image": "../images/cards/generated/der-dienstag.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "2"
+    },
+    {
+      "german": "der Mittwoch",
+      "english": "Wednesday",
+      "article": "der",
+      "word": "Mittwoch",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "der-mittwoch",
+      "image": "../images/cards/generated/der-mittwoch.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "3"
+    },
+    {
+      "german": "der Donnerstag",
+      "english": "Thursday",
+      "article": "der",
+      "word": "Donnerstag",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "der-donnerstag",
+      "image": "../images/cards/generated/der-donnerstag.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "4"
+    },
+    {
+      "german": "der Freitag",
+      "english": "Friday",
+      "article": "der",
+      "word": "Freitag",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "der-freitag",
+      "image": "../images/cards/generated/der-freitag.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "5"
+    },
+    {
+      "german": "der Samstag",
+      "english": "Saturday",
+      "article": "der",
+      "word": "Samstag",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "der-samstag",
+      "image": "../images/cards/generated/der-samstag.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "6"
+    },
+    {
+      "german": "der Sonntag",
+      "english": "Sunday",
+      "article": "der",
+      "word": "Sonntag",
+      "category": "time",
+      "partOfSpeech": "noun",
+      "id": "der-sonntag",
+      "image": "../images/cards/generated/der-sonntag.svg",
+      "level": "A1-A2",
+      "tags": [
+        "time",
+        "noun",
+        "a1-a2",
+        "der"
+      ],
+      "visualCue": "7"
+    },
+    {
+      "german": "sein",
+      "english": "to be",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "sein",
+      "image": "../images/cards/generated/sein.svg",
+      "level": "A1-A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a1-a2"
+      ],
+      "visualCue": "="
+    },
+    {
+      "german": "haben",
+      "english": "to have",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "haben",
+      "image": "../images/cards/generated/haben.svg",
+      "level": "A1-A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a1-a2"
+      ],
+      "visualCue": "🤲"
+    },
+    {
+      "german": "machen",
+      "english": "to do",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "machen",
+      "image": "../images/cards/generated/machen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🛠️"
+    },
+    {
+      "german": "gehen",
+      "english": "to go",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "gehen",
+      "image": "../images/cards/generated/gehen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🚶"
+    },
+    {
+      "german": "kommen",
+      "english": "to come",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "kommen",
+      "image": "../images/cards/generated/kommen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "👋"
+    },
+    {
+      "german": "sehen",
+      "english": "to see",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "sehen",
+      "image": "../images/cards/generated/sehen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "👀"
+    },
+    {
+      "german": "hören",
+      "english": "to hear",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "horen",
+      "image": "../images/cards/generated/horen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "👂"
+    },
+    {
+      "german": "sprechen",
+      "english": "to speak",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "sprechen",
+      "image": "../images/cards/generated/sprechen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "💬"
+    },
+    {
+      "german": "sagen",
+      "english": "to say",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "sagen",
+      "image": "../images/cards/generated/sagen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🗨️"
+    },
+    {
+      "german": "fragen",
+      "english": "to ask",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "fragen",
+      "image": "../images/cards/generated/fragen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "❓"
+    },
+    {
+      "german": "antworten",
+      "english": "to answer",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "antworten",
+      "image": "../images/cards/generated/antworten.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "✅"
+    },
+    {
+      "german": "lernen",
+      "english": "to learn",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "lernen",
+      "image": "../images/cards/generated/lernen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "📚"
+    },
+    {
+      "german": "lesen",
+      "english": "to read",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "lesen",
+      "image": "../images/cards/generated/lesen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "📖"
+    },
+    {
+      "german": "schreiben",
+      "english": "to write",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "schreiben",
+      "image": "../images/cards/generated/schreiben.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "✍️"
+    },
+    {
+      "german": "rechnen",
+      "english": "to calculate",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "rechnen",
+      "image": "../images/cards/generated/rechnen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "➕"
+    },
+    {
+      "german": "spielen",
+      "english": "to play",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "spielen",
+      "image": "../images/cards/generated/spielen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🎮"
+    },
+    {
+      "german": "arbeiten",
+      "english": "to work",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "arbeiten",
+      "image": "../images/cards/generated/arbeiten.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "💼"
+    },
+    {
+      "german": "wohnen",
+      "english": "to live",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "wohnen",
+      "image": "../images/cards/generated/wohnen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🏠"
+    },
+    {
+      "german": "leben",
+      "english": "to live",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "leben",
+      "image": "../images/cards/generated/leben.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🏡"
+    },
+    {
+      "german": "essen",
+      "english": "to eat",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "essen",
+      "image": "../images/cards/generated/essen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🍽️"
+    },
+    {
+      "german": "trinken",
+      "english": "to drink",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "trinken",
+      "image": "../images/cards/generated/trinken.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🥛"
+    },
+    {
+      "german": "kochen",
+      "english": "to cook",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "kochen",
+      "image": "../images/cards/generated/kochen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🍳"
+    },
+    {
+      "german": "kaufen",
+      "english": "to buy",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "kaufen",
+      "image": "../images/cards/generated/kaufen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🛒"
+    },
+    {
+      "german": "bezahlen",
+      "english": "to pay",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "bezahlen",
+      "image": "../images/cards/generated/bezahlen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "💳"
+    },
+    {
+      "german": "suchen",
+      "english": "to search",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "suchen",
+      "image": "../images/cards/generated/suchen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🔎"
+    },
+    {
+      "german": "finden",
+      "english": "to find",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "finden",
+      "image": "../images/cards/generated/finden.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🎯"
+    },
+    {
+      "german": "brauchen",
+      "english": "to need",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "brauchen",
+      "image": "../images/cards/generated/brauchen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "❗"
+    },
+    {
+      "german": "möchten",
+      "english": "would like",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "mochten",
+      "image": "../images/cards/generated/mochten.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🙋"
+    },
+    {
+      "german": "können",
+      "english": "can",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "konnen",
+      "image": "../images/cards/generated/konnen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "💪"
+    },
+    {
+      "german": "müssen",
+      "english": "must",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "mussen",
+      "image": "../images/cards/generated/mussen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "!"
+    },
+    {
+      "german": "dürfen",
+      "english": "may",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "durfen",
+      "image": "../images/cards/generated/durfen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "✅"
+    },
+    {
+      "german": "wollen",
+      "english": "to want",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "wollen",
+      "image": "../images/cards/generated/wollen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🎯"
+    },
+    {
+      "german": "sollen",
+      "english": "should",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "sollen",
+      "image": "../images/cards/generated/sollen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "☝️"
+    },
+    {
+      "german": "mögen",
+      "english": "to like",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "mogen",
+      "image": "../images/cards/generated/mogen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "❤️"
+    },
+    {
+      "german": "schlafen",
+      "english": "to sleep",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "schlafen",
+      "image": "../images/cards/generated/schlafen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "😴"
+    },
+    {
+      "german": "aufstehen",
+      "english": "to get up",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "aufstehen",
+      "image": "../images/cards/generated/aufstehen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🌅"
+    },
+    {
+      "german": "sitzen",
+      "english": "to sit",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "sitzen",
+      "image": "../images/cards/generated/sitzen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🪑"
+    },
+    {
+      "german": "stehen",
+      "english": "to stand",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "stehen",
+      "image": "../images/cards/generated/stehen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🧍"
+    },
+    {
+      "german": "liegen",
+      "english": "to lie",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "liegen",
+      "image": "../images/cards/generated/liegen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🛏️"
+    },
+    {
+      "german": "fahren",
+      "english": "to ride",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "fahren",
+      "image": "../images/cards/generated/fahren.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🚗"
+    },
+    {
+      "german": "laufen",
+      "english": "to run",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "laufen",
+      "image": "../images/cards/generated/laufen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🏃"
+    },
+    {
+      "german": "schwimmen",
+      "english": "to swim",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "schwimmen",
+      "image": "../images/cards/generated/schwimmen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🏊"
+    },
+    {
+      "german": "tanzen",
+      "english": "to dance",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "tanzen",
+      "image": "../images/cards/generated/tanzen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "💃"
+    },
+    {
+      "german": "singen",
+      "english": "to sing",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "singen",
+      "image": "../images/cards/generated/singen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🎤"
+    },
+    {
+      "german": "lachen",
+      "english": "to laugh",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "lachen",
+      "image": "../images/cards/generated/lachen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "😄"
+    },
+    {
+      "german": "weinen",
+      "english": "to cry",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "weinen",
+      "image": "../images/cards/generated/weinen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "😢"
+    },
+    {
+      "german": "helfen",
+      "english": "to help",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "helfen",
+      "image": "../images/cards/generated/helfen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🤝"
+    },
+    {
+      "german": "geben",
+      "english": "to give",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "geben",
+      "image": "../images/cards/generated/geben.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🎁"
+    },
+    {
+      "german": "nehmen",
+      "english": "to take",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "nehmen",
+      "image": "../images/cards/generated/nehmen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🤲"
+    },
+    {
+      "german": "bringen",
+      "english": "to bring",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "bringen",
+      "image": "../images/cards/generated/bringen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "📦"
+    },
+    {
+      "german": "öffnen",
+      "english": "to open",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "offnen",
+      "image": "../images/cards/generated/offnen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🔓"
+    },
+    {
+      "german": "schließen",
+      "english": "to close",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "schlieen",
+      "image": "../images/cards/generated/schlieen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🔒"
+    },
+    {
+      "german": "warten",
+      "english": "to wait",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "warten",
+      "image": "../images/cards/generated/warten.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "⏳"
+    },
+    {
+      "german": "beginnen",
+      "english": "to begin",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "beginnen",
+      "image": "../images/cards/generated/beginnen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "▶️"
+    },
+    {
+      "german": "enden",
+      "english": "to end",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "enden",
+      "image": "../images/cards/generated/enden.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "⏹️"
+    },
+    {
+      "german": "verstehen",
+      "english": "to understand",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "verstehen",
+      "image": "../images/cards/generated/verstehen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "💡"
+    },
+    {
+      "german": "erklären",
+      "english": "to explain",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "erklaren",
+      "image": "../images/cards/generated/erklaren.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🧑‍🏫"
+    },
+    {
+      "german": "wiederholen",
+      "english": "to repeat",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "wiederholen",
+      "image": "../images/cards/generated/wiederholen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🔁"
+    },
+    {
+      "german": "üben",
+      "english": "to practice",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "uben",
+      "image": "../images/cards/generated/uben.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "✍️"
+    },
+    {
+      "german": "reisen",
+      "english": "to travel",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "reisen",
+      "image": "../images/cards/generated/reisen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🧳"
+    },
+    {
+      "german": "besuchen",
+      "english": "to visit",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "besuchen",
+      "image": "../images/cards/generated/besuchen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🚪"
+    },
+    {
+      "german": "treffen",
+      "english": "to meet",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "treffen",
+      "image": "../images/cards/generated/treffen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🤝"
+    },
+    {
+      "german": "anrufen",
+      "english": "to call",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "anrufen",
+      "image": "../images/cards/generated/anrufen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "📞"
+    },
+    {
+      "german": "putzen",
+      "english": "to clean",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "putzen",
+      "image": "../images/cards/generated/putzen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🧽"
+    },
+    {
+      "german": "waschen",
+      "english": "to wash",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "waschen",
+      "image": "../images/cards/generated/waschen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🧼"
+    },
+    {
+      "german": "tragen",
+      "english": "to carry",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "tragen",
+      "image": "../images/cards/generated/tragen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "📦"
+    },
+    {
+      "german": "tragen",
+      "english": "to wear",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "tragen-2",
+      "image": "../images/cards/generated/tragen-2.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "👕"
+    },
+    {
+      "german": "zeigen",
+      "english": "to show",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "zeigen",
+      "image": "../images/cards/generated/zeigen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "👉"
+    },
+    {
+      "german": "lieben",
+      "english": "to love",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "lieben",
+      "image": "../images/cards/generated/lieben.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "❤️"
+    },
+    {
+      "german": "denken",
+      "english": "to think",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "denken",
+      "image": "../images/cards/generated/denken.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "💭"
+    },
+    {
+      "german": "bleiben",
+      "english": "to stay",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "bleiben",
+      "image": "../images/cards/generated/bleiben.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "📍"
+    },
+    {
+      "german": "fehlen",
+      "english": "to be missing",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "fehlen",
+      "image": "../images/cards/generated/fehlen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "❔"
+    },
+    {
+      "german": "passen",
+      "english": "to fit",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "passen",
+      "image": "../images/cards/generated/passen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🧩"
+    },
+    {
+      "german": "gefallen",
+      "english": "to please",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "gefallen",
+      "image": "../images/cards/generated/gefallen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "👍"
+    },
+    {
+      "german": "probieren",
+      "english": "to try",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "probieren",
+      "image": "../images/cards/generated/probieren.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🧪"
+    },
+    {
+      "german": "bestellen",
+      "english": "to order",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "bestellen",
+      "image": "../images/cards/generated/bestellen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🧾"
+    },
+    {
+      "german": "buchstabieren",
+      "english": "to spell",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "buchstabieren",
+      "image": "../images/cards/generated/buchstabieren.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🔤"
+    },
+    {
+      "german": "zählen",
+      "english": "to count",
+      "category": "verbs",
+      "partOfSpeech": "verb",
+      "id": "zahlen",
+      "image": "../images/cards/generated/zahlen.svg",
+      "level": "A2",
+      "tags": [
+        "verbs",
+        "verb",
+        "a2"
+      ],
+      "visualCue": "🔢"
+    },
+    {
+      "german": "gut",
+      "english": "good",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "gut",
+      "image": "../images/cards/generated/gut.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "👍"
+    },
+    {
+      "german": "schlecht",
+      "english": "bad",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "schlecht",
+      "image": "../images/cards/generated/schlecht.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "👎"
+    },
+    {
+      "german": "groß",
+      "english": "big",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "gro",
+      "image": "../images/cards/generated/gro.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "⬆️"
+    },
+    {
+      "german": "klein",
+      "english": "small",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "klein",
+      "image": "../images/cards/generated/klein.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "⬇️"
+    },
+    {
+      "german": "lang",
+      "english": "long",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "lang",
+      "image": "../images/cards/generated/lang.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "↔️"
+    },
+    {
+      "german": "kurz",
+      "english": "short",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "kurz",
+      "image": "../images/cards/generated/kurz.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "↔"
+    },
+    {
+      "german": "schnell",
+      "english": "fast",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "schnell",
+      "image": "../images/cards/generated/schnell.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "⚡"
+    },
+    {
+      "german": "langsam",
+      "english": "slow",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "langsam",
+      "image": "../images/cards/generated/langsam.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🐢"
+    },
+    {
+      "german": "warm",
+      "english": "warm",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "warm",
+      "image": "../images/cards/generated/warm.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🌤️"
+    },
+    {
+      "german": "kalt",
+      "english": "cold",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "kalt",
+      "image": "../images/cards/generated/kalt.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🧊"
+    },
+    {
+      "german": "heiß",
+      "english": "hot",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "hei",
+      "image": "../images/cards/generated/hei.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🔥"
+    },
+    {
+      "german": "neu",
+      "english": "new",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "neu",
+      "image": "../images/cards/generated/neu.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "✨"
+    },
+    {
+      "german": "alt",
+      "english": "old",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "alt",
+      "image": "../images/cards/generated/alt.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🕰️"
+    },
+    {
+      "german": "jung",
+      "english": "young",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "jung",
+      "image": "../images/cards/generated/jung.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🌱"
+    },
+    {
+      "german": "schön",
+      "english": "beautiful",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "schon",
+      "image": "../images/cards/generated/schon.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🌟"
+    },
+    {
+      "german": "leicht",
+      "english": "light",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "leicht",
+      "image": "../images/cards/generated/leicht.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🪶"
+    },
+    {
+      "german": "schwer",
+      "english": "heavy",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "schwer",
+      "image": "../images/cards/generated/schwer.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🏋️"
+    },
+    {
+      "german": "einfach",
+      "english": "easy",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "einfach",
+      "image": "../images/cards/generated/einfach.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "✅"
+    },
+    {
+      "german": "schwierig",
+      "english": "difficult",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "schwierig",
+      "image": "../images/cards/generated/schwierig.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🧩"
+    },
+    {
+      "german": "richtig",
+      "english": "correct",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "richtig",
+      "image": "../images/cards/generated/richtig.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "✅"
+    },
+    {
+      "german": "falsch",
+      "english": "wrong",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "falsch",
+      "image": "../images/cards/generated/falsch.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "❌"
+    },
+    {
+      "german": "voll",
+      "english": "full",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "voll",
+      "image": "../images/cards/generated/voll.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "⬛"
+    },
+    {
+      "german": "leer",
+      "english": "empty",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "leer",
+      "image": "../images/cards/generated/leer.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "⬜"
+    },
+    {
+      "german": "laut",
+      "english": "loud",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "laut",
+      "image": "../images/cards/generated/laut.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🔊"
+    },
+    {
+      "german": "leise",
+      "english": "quiet",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "leise",
+      "image": "../images/cards/generated/leise.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🔈"
+    },
+    {
+      "german": "sauber",
+      "english": "clean",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "sauber",
+      "image": "../images/cards/generated/sauber.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "✨"
+    },
+    {
+      "german": "schmutzig",
+      "english": "dirty",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "schmutzig",
+      "image": "../images/cards/generated/schmutzig.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🟤"
+    },
+    {
+      "german": "müde",
+      "english": "tired",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "mude",
+      "image": "../images/cards/generated/mude.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "😴"
+    },
+    {
+      "german": "wach",
+      "english": "awake",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "wach",
+      "image": "../images/cards/generated/wach.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "👀"
+    },
+    {
+      "german": "glücklich",
+      "english": "happy",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "glucklich",
+      "image": "../images/cards/generated/glucklich.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "😊"
+    },
+    {
+      "german": "traurig",
+      "english": "sad",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "traurig",
+      "image": "../images/cards/generated/traurig.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "😢"
+    },
+    {
+      "german": "freundlich",
+      "english": "friendly",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "freundlich",
+      "image": "../images/cards/generated/freundlich.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🙂"
+    },
+    {
+      "german": "nett",
+      "english": "nice",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "nett",
+      "image": "../images/cards/generated/nett.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "😊"
+    },
+    {
+      "german": "wichtig",
+      "english": "important",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "wichtig",
+      "image": "../images/cards/generated/wichtig.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "❗"
+    },
+    {
+      "german": "möglich",
+      "english": "possible",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "moglich",
+      "image": "../images/cards/generated/moglich.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "✅"
+    },
+    {
+      "german": "billig",
+      "english": "cheap",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "billig",
+      "image": "../images/cards/generated/billig.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "💵"
+    },
+    {
+      "german": "teuer",
+      "english": "expensive",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "teuer",
+      "image": "../images/cards/generated/teuer.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "💎"
+    },
+    {
+      "german": "früh",
+      "english": "early",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "fruh",
+      "image": "../images/cards/generated/fruh.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🌅"
+    },
+    {
+      "german": "spät",
+      "english": "late",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "spat",
+      "image": "../images/cards/generated/spat.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🌙"
+    },
+    {
+      "german": "nah",
+      "english": "near",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "nah",
+      "image": "../images/cards/generated/nah.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "📍"
+    },
+    {
+      "german": "weit",
+      "english": "far",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "weit",
+      "image": "../images/cards/generated/weit.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🧭"
+    },
+    {
+      "german": "dunkel",
+      "english": "dark",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "dunkel",
+      "image": "../images/cards/generated/dunkel.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🌑"
+    },
+    {
+      "german": "hell",
+      "english": "bright",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "hell",
+      "image": "../images/cards/generated/hell.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "💡"
+    },
+    {
+      "german": "rot",
+      "english": "red",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "rot",
+      "image": "../images/cards/generated/rot.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🔴"
+    },
+    {
+      "german": "blau",
+      "english": "blue",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "blau",
+      "image": "../images/cards/generated/blau.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🔵"
+    },
+    {
+      "german": "grün",
+      "english": "green",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "grun",
+      "image": "../images/cards/generated/grun.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🟢"
+    },
+    {
+      "german": "gelb",
+      "english": "yellow",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "gelb",
+      "image": "../images/cards/generated/gelb.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🟡"
+    },
+    {
+      "german": "schwarz",
+      "english": "black",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "schwarz",
+      "image": "../images/cards/generated/schwarz.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "⚫"
+    },
+    {
+      "german": "weiß",
+      "english": "white",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "wei",
+      "image": "../images/cards/generated/wei.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "⚪"
+    },
+    {
+      "german": "orange",
+      "english": "orange",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "orange",
+      "image": "../images/cards/generated/orange.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🟠"
+    },
+    {
+      "german": "rosa",
+      "english": "pink",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "rosa",
+      "image": "../images/cards/generated/rosa.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🌸"
+    },
+    {
+      "german": "braun",
+      "english": "brown",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "braun",
+      "image": "../images/cards/generated/braun.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🟤"
+    },
+    {
+      "german": "grau",
+      "english": "gray",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "grau",
+      "image": "../images/cards/generated/grau.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "⚙️"
+    },
+    {
+      "german": "rund",
+      "english": "round",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "rund",
+      "image": "../images/cards/generated/rund.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "⭕"
+    },
+    {
+      "german": "eckig",
+      "english": "angular",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "eckig",
+      "image": "../images/cards/generated/eckig.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "⬛"
+    },
+    {
+      "german": "weich",
+      "english": "soft",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "weich",
+      "image": "../images/cards/generated/weich.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🧸"
+    },
+    {
+      "german": "hart",
+      "english": "hard",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "hart",
+      "image": "../images/cards/generated/hart.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🪨"
+    },
+    {
+      "german": "süß",
+      "english": "sweet",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "su",
+      "image": "../images/cards/generated/su.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🍬"
+    },
+    {
+      "german": "sauer",
+      "english": "sour",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "sauer",
+      "image": "../images/cards/generated/sauer.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🍋"
+    },
+    {
+      "german": "salzig",
+      "english": "salty",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "id": "salzig",
+      "image": "../images/cards/generated/salzig.svg",
+      "level": "A2",
+      "tags": [
+        "adjectives",
+        "adjective",
+        "a2"
+      ],
+      "visualCue": "🧂"
+    },
+    {
+      "german": "Hallo!",
+      "english": "Hello!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "hallo",
+      "image": "../images/cards/generated/hallo.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "👋"
+    },
+    {
+      "german": "Guten Morgen!",
+      "english": "Good morning!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "guten-morgen",
+      "image": "../images/cards/generated/guten-morgen.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🌅"
+    },
+    {
+      "german": "Guten Tag!",
+      "english": "Good day!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "guten-tag",
+      "image": "../images/cards/generated/guten-tag.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "☀️"
+    },
+    {
+      "german": "Guten Abend!",
+      "english": "Good evening!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "guten-abend",
+      "image": "../images/cards/generated/guten-abend.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🌇"
+    },
+    {
+      "german": "Gute Nacht!",
+      "english": "Good night!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "gute-nacht",
+      "image": "../images/cards/generated/gute-nacht.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🌙"
+    },
+    {
+      "german": "Tschüss!",
+      "english": "Bye!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "tschuss",
+      "image": "../images/cards/generated/tschuss.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "👋"
+    },
+    {
+      "german": "Bis später!",
+      "english": "See you later!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "bis-spater",
+      "image": "../images/cards/generated/bis-spater.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "⏰"
+    },
+    {
+      "german": "Bis morgen!",
+      "english": "See you tomorrow!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "bis-morgen",
+      "image": "../images/cards/generated/bis-morgen.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🌅"
+    },
+    {
+      "german": "Danke.",
+      "english": "Thanks.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "danke",
+      "image": "../images/cards/generated/danke.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🙏"
+    },
+    {
+      "german": "Danke schön.",
+      "english": "Thank you very much.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "danke-schon",
+      "image": "../images/cards/generated/danke-schon.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🙏"
+    },
+    {
+      "german": "Bitte.",
+      "english": "Please.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "bitte",
+      "image": "../images/cards/generated/bitte.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🙌"
+    },
+    {
+      "german": "Entschuldigung.",
+      "english": "Excuse me.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "entschuldigung",
+      "image": "../images/cards/generated/entschuldigung.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🙇"
+    },
+    {
+      "german": "Kein Problem.",
+      "english": "No problem.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "kein-problem",
+      "image": "../images/cards/generated/kein-problem.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "👍"
+    },
+    {
+      "german": "Wie heißt du?",
+      "english": "What is your name?",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "wie-heit-du",
+      "image": "../images/cards/generated/wie-heit-du.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🏷️"
+    },
+    {
+      "german": "Ich heiße ...",
+      "english": "My name is ...",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "ich-heie",
+      "image": "../images/cards/generated/ich-heie.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🏷️"
+    },
+    {
+      "german": "Wie geht es dir?",
+      "english": "How are you?",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "wie-geht-es-dir",
+      "image": "../images/cards/generated/wie-geht-es-dir.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🙂"
+    },
+    {
+      "german": "Mir geht es gut.",
+      "english": "I am doing well.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "mir-geht-es-gut",
+      "image": "../images/cards/generated/mir-geht-es-gut.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "😊"
+    },
+    {
+      "german": "Ich verstehe.",
+      "english": "I understand.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "ich-verstehe",
+      "image": "../images/cards/generated/ich-verstehe.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "💡"
+    },
+    {
+      "german": "Ich verstehe nicht.",
+      "english": "I do not understand.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "ich-verstehe-nicht",
+      "image": "../images/cards/generated/ich-verstehe-nicht.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "❓"
+    },
+    {
+      "german": "Noch einmal, bitte.",
+      "english": "One more time, please.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "noch-einmal-bitte",
+      "image": "../images/cards/generated/noch-einmal-bitte.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🔁"
+    },
+    {
+      "german": "Langsam, bitte.",
+      "english": "Slowly, please.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "langsam-bitte",
+      "image": "../images/cards/generated/langsam-bitte.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🐢"
+    },
+    {
+      "german": "Was bedeutet das?",
+      "english": "What does that mean?",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "was-bedeutet-das",
+      "image": "../images/cards/generated/was-bedeutet-das.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "❓"
+    },
+    {
+      "german": "Wo ist ...?",
+      "english": "Where is ...?",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "wo-ist",
+      "image": "../images/cards/generated/wo-ist.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "📍"
+    },
+    {
+      "german": "Ich komme aus ...",
+      "english": "I come from ...",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "ich-komme-aus",
+      "image": "../images/cards/generated/ich-komme-aus.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🗺️"
+    },
+    {
+      "german": "Ich wohne in ...",
+      "english": "I live in ...",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "ich-wohne-in",
+      "image": "../images/cards/generated/ich-wohne-in.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🏠"
+    },
+    {
+      "german": "Ich lerne Deutsch.",
+      "english": "I am learning German.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "ich-lerne-deutsch",
+      "image": "../images/cards/generated/ich-lerne-deutsch.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🇩🇪"
+    },
+    {
+      "german": "Sprechen Sie Englisch?",
+      "english": "Do you speak English?",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "sprechen-sie-englisch",
+      "image": "../images/cards/generated/sprechen-sie-englisch.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "💬"
+    },
+    {
+      "german": "Ich hätte gern ...",
+      "english": "I would like ...",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "ich-hatte-gern",
+      "image": "../images/cards/generated/ich-hatte-gern.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🙋"
+    },
+    {
+      "german": "Wie viel kostet das?",
+      "english": "How much does that cost?",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "wie-viel-kostet-das",
+      "image": "../images/cards/generated/wie-viel-kostet-das.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "💶"
+    },
+    {
+      "german": "Hilfe!",
+      "english": "Help!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "hilfe",
+      "image": "../images/cards/generated/hilfe.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🆘"
+    },
+    {
+      "german": "Viel Spaß!",
+      "english": "Have fun!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "viel-spa",
+      "image": "../images/cards/generated/viel-spa.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🎉"
+    },
+    {
+      "german": "Gute Idee!",
+      "english": "Good idea!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "gute-idee",
+      "image": "../images/cards/generated/gute-idee.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "💡"
+    },
+    {
+      "german": "Sehr gut!",
+      "english": "Very good!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "sehr-gut",
+      "image": "../images/cards/generated/sehr-gut.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🌟"
+    },
+    {
+      "german": "Mach weiter!",
+      "english": "Keep going!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "mach-weiter",
+      "image": "../images/cards/generated/mach-weiter.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "➡️"
+    },
+    {
+      "german": "Herzlichen Glückwunsch!",
+      "english": "Congratulations!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "herzlichen-gluckwunsch",
+      "image": "../images/cards/generated/herzlichen-gluckwunsch.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🎉"
+    },
+    {
+      "german": "Alles Gute!",
+      "english": "All the best!",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "alles-gute",
+      "image": "../images/cards/generated/alles-gute.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🎁"
+    },
+    {
+      "german": "Einen Moment, bitte.",
+      "english": "One moment, please.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "einen-moment-bitte",
+      "image": "../images/cards/generated/einen-moment-bitte.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "⏳"
+    },
+    {
+      "german": "Kannst du mir helfen?",
+      "english": "Can you help me?",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "kannst-du-mir-helfen",
+      "image": "../images/cards/generated/kannst-du-mir-helfen.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🤝"
+    },
+    {
+      "german": "Ich bin fertig.",
+      "english": "I am finished.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "ich-bin-fertig",
+      "image": "../images/cards/generated/ich-bin-fertig.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "✅"
+    },
+    {
+      "german": "Das ist richtig.",
+      "english": "That is correct.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "das-ist-richtig",
+      "image": "../images/cards/generated/das-ist-richtig.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "✅"
+    },
+    {
+      "german": "Das ist falsch.",
+      "english": "That is wrong.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "das-ist-falsch",
+      "image": "../images/cards/generated/das-ist-falsch.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "❌"
+    },
+    {
+      "german": "Ich bin dran.",
+      "english": "It is my turn.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "ich-bin-dran",
+      "image": "../images/cards/generated/ich-bin-dran.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🙋"
+    },
+    {
+      "german": "Du bist dran.",
+      "english": "It is your turn.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "du-bist-dran",
+      "image": "../images/cards/generated/du-bist-dran.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "👉"
+    },
+    {
+      "german": "Ich mag das.",
+      "english": "I like that.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "ich-mag-das",
+      "image": "../images/cards/generated/ich-mag-das.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "❤️"
+    },
+    {
+      "german": "Ich habe Hunger.",
+      "english": "I am hungry.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "ich-habe-hunger",
+      "image": "../images/cards/generated/ich-habe-hunger.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🍽️"
+    },
+    {
+      "german": "Ich habe Durst.",
+      "english": "I am thirsty.",
+      "category": "phrases",
+      "partOfSpeech": "phrase",
+      "id": "ich-habe-durst",
+      "image": "../images/cards/generated/ich-habe-durst.svg",
+      "level": "A2",
+      "tags": [
+        "phrases",
+        "phrase",
+        "a2"
+      ],
+      "visualCue": "🥛"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="92" viewBox="0 0 720 92" role="img" aria-label="Grammar section ribbon">
+  <defs>
+    <linearGradient id="grammarRibbon" x1="0" x2="1">
+      <stop offset="0" stop-color="#7A6FF0"/>
+      <stop offset="0.52" stop-color="#F36F5B"/>
+      <stop offset="1" stop-color="#F9C74F"/>
+    </linearGradient>
+    <filter id="softShadow" x="-5%" y="-40%" width="110%" height="180%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#263238" flood-opacity=".14"/>
+    </filter>
+  </defs>
+  <path filter="url(#softShadow)" d="M31 21h626c18 0 32 14 32 32s-14 32-32 32H31c-15 0-25-16-18-29l8-14-8-15c-7-13 3-29 18-29Z" fill="url(#grammarRibbon)" opacity=".95"/>
+  <circle cx="72" cy="53" r="18" fill="#FFFDF7" opacity=".95"/>
+  <path d="M62 61c12-23 27-23 39 0M73 45v26M90 45v26" stroke="#7A6FF0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="623" y="38" width="44" height="29" rx="8" fill="#FFFDF7" opacity=".88"/>
+  <path d="M635 52h21M635 60h14" stroke="#F36F5B" stroke-width="4" stroke-linecap="round"/>
+</svg>

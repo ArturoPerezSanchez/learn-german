@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 480" role="img" aria-labelledby="title desc">
+  <title id="title">das Buch vocabulary card</title>
+  <desc id="desc">An open book vocabulary card labeled das Buch.</desc>
+  <rect x="10" y="10" width="340" height="460" rx="24" fill="#FFFDF7" stroke="#263238" stroke-width="8"/>
+  <path d="M70 155c47-24 84-12 110 17v160c-32-26-68-34-110-14Z" fill="#5AA9E6" stroke="#263238" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M180 172c26-29 63-41 110-17v163c-42-20-78-12-110 14Z" fill="#65A765" stroke="#263238" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M180 172v160" stroke="#263238" stroke-width="7" stroke-linecap="round"/>
+  <path d="M95 211h52M95 250h44M213 211h52M213 250h38" stroke="#FFFDF7" stroke-width="9" stroke-linecap="round"/>
+  <text x="180" y="405" text-anchor="middle" fill="#263238" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="900">das Buch</text>
+</svg>
+

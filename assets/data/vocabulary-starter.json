@@ -1,0 +1,30 @@
+{
+  "levels": [
+    {
+      "id": "a1-family-home",
+      "title": "Family And Home",
+      "level": "A1",
+      "cards": [
+        {"id": "apfel", "german": "der Apfel", "english": "apple", "image": "../images/cards/apfel.svg", "tags": ["food", "noun", "masculine"]},
+        {"id": "haus", "german": "das Haus", "english": "house", "image": "../images/cards/haus.svg", "tags": ["home", "noun", "neuter"]},
+        {"id": "buch", "german": "das Buch", "english": "book", "image": "../images/cards/buch.svg", "tags": ["school", "noun", "neuter"]},
+        {"id": "familie", "german": "die Familie", "english": "family", "image": "../images/cards/familie.svg", "tags": ["people", "noun", "feminine"]},
+        {"id": "wasser", "german": "das Wasser", "english": "water", "image": "../images/cards/wasser.svg", "tags": ["drink", "noun", "neuter"]},
+        {"id": "schule", "german": "die Schule", "english": "school", "image": "../images/cards/schule.svg", "tags": ["place", "noun", "feminine"]}
+      ]
+    },
+    {
+      "id": "a1-useful-phrases",
+      "title": "Useful Phrases",
+      "level": "A1",
+      "phrases": [
+        {"german": "Guten Morgen!", "english": "Good morning!", "intent": "greeting"},
+        {"german": "Wie geht es dir?", "english": "How are you?", "intent": "check-in"},
+        {"german": "Danke schön.", "english": "Thank you.", "intent": "gratitude"},
+        {"german": "Noch einmal, bitte.", "english": "One more time, please.", "intent": "learning-request"},
+        {"german": "Ich lerne Deutsch.", "english": "I am learning German.", "intent": "introduction"}
+      ]
+    }
+  ]
+}
+

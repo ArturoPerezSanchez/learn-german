@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">Trophy icon</title>
+  <path d="M29 14h38v20c0 20-8 32-19 32S29 54 29 34Z" fill="#F9C74F" stroke="#263238" stroke-width="6"/>
+  <path d="M29 24H15c1 17 9 26 22 27M67 24h14c-1 17-9 26-22 27M48 66v12M34 82h28" fill="none" stroke="#263238" stroke-width="6" stroke-linecap="round"/>
+</svg>
+

@@ -1,0 +1,87 @@
+{
+  "id": "teacher-guide",
+  "role": "Warm German teacher guide",
+  "type": "four-frame-transparent-png-sequence",
+  "recommendedFps": 3,
+  "loopDurationMs": 3600,
+  "spriteSheet": "sprite-sheet.png",
+  "spriteSheetChromaKeySource": "sprite-sheet-chromakey.png",
+  "frames": [
+    {
+      "index": 1,
+      "state": "neutral",
+      "file": "frames/frame-1.png",
+      "sourceBox": [
+        139,
+        41,
+        503,
+        837
+      ],
+      "cropBox": [
+        121,
+        23,
+        521,
+        855
+      ],
+      "width": 400,
+      "height": 832
+    },
+    {
+      "index": 2,
+      "state": "breathe",
+      "file": "frames/frame-2.png",
+      "sourceBox": [
+        555,
+        39,
+        922,
+        837
+      ],
+      "cropBox": [
+        537,
+        21,
+        930,
+        855
+      ],
+      "width": 393,
+      "height": 834
+    },
+    {
+      "index": 3,
+      "state": "gesture",
+      "file": "frames/frame-3.png",
+      "sourceBox": [
+        938,
+        38,
+        1245,
+        836
+      ],
+      "cropBox": [
+        930,
+        20,
+        1263,
+        854
+      ],
+      "width": 333,
+      "height": 834
+    },
+    {
+      "index": 4,
+      "state": "blink",
+      "file": "frames/frame-4.png",
+      "sourceBox": [
+        1336,
+        41,
+        1701,
+        837
+      ],
+      "cropBox": [
+        1318,
+        23,
+        1719,
+        855
+      ],
+      "width": 401,
+      "height": 832
+    }
+  ]
+}

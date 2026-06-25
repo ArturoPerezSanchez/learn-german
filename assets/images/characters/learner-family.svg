@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 420" role="img" aria-labelledby="title desc">
+  <title id="title">Learner family</title>
+  <desc id="desc">A smiling family group studying German together.</desc>
+  <rect width="560" height="420" rx="28" fill="#FFFDF7"/>
+  <ellipse cx="280" cy="372" rx="210" ry="24" fill="#D7E0DF"/>
+  <g stroke="#263238" stroke-width="6" stroke-linejoin="round">
+    <circle cx="160" cy="146" r="54" fill="#F4C6A6"/>
+    <path d="M104 305c4-70 24-112 56-112s52 42 56 112Z" fill="#65A765"/>
+    <circle cx="280" cy="120" r="62" fill="#F4C6A6"/>
+    <path d="M206 320c6-88 34-140 74-140s68 52 74 140Z" fill="#5AA9E6"/>
+    <circle cx="405" cy="152" r="50" fill="#F4C6A6"/>
+    <path d="M352 305c3-68 23-106 53-106s50 38 53 106Z" fill="#F36F5B"/>
+    <rect x="200" y="276" width="160" height="86" rx="14" fill="#F9C74F"/>
+  </g>
+  <text x="225" y="330" fill="#263238" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="900">Deutsch</text>
+  <g fill="#263238">
+    <circle cx="142" cy="145" r="6"/><circle cx="178" cy="145" r="6"/>
+    <circle cx="258" cy="120" r="7"/><circle cx="302" cy="120" r="7"/>
+    <circle cx="389" cy="152" r="6"/><circle cx="421" cy="152" r="6"/>
+  </g>
+  <g fill="none" stroke="#263238" stroke-width="6" stroke-linecap="round">
+    <path d="M143 172c12 9 25 9 36 0"/>
+    <path d="M257 151c16 12 32 12 47 0"/>
+    <path d="M389 176c11 8 22 8 32 0"/>
+  </g>
+</svg>
+

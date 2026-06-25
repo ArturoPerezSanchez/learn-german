@@ -1,0 +1,60 @@
+{
+  "name": "Character Animation Sprite Previews",
+  "generatedOn": "2026-06-25",
+  "background": "transparent PNG frames generated from chroma-key source sheets",
+  "format": "four full-body frames per character: neutral, breathe, gesture, blink",
+  "characters": [
+    {
+      "id": "teacher-guide",
+      "role": "Warm German teacher guide",
+      "folder": "teacher-guide",
+      "manifest": "teacher-guide/animation-manifest.json",
+      "frames": [
+        "teacher-guide/frames/frame-1.png",
+        "teacher-guide/frames/frame-2.png",
+        "teacher-guide/frames/frame-3.png",
+        "teacher-guide/frames/frame-4.png"
+      ],
+      "spriteSheet": "teacher-guide/sprite-sheet.png"
+    },
+    {
+      "id": "child-learner",
+      "role": "Curious child learner",
+      "folder": "child-learner",
+      "manifest": "child-learner/animation-manifest.json",
+      "frames": [
+        "child-learner/frames/frame-1.png",
+        "child-learner/frames/frame-2.png",
+        "child-learner/frames/frame-3.png",
+        "child-learner/frames/frame-4.png"
+      ],
+      "spriteSheet": "child-learner/sprite-sheet.png"
+    },
+    {
+      "id": "teen-learner",
+      "role": "Friendly teen learner",
+      "folder": "teen-learner",
+      "manifest": "teen-learner/animation-manifest.json",
+      "frames": [
+        "teen-learner/frames/frame-1.png",
+        "teen-learner/frames/frame-2.png",
+        "teen-learner/frames/frame-3.png",
+        "teen-learner/frames/frame-4.png"
+      ],
+      "spriteSheet": "teen-learner/sprite-sheet.png"
+    },
+    {
+      "id": "parent-learner",
+      "role": "Encouraging parent learner",
+      "folder": "parent-learner",
+      "manifest": "parent-learner/animation-manifest.json",
+      "frames": [
+        "parent-learner/frames/frame-1.png",
+        "parent-learner/frames/frame-2.png",
+        "parent-learner/frames/frame-3.png",
+        "parent-learner/frames/frame-4.png"
+      ],
+      "spriteSheet": "parent-learner/sprite-sheet.png"
+    }
+  ]
+}
